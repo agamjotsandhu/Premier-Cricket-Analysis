@@ -1,24 +1,24 @@
 round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 1,1st,CAS vs RIC,RIC,CAS,164,10
 1,1st,CAS vs RIC,CAS,RIC,57,2
-1,1st,FIT vs FOO,FOO,FIT,118,7
-1,1st,FIT vs FOO,FIT,FOO,97,1
 1,1st,MEL vs PRA,PRA,MEL,157,8
 1,1st,MEL vs PRA,MEL,PRA,109,3
+1,1st,FIT vs FOO,FOO,FIT,118,7
+1,1st,FIT vs FOO,FIT,FOO,97,1
 1,1st,FOO vs RIC,RIC,FOO,124,8
 1,1st,FOO vs RIC,FOO,RIC,125,2
-2,1st,1st ST vs 1st CAS,1st CAS,1st ST,354,8
-2,1st,1st ST vs 1st CAS,1st ST,1st CAS,332,10
 2,1st,1st NOR vs 1st PRA,1st PRA,1st NOR,265,10
 2,1st,1st NOR vs 1st PRA,1st NOR,1st PRA,268,7
+2,1st,1st ST vs 1st CAS,1st CAS,1st ST,354,8
+2,1st,1st ST vs 1st CAS,1st ST,1st CAS,332,10
 2,1st,1st FOO vs 1st MEL,1st MEL,1st FOO,311,9d
 2,1st,1st FOO vs 1st MEL,1st FOO,1st MEL,315,3
 2,1st,1st CAR vs 1st RIC,1st RIC,1st CAR,361,8
 2,1st,1st CAR vs 1st RIC,1st CAR,1st RIC,125,10
-3,1st,1st CAR vs 1st CAS,1st CAS,1st CAR,332,5d
-3,1st,1st CAR vs 1st CAS,1st CAR,1st CAS,246,5
 3,1st,1st FOO vs 1st PRA,1st PRA,1st FOO,315,10
 3,1st,1st FOO vs 1st PRA,1st FOO,1st PRA,305,10
+3,1st,1st CAR vs 1st CAS,1st CAS,1st CAR,332,5d
+3,1st,1st CAR vs 1st CAS,1st CAR,1st CAS,246,5
 4,1st,1st CAS vs 1st MEL,1st MEL,1st CAS,348,9d
 4,1st,1st CAS vs 1st MEL,1st CAS,1st MEL,267,8
 4,1st,1st ST vs 1st FOO,1st FOO,1st ST,291,10
@@ -27,8 +27,6 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 6,1st,CAR vs FOO,CAR,FOO,160,7
 6,1st,FIT vs CAS,CAS,FIT,253,3
 6,1st,FIT vs CAS,FIT,CAS,196,9
-5,1st,1st ST vs 1st MEL,1st MEL,1st ST,265,10
-5,1st,1st ST vs 1st MEL,1st ST,1st MEL,164,9d
 6,1st,ESS vs RIN,RIN,ESS,171,8
 6,1st,ESS vs RIN,ESS,RIN,147,10
 6,1st,KIN vs GEE,GEE,KIN,174,5
@@ -39,54 +37,60 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 7,1st,CAS vs ESS,CAS,ESS,127,7
 7,1st,FRA vs ST,ST,FRA,99,9
 7,1st,FRA vs ST,FRA,ST,100,5
+5,1st,1st ST vs 1st MEL,1st MEL,1st ST,265,10
+5,1st,1st ST vs 1st MEL,1st ST,1st MEL,164,9d
+5,1st,1st ST vs 1st MEL,1st ST,2nd ST,176,4
+5,1st,1st ST vs 1st MEL,1st ST,2nd MEL,,0
 7,1st,FOO vs RIN,RIN,FOO,161,3
 7,1st,FOO vs RIN,FOO,RIN,34,5
-7,1st,CAR vs GEE,GEE,CAR,138,4
-7,1st,CAR vs GEE,CAR,GEE,149,6
 7,1st,GRE vs MEL,MEL,GRE,165,4
 7,1st,GRE vs MEL,GRE,MEL,143,6
-8,1st,KIN vs RIN,RIN,KIN,58,2
-8,1st,KIN vs RIN,KIN,RIN,63,5
+7,1st,CAR vs GEE,GEE,CAR,138,4
+7,1st,CAR vs GEE,CAR,GEE,149,6
 7,1st,MEL vs KIN,KIN,MEL,157,7
 7,1st,MEL vs KIN,MEL,KIN,113,9
+8,1st,KIN vs RIN,RIN,KIN,58,2
+8,1st,KIN vs RIN,KIN,RIN,63,5
 8,1st,MEL vs RIC,RIC,MEL,68,9
 8,1st,MEL vs RIC,MEL,RIC,52,2
-8,1st,PRA vs CAS,CAS,PRA,103,2
-8,1st,PRA vs CAS,PRA,CAS,79,6
 8,1st,FIT vs CAM,CAM,FIT,49,3
 8,1st,FIT vs CAM,FIT,CAM,53,5
-9,1st,FOO vs ST,ST,FOO,139,6
-9,1st,FOO vs ST,FOO,ST,143,5
+8,1st,PRA vs CAS,CAS,PRA,103,2
+8,1st,PRA vs CAS,PRA,CAS,79,6
 9,1st,CAM vs CAS,CAS,CAM,109,10
 9,1st,CAM vs CAS,CAM,CAS,110,1
+9,1st,FOO vs ST,ST,FOO,139,6
+9,1st,FOO vs ST,FOO,ST,143,5
 9,1st,RIN vs MEL,MEL,RIN,133,4
 9,1st,RIN vs MEL,RIN,MEL,115,8
 9,1st,GRE vs NOR,NOR,GRE,146,8
 9,1st,GRE vs NOR,GRE,NOR,148,3
-9,1st,KIN vs RIC,RIC,KIN,134,7
-9,1st,KIN vs RIC,KIN,RIC,136,4
 9,1st,FIT vs PRA,PRA,FIT,171,5
 9,1st,FIT vs PRA,FIT,PRA,153,4
+9,1st,KIN vs RIC,RIC,KIN,134,7
+9,1st,KIN vs RIC,KIN,RIC,136,4
 9,1st,GEE vs MEL,MEL,GEE,153,10
 9,1st,GEE vs MEL,GEE,MEL,154,3
-9,1st,DAN vs ESS,ESS,DAN,131,6
-9,1st,DAN vs ESS,DAN,ESS,132,5
 10,1st,CAR vs CAS,CAS,CAR,165,7
 10,1st,CAR vs CAS,CAR,CAS,131,10
+9,1st,DAN vs ESS,ESS,DAN,131,6
+9,1st,DAN vs ESS,DAN,ESS,132,5
 9,1st,CAR vs FRA,FRA,CAR,111,9
 9,1st,CAR vs FRA,CAR,FRA,116,7
-10,1st,PRA vs GRE,GRE,PRA,257,3
-10,1st,PRA vs GRE,PRA,GRE,179,9
-10,1st,ESS vs CAM,CAM,ESS,167,3
-10,1st,ESS vs CAM,ESS,CAM,170,5
 10,1st,NOR vs FIT,FIT,NOR,130,7
 10,1st,NOR vs FIT,NOR,FIT,135,5
+10,1st,ESS vs CAM,CAM,ESS,167,3
+10,1st,ESS vs CAM,ESS,CAM,170,5
+10,1st,PRA vs GRE,GRE,PRA,257,3
+10,1st,PRA vs GRE,PRA,GRE,179,9
 10,1st,RIC vs DAN,DAN,RIC,143,7
 10,1st,RIC vs DAN,RIC,DAN,98,7
-10,1st,ST vs MEL,MEL,ST,144,6
-10,1st,ST vs MEL,ST,MEL,144,8
 10,1st,RIN vs FRA,FRA,RIN,174,2
 10,1st,RIN vs FRA,RIN,FRA,119,10
+10,1st,ST vs MEL,MEL,ST,144,6
+10,1st,ST vs MEL,ST,MEL,144,8
+10,1st,ST vs MEL,ST,MEL,8,2
+10,1st,ST vs MEL,MEL,ST,12,2
 10,1st,KIN vs MEL,MEL,KIN,116,9
 10,1st,KIN vs MEL,KIN,MEL,117,2
 10,1st,GEE vs FOO,FOO,GEE,168,5
@@ -99,26 +103,26 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 11,1st,ESS vs GEE,ESS,GEE,149,4
 11,1st,CAS vs NOR,NOR,CAS,203,6
 11,1st,CAS vs NOR,CAS,NOR,170,7
-11,1st,DAN vs RIN,RIN,DAN,112,6
-11,1st,DAN vs RIN,DAN,RIN,115,4
 11,1st,RIC vs FRA,FRA,RIC,155,9
 11,1st,RIC vs FRA,RIC,FRA,142,8
-11,1st,FIT vs CAR,CAR,FIT,182,8
-11,1st,FIT vs CAR,FIT,CAR,184,9
+11,1st,DAN vs RIN,RIN,DAN,112,6
+11,1st,DAN vs RIN,DAN,RIN,115,4
 11,1st,PRA vs KIN,KIN,PRA,139,7
 11,1st,PRA vs KIN,PRA,KIN,94,10
+11,1st,FIT vs CAR,CAR,FIT,182,8
+11,1st,FIT vs CAR,FIT,CAR,184,9
+12,1st,RIC vs FOO,FOO,RIC,151,7
+12,1st,RIC vs FOO,RIC,FOO,154,4
 11,1st,CAM vs FOO,FOO,CAM,171,3
 11,1st,CAM vs FOO,CAM,FOO,173,5
 12,1st,DAN vs FRA,FRA,DAN,133,10
 12,1st,DAN vs FRA,DAN,FRA,134,6
-12,1st,RIC vs FOO,FOO,RIC,151,7
-12,1st,RIC vs FOO,RIC,FOO,154,4
 12,1st,MEL vs FIT,FIT,MEL,145,10
 12,1st,MEL vs FIT,MEL,FIT,149,6
-12,1st,CAR vs ESS,ESS,CAR,285,9
-12,1st,CAR vs ESS,CAR,ESS,169,10
 12,1st,GRE vs CAS,CAS,GRE,181,7
 12,1st,GRE vs CAS,GRE,CAS,182,5
+12,1st,CAR vs ESS,ESS,CAR,285,9
+12,1st,CAR vs ESS,CAR,ESS,169,10
 12,1st,GEE vs ST,ST,GEE,229,9
 12,1st,GEE vs ST,GEE,ST,230,3
 12,1st,CAM vs RIN,RIN,CAM,212,8
@@ -129,130 +133,142 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 12,1st,KIN vs NOR,KIN,NOR,191,5
 13,1st,CAM vs FRA,FRA,CAM,259,3
 13,1st,CAM vs FRA,CAM,FRA,245,10
-13,1st,FOO vs FIT,FIT,FOO,354,2
-13,1st,FOO vs FIT,FOO,FIT,185,9
 13,1st,CAS vs GEE,GEE,CAS,212,10
 13,1st,CAS vs GEE,CAS,GEE,155,10
+13,1st,FOO vs FIT,FIT,FOO,354,2
+13,1st,FOO vs FIT,FOO,FIT,185,9
 13,1st,MEL vs NOR,NOR,MEL,287,3
 13,1st,MEL vs NOR,MEL,NOR,198,10
-13,1st,CAR vs PRA,PRA,CAR,192,10
-13,1st,CAR vs PRA,CAR,PRA,156,10
 13,1st,ST vs KIN,KIN,ST,214,6
 13,1st,ST vs KIN,ST,KIN,184,9
-13,1st,GRE vs DAN,DAN,GRE,262,9
-13,1st,GRE vs DAN,GRE,DAN,263,4
+13,1st,CAR vs PRA,PRA,CAR,192,10
+13,1st,CAR vs PRA,CAR,PRA,156,10
 13,1st,RIC vs ESS,ESS,RIC,239,7
 13,1st,RIC vs ESS,RIC,ESS,216,10
+13,1st,GRE vs DAN,DAN,GRE,262,9
+13,1st,GRE vs DAN,GRE,DAN,263,4
 13,1st,RIN vs MEL,MEL,RIN,164,8
 13,1st,RIN vs MEL,RIN,MEL,165,6
 14,1st,1st CAS vs 1st KIN,1st KIN,1st CAS,347,9d
 14,1st,1st CAS vs 1st KIN,1st CAS,1st KIN,321,10
 14,1st,1st CAM vs 1st DAN,1st DAN,1st CAM,286,10
 14,1st,1st CAM vs 1st DAN,1st CAM,1st DAN,242,6
-14,1st,1st RIC vs 1st PRA,1st PRA,1st RIC,348,9d
-14,1st,1st RIC vs 1st PRA,1st RIC,1st PRA,349,7
 14,1st,1st FIT vs 1st GEE,1st GEE,1st FIT,251,10
 14,1st,1st FIT vs 1st GEE,1st FIT,1st GEE,254,9
-14,1st,1st GRE vs 1st FOO,1st FOO,1st GRE,177,10
-14,1st,1st GRE vs 1st FOO,1st GRE,1st FOO,363,2d
+14,1st,1st RIC vs 1st PRA,1st PRA,1st RIC,348,9d
+14,1st,1st RIC vs 1st PRA,1st RIC,1st PRA,349,7
 14,1st,1st MEL vs 1st ESS,1st ESS,1st MEL,385,8d
 14,1st,1st MEL vs 1st ESS,1st MEL,1st ESS,356,9
+14,1st,1st GRE vs 1st FOO,1st FOO,1st GRE,177,10
+14,1st,1st GRE vs 1st FOO,1st GRE,1st FOO,363,2d
+14,1st,1st GRE vs 1st FOO,1st GRE,2nd GRE,183,10
 14,1st,1st FRA vs 1st MEL,1st MEL,1st FRA,323,10
 14,1st,1st FRA vs 1st MEL,1st FRA,1st MEL,334,0
-14,1st,1st RIN vs 1st CAR,1st CAR,1st RIN,118,10
-14,1st,1st RIN vs 1st CAR,1st RIN,1st CAR,159,10
 14,1st,1st NOR vs 1st ST,1st ST,1st NOR,66,10
 14,1st,1st NOR vs 1st ST,1st NOR,1st ST,305,4d
-15,1st,1st GEE vs 1st DAN,1st DAN,1st GEE,187,10
-15,1st,1st GEE vs 1st DAN,1st GEE,1st DAN,282,4
+14,1st,1st NOR vs 1st ST,1st NOR,2nd NOR,132,10
 15,1st,1st KIN vs 1st GRE,1st GRE,1st KIN,284,10
 15,1st,1st KIN vs 1st GRE,1st KIN,1st GRE,251,10
-15,1st,1st RIC vs 1st RIN,1st RIN,1st RIC,256,10
-15,1st,1st RIC vs 1st RIN,1st RIC,1st RIN,150,10
+15,1st,1st GEE vs 1st DAN,1st DAN,1st GEE,187,10
+15,1st,1st GEE vs 1st DAN,1st GEE,1st DAN,282,4
 15,1st,1st PRA vs 1st MEL,1st MEL,1st PRA,375,10
 15,1st,1st PRA vs 1st MEL,1st PRA,1st MEL,316,10
+14,1st,1st RIN vs 1st CAR,1st CAR,1st RIN,118,10
+14,1st,1st RIN vs 1st CAR,1st RIN,1st CAR,159,10
+14,1st,1st RIN vs 1st CAR,1st RIN,2nd RIN,195,3
+14,1st,1st RIN vs 1st CAR,1st RIN,2nd CAR,,0
+15,1st,1st RIC vs 1st RIN,1st RIN,1st RIC,256,10
+15,1st,1st RIC vs 1st RIN,1st RIC,1st RIN,150,10
 15,1st,1st FOO vs 1st CAS,1st CAS,1st FOO,206,10
 15,1st,1st FOO vs 1st CAS,1st FOO,1st CAS,228,2
 15,1st,1st CAR vs 1st MEL,1st MEL,1st CAR,326,9
 15,1st,1st CAR vs 1st MEL,1st CAR,1st MEL,327,6
 15,1st,1st ST vs 1st CAM,1st CAM,1st ST,193,10
 15,1st,1st ST vs 1st CAM,1st ST,1st CAM,254,3
-15,1st,1st NOR vs 1st ESS,1st ESS,1st NOR,357,8d
-15,1st,1st NOR vs 1st ESS,1st NOR,1st ESS,252,10
 15,1st,1st FIT vs 1st FRA,1st FRA,1st FIT,291,10
 15,1st,1st FIT vs 1st FRA,1st FIT,1st FRA,180,10
-16,1st,1st FRA vs 1st GEE,1st GEE,1st FRA,340,10
-16,1st,1st FRA vs 1st GEE,1st FRA,1st GEE,235,10
+15,1st,1st NOR vs 1st ESS,1st ESS,1st NOR,357,8d
+15,1st,1st NOR vs 1st ESS,1st NOR,1st ESS,252,10
 16,1st,1st DAN vs 1st MEL,1st MEL,1st DAN,203,10
 16,1st,1st DAN vs 1st MEL,1st DAN,1st MEL,308,6
-16,1st,1st ST vs 1st RIC,1st RIC,1st ST,305,10
-16,1st,1st ST vs 1st RIC,1st ST,1st RIC,293,9
+16,1st,1st FRA vs 1st GEE,1st GEE,1st FRA,340,10
+16,1st,1st FRA vs 1st GEE,1st FRA,1st GEE,235,10
 16,1st,1st MEL vs 1st GRE,1st GRE,1st MEL,409,9d
 16,1st,1st MEL vs 1st GRE,1st MEL,1st GRE,169,10
-16,1st,1st CAR vs 1st CAM,1st CAM,1st CAR,350,9d
-16,1st,1st CAR vs 1st CAM,1st CAR,1st CAM,200,10
+16,1st,1st MEL vs 1st GRE,1st MEL,2nd GRE,91,0
 16,1st,1st RIN vs 1st CAS,1st CAS,1st RIN,199,10
 16,1st,1st RIN vs 1st CAS,1st RIN,1st CAS,217,5
-16,1st,1st ESS vs 1st FOO,1st FOO,1st ESS,172,10
-16,1st,1st ESS vs 1st FOO,1st ESS,1st FOO,174,6
-16,1st,1st FIT vs 1st KIN,1st KIN,1st FIT,186,10
-16,1st,1st FIT vs 1st KIN,1st FIT,1st KIN,293,10
+16,1st,1st ST vs 1st RIC,1st RIC,1st ST,305,10
+16,1st,1st ST vs 1st RIC,1st ST,1st RIC,293,9
+16,1st,1st CAR vs 1st CAM,1st CAM,1st CAR,350,9d
+16,1st,1st CAR vs 1st CAM,1st CAR,1st CAM,200,10
 16,1st,1st NOR vs 1st PRA,1st PRA,1st NOR,317,10
 16,1st,1st NOR vs 1st PRA,1st NOR,1st PRA,226,10
+16,1st,1st FIT vs 1st KIN,1st KIN,1st FIT,186,10
+16,1st,1st FIT vs 1st KIN,1st FIT,1st KIN,293,10
+16,1st,1st ESS vs 1st FOO,1st FOO,1st ESS,172,10
+16,1st,1st ESS vs 1st FOO,1st ESS,1st FOO,174,6
 17,1st,1st PRA vs 1st FOO,1st FOO,1st PRA,405,5d
 17,1st,1st PRA vs 1st FOO,1st PRA,1st FOO,348,8
-17,1st,1st CAS vs 1st RIC,1st RIC,1st CAS,130,10
-17,1st,1st CAS vs 1st RIC,1st CAS,1st RIC,70,10
-17,1st,1st CAR vs 1st DAN,1st DAN,1st CAR,317,8d
-17,1st,1st CAR vs 1st DAN,1st CAR,1st DAN,239,10
-17,1st,1st CAM vs 1st MEL,1st MEL,1st CAM,282,10
-17,1st,1st CAM vs 1st MEL,1st CAM,1st MEL,284,6
-17,1st,1st FRA vs 1st KIN,1st KIN,1st FRA,225,10
-17,1st,1st FRA vs 1st KIN,1st FRA,1st KIN,208,10
 17,1st,1st GEE vs 1st GRE,1st GRE,1st GEE,302,10
 17,1st,1st GEE vs 1st GRE,1st GEE,1st GRE,306,8
-17,1st,1st MEL vs 1st NOR,1st NOR,1st MEL,112,10
-17,1st,1st MEL vs 1st NOR,1st MEL,1st NOR,181,8d
+17,1st,1st CAM vs 1st MEL,1st MEL,1st CAM,282,10
+17,1st,1st CAM vs 1st MEL,1st CAM,1st MEL,284,6
+17,1st,1st CAR vs 1st DAN,1st DAN,1st CAR,317,8d
+17,1st,1st CAR vs 1st DAN,1st CAR,1st DAN,239,10
+17,1st,1st CAS vs 1st RIC,1st RIC,1st CAS,130,10
+17,1st,1st CAS vs 1st RIC,1st CAS,1st RIC,70,10
+17,1st,1st CAS vs 1st RIC,1st CAS,2nd CAS,182,10
+17,1st,1st CAS vs 1st RIC,1st CAS,2nd RIC,218,9
 17,1st,1st ESS vs 1st FIT,1st FIT,1st ESS,221,10
 17,1st,1st ESS vs 1st FIT,1st ESS,1st FIT,222,8
+17,1st,1st FRA vs 1st KIN,1st KIN,1st FRA,225,10
+17,1st,1st FRA vs 1st KIN,1st FRA,1st KIN,208,10
+17,1st,1st MEL vs 1st NOR,1st NOR,1st MEL,112,10
+17,1st,1st MEL vs 1st NOR,1st MEL,1st NOR,181,8d
+17,1st,1st MEL vs 1st NOR,1st MEL,2nd MEL,210,10
+17,1st,1st MEL vs 1st NOR,1st MEL,2nd NOR,76,9
 17,1st,1st RIN vs 1st ST,1st ST,1st RIN,159,10
 17,1st,1st RIN vs 1st ST,1st RIN,1st ST,91,10
-1,2nd,1st GEE vs 1st CAM,1st CAM,1st GEE,345,8
-1,2nd,1st GEE vs 1st CAM,1st GEE,1st CAM,194,10
+17,1st,1st RIN vs 1st ST,1st RIN,2nd RIN,117,10
+17,1st,1st RIN vs 1st ST,1st RIN,2nd ST,186,9
 1,2nd,1st MEL vs 1st FIT,1st FIT,1st MEL,171,10
 1,2nd,1st MEL vs 1st FIT,1st MEL,1st FIT,176,5
+1,2nd,1st GEE vs 1st CAM,1st CAM,1st GEE,345,8
+1,2nd,1st GEE vs 1st CAM,1st GEE,1st CAM,194,10
 1,2nd,1st RIC vs 1st CAR,1st CAR,1st RIC,212,10
 1,2nd,1st RIC vs 1st CAR,1st RIC,1st CAR,215,4
-1,2nd,1st ST vs 1st MEL,1st MEL,1st ST,326,10
-1,2nd,1st ST vs 1st MEL,1st ST,1st MEL,257,10
-2,2nd,1st GEE vs 1st FIT,1st FIT,1st GEE,214,10
-2,2nd,1st GEE vs 1st FIT,1st GEE,1st FIT,218,5
 2,2nd,1st ST vs 1st CAR,1st CAR,1st ST,294,10
 2,2nd,1st ST vs 1st CAR,1st ST,1st CAR,136,10
-4,2nd,MEL vs GEE,GEE,MEL,185,10
-4,2nd,MEL vs GEE,MEL,GEE,189,4
-4,2nd,GRE vs FRA,FRA,GRE,201,10
-4,2nd,GRE vs FRA,GRE,FRA,203,6
 3,2nd,1st FIT vs 1st ST,1st ST,1st FIT,222,10
 3,2nd,1st FIT vs 1st ST,1st FIT,1st ST,126,10
+2,2nd,1st GEE vs 1st FIT,1st FIT,1st GEE,214,10
+2,2nd,1st GEE vs 1st FIT,1st GEE,1st FIT,218,5
+1,2nd,1st ST vs 1st MEL,1st MEL,1st ST,326,10
+1,2nd,1st ST vs 1st MEL,1st ST,1st MEL,257,10
+1,2nd,1st ST vs 1st MEL,1st ST,2nd ST,,0
 4,2nd,FIT vs RIN,RIN,FIT,200,9
 4,2nd,FIT vs RIN,FIT,RIN,67,10
+4,2nd,GRE vs FRA,FRA,GRE,201,10
+4,2nd,GRE vs FRA,GRE,FRA,203,6
+4,2nd,MEL vs GEE,GEE,MEL,185,10
+4,2nd,MEL vs GEE,MEL,GEE,189,4
 4,2nd,MEL vs DAN,DAN,MEL,224,3
 4,2nd,MEL vs DAN,MEL,DAN,198,10
+4,2nd,RIC vs CAR,CAR,RIC,139,10
+4,2nd,RIC vs CAR,RIC,CAR,144,8
 4,2nd,CAM vs KIN,KIN,CAM,207,9
 4,2nd,CAM vs KIN,CAM,KIN,168,10
 4,2nd,ESS vs PRA,PRA,ESS,289,7
 4,2nd,ESS vs PRA,ESS,PRA,270,10
-4,2nd,RIC vs CAR,CAR,RIC,139,10
-4,2nd,RIC vs CAR,RIC,CAR,144,8
 4,2nd,NOR vs FOO,FOO,NOR,301,2
 4,2nd,NOR vs FOO,NOR,FOO,275,10
 5,2nd,NOR vs CAM,CAM,NOR,110,10
 5,2nd,NOR vs CAM,NOR,CAM,111,1
-4,2nd,CAS vs ST,ST,CAS,240,8
-4,2nd,CAS vs ST,CAS,ST,218,9
 5,2nd,GEE vs RIC,RIC,GEE,116,10
 5,2nd,GEE vs RIC,GEE,RIC,119,2
+4,2nd,CAS vs ST,ST,CAS,240,8
+4,2nd,CAS vs ST,CAS,ST,218,9
 5,2nd,DAN vs CAS,CAS,DAN,274,5
 5,2nd,DAN vs CAS,DAN,CAS,240,10
 5,2nd,CAR vs MEL,MEL,CAR,160,10
@@ -269,10 +285,10 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 5,2nd,ST vs FIT,ST,FIT,174,10
 6,2nd,CAR vs FOO,FOO,CAR,201,4
 6,2nd,CAR vs FOO,CAR,FOO,115,10
-6,2nd,DAN vs PRA,PRA,DAN,192,10
-6,2nd,DAN vs PRA,DAN,PRA,196,1
 6,2nd,KIN vs GEE,GEE,KIN,195,8
 6,2nd,KIN vs GEE,KIN,GEE,201,3
+6,2nd,DAN vs PRA,PRA,DAN,192,10
+6,2nd,DAN vs PRA,DAN,PRA,196,1
 6,2nd,MEL vs ST,ST,MEL,227,6
 6,2nd,MEL vs ST,MEL,ST,230,7
 6,2nd,CAS vs FIT,FIT,CAS,158,8
@@ -293,10 +309,10 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 7,2nd,FIT vs RIC,FIT,RIC,32,2
 7,2nd,FRA vs ST,ST,FRA,132,8
 7,2nd,FRA vs ST,FRA,ST,15,5
-7,2nd,CAS vs ESS,ESS,CAS,125,9
-7,2nd,CAS vs ESS,CAS,ESS,73,2
 7,2nd,CAR vs GEE,GEE,CAR,129,5
 7,2nd,CAR vs GEE,CAR,GEE,130,6
+7,2nd,CAS vs ESS,ESS,CAS,125,9
+7,2nd,CAS vs ESS,CAS,ESS,73,2
 7,2nd,CAM vs PRA,PRA,CAM,113,8
 7,2nd,CAM vs PRA,CAM,PRA,114,6
 8,2nd,CAS vs PRA,PRA,CAS,145,4
@@ -307,10 +323,10 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 8,2nd,CAM vs FIT,CAM,FIT,131,3
 9,2nd,FOO vs ST,ST,FOO,105,5
 9,2nd,FOO vs ST,FOO,ST,106,2
-9,2nd,FIT vs PRA,PRA,FIT,150,5
-9,2nd,FIT vs PRA,FIT,PRA,135,9
 9,2nd,NOR vs GRE,GRE,NOR,154,5
 9,2nd,NOR vs GRE,NOR,GRE,127,5
+9,2nd,FIT vs PRA,PRA,FIT,150,5
+9,2nd,FIT vs PRA,FIT,PRA,135,9
 9,2nd,DAN vs ESS,ESS,DAN,130,4
 9,2nd,DAN vs ESS,DAN,ESS,135,2
 9,2nd,CAS vs CAM,CAM,CAS,131,4
@@ -319,10 +335,10 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 9,2nd,MEL vs RIN,MEL,RIN,110,2
 10,2nd,CAR vs CAS,CAS,CAR,145,8
 10,2nd,CAR vs CAS,CAR,CAS,144,7
-10,2nd,CAM vs ESS,ESS,CAM,181,2
-10,2nd,CAM vs ESS,CAM,ESS,140,10
 10,2nd,MEL vs KIN,KIN,MEL,163,4
 10,2nd,MEL vs KIN,MEL,KIN,102,6
+10,2nd,CAM vs ESS,ESS,CAM,181,2
+10,2nd,CAM vs ESS,CAM,ESS,140,10
 10,2nd,RIC vs DAN,DAN,RIC,147,6
 10,2nd,RIC vs DAN,RIC,DAN,148,7
 10,2nd,GEE vs FOO,FOO,GEE,155,6
@@ -357,26 +373,26 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 12,2nd,FRA vs DAN,FRA,DAN,256,8
 12,2nd,PRA vs MEL,MEL,PRA,231,10
 12,2nd,PRA vs MEL,PRA,MEL,188,10
-12,2nd,MEL vs FIT,FIT,MEL,136,10
-12,2nd,MEL vs FIT,MEL,FIT,138,3
 12,2nd,FOO vs RIC,RIC,FOO,304,9
 12,2nd,FOO vs RIC,FOO,RIC,262,10
+12,2nd,MEL vs FIT,FIT,MEL,136,10
+12,2nd,MEL vs FIT,MEL,FIT,138,3
 12,2nd,GRE vs CAS,CAS,GRE,272,5
 12,2nd,GRE vs CAS,GRE,CAS,273,4
-12,2nd,KIN vs NOR,NOR,KIN,117,10
-12,2nd,KIN vs NOR,KIN,NOR,118,2
-12,2nd,ST vs GEE,GEE,ST,259,5
-12,2nd,ST vs GEE,ST,GEE,255,9
 12,2nd,CAM vs RIN,RIN,CAM,212,8
 12,2nd,CAM vs RIN,CAM,RIN,140,10
+12,2nd,ST vs GEE,GEE,ST,259,5
+12,2nd,ST vs GEE,ST,GEE,255,9
+12,2nd,KIN vs NOR,NOR,KIN,117,10
+12,2nd,KIN vs NOR,KIN,NOR,118,2
 13,2nd,CAM vs FRA,FRA,CAM,302,6
 13,2nd,CAM vs FRA,CAM,FRA,141,10
 13,2nd,KIN vs ST,ST,KIN,183,9
 13,2nd,KIN vs ST,KIN,ST,184,4
-13,2nd,FOO vs FIT,FIT,FOO,190,7
-13,2nd,FOO vs FIT,FOO,FIT,191,5
 13,2nd,RIN vs MEL,MEL,RIN,236,9
 13,2nd,RIN vs MEL,RIN,MEL,210,10
+13,2nd,FOO vs FIT,FIT,FOO,190,7
+13,2nd,FOO vs FIT,FOO,FIT,191,5
 13,2nd,GRE vs DAN,DAN,GRE,236,6
 13,2nd,GRE vs DAN,GRE,DAN,196,10
 13,2nd,CAR vs PRA,PRA,CAR,233,6
@@ -389,92 +405,105 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 13,2nd,NOR vs MEL,NOR,MEL,213,5
 14,2nd,1st ST vs 1st NOR,1st NOR,1st ST,371,6d
 14,2nd,1st ST vs 1st NOR,1st ST,1st NOR,186,10
-14,2nd,1st ESS vs 1st MEL,1st MEL,1st ESS,135,10
-14,2nd,1st ESS vs 1st MEL,1st ESS,1st MEL,224,10
 14,2nd,1st FOO vs 1st GRE,1st GRE,1st FOO,373,4d
 14,2nd,1st FOO vs 1st GRE,1st FOO,1st GRE,374,6
 14,2nd,1st CAS vs 1st KIN,1st KIN,1st CAS,292,10
 14,2nd,1st CAS vs 1st KIN,1st CAS,1st KIN,293,5
-14,2nd,1st MEL vs 1st FRA,1st FRA,1st MEL,427,4d
-14,2nd,1st MEL vs 1st FRA,1st MEL,1st FRA,232,10
+14,2nd,1st ESS vs 1st MEL,1st MEL,1st ESS,135,10
+14,2nd,1st ESS vs 1st MEL,1st ESS,1st MEL,224,10
+14,2nd,1st ESS vs 1st MEL,1st ESS,2nd ESS,159,5
 14,2nd,1st FIT vs 1st GEE,1st GEE,1st FIT,214,10
 14,2nd,1st FIT vs 1st GEE,1st FIT,1st GEE,220,7
-14,2nd,1st PRA vs 1st RIC,1st RIC,1st PRA,247,10
-14,2nd,1st PRA vs 1st RIC,1st PRA,1st RIC,250,5
+14,2nd,1st MEL vs 1st FRA,1st FRA,1st MEL,427,4d
+14,2nd,1st MEL vs 1st FRA,1st MEL,1st FRA,232,10
 14,2nd,1st CAM vs 1st DAN,1st DAN,1st CAM,296,9d
 14,2nd,1st CAM vs 1st DAN,1st CAM,1st DAN,276,10
-15,2nd,1st FIT vs 1st FRA,1st FRA,1st FIT,246,10
-15,2nd,1st FIT vs 1st FRA,1st FIT,1st FRA,137,10
+14,2nd,1st PRA vs 1st RIC,1st RIC,1st PRA,247,10
+14,2nd,1st PRA vs 1st RIC,1st PRA,1st RIC,250,5
 14,2nd,1st RIN vs 1st CAR,1st CAR,1st RIN,332,9d
 14,2nd,1st RIN vs 1st CAR,1st RIN,1st CAR,335,5
+15,2nd,1st FIT vs 1st FRA,1st FRA,1st FIT,246,10
+15,2nd,1st FIT vs 1st FRA,1st FIT,1st FRA,137,10
 15,2nd,1st PRA vs 1st MEL,1st MEL,1st PRA,314,10
 15,2nd,1st PRA vs 1st MEL,1st PRA,1st MEL,186,10
 15,2nd,1st ST vs 1st CAM,1st CAM,1st ST,252,10
 15,2nd,1st ST vs 1st CAM,1st ST,1st CAM,141,10
 15,2nd,1st NOR vs 1st ESS,1st ESS,1st NOR,176,10
 15,2nd,1st NOR vs 1st ESS,1st NOR,1st ESS,130,10
-15,2nd,1st KIN vs 1st GRE,1st GRE,1st KIN,257,10
-15,2nd,1st KIN vs 1st GRE,1st KIN,1st GRE,168,10
+15,2nd,1st NOR vs 1st ESS,1st NOR,2nd NOR,29,2
 15,2nd,1st GEE vs 1st DAN,1st DAN,1st GEE,304,5d
 15,2nd,1st GEE vs 1st DAN,1st GEE,1st DAN,195,10
-15,2nd,1st FOO vs 1st CAS,1st CAS,1st FOO,385,10
-15,2nd,1st FOO vs 1st CAS,1st FOO,1st CAS,196,10
 15,2nd,1st RIC vs 1st RIN,1st RIN,1st RIC,204,10
 15,2nd,1st RIC vs 1st RIN,1st RIC,1st RIN,285,7
 15,2nd,1st MEL vs 1st CAR,1st CAR,1st MEL,304,7d
 15,2nd,1st MEL vs 1st CAR,1st MEL,1st CAR,261,10
+15,2nd,1st FOO vs 1st CAS,1st CAS,1st FOO,385,10
+15,2nd,1st FOO vs 1st CAS,1st FOO,1st CAS,196,10
+15,2nd,1st KIN vs 1st GRE,1st GRE,1st KIN,257,10
+15,2nd,1st KIN vs 1st GRE,1st KIN,1st GRE,168,10
+15,2nd,1st KIN vs 1st GRE,1st KIN,2nd KIN,10,1
+15,2nd,1st KIN vs 1st GRE,1st KIN,2nd GRE,,0
 16,2nd,1st FIT vs 1st KIN,1st KIN,1st FIT,161,10
 16,2nd,1st FIT vs 1st KIN,1st FIT,1st KIN,167,7
-16,2nd,1st DAN vs 1st MEL,1st MEL,1st DAN,314,10
-16,2nd,1st DAN vs 1st MEL,1st DAN,1st MEL,315,5
 16,2nd,1st CAS vs 1st RIN,1st RIN,1st CAS,199,10
 16,2nd,1st CAS vs 1st RIN,1st CAS,1st RIN,191,10
+16,2nd,1st DAN vs 1st MEL,1st MEL,1st DAN,314,10
+16,2nd,1st DAN vs 1st MEL,1st DAN,1st MEL,315,5
 16,2nd,1st FOO vs 1st ESS,1st ESS,1st FOO,408,7d
 16,2nd,1st FOO vs 1st ESS,1st FOO,1st ESS,279,10
-16,2nd,1st CAR vs 1st CAM,1st CAM,1st CAR,183,10
-16,2nd,1st CAR vs 1st CAM,1st CAR,1st CAM,210,10
 16,2nd,1st GRE vs 1st MEL,1st MEL,1st GRE,228,10
 16,2nd,1st GRE vs 1st MEL,1st GRE,1st MEL,231,1
+16,2nd,1st CAR vs 1st CAM,1st CAM,1st CAR,183,10
+16,2nd,1st CAR vs 1st CAM,1st CAR,1st CAM,210,10
+16,2nd,1st CAR vs 1st CAM,1st CAR,2nd CAR,21,1
 16,2nd,1st PRA vs 1st NOR,1st NOR,1st PRA,208,10
 16,2nd,1st PRA vs 1st NOR,1st PRA,1st NOR,210,10
 16,2nd,1st FRA vs 1st GEE,1st GEE,1st FRA,360,9d
 16,2nd,1st FRA vs 1st GEE,1st FRA,1st GEE,335,10
-17,2nd,1st RIC vs 1st CAS,1st CAS,1st RIC,249,10
-17,2nd,1st RIC vs 1st CAS,1st RIC,1st CAS,108,10
-16,2nd,1st ST vs 1st RIC,1st RIC,1st ST,331,7d
-16,2nd,1st ST vs 1st RIC,1st ST,1st RIC,166,10
 17,2nd,1st FOO vs 1st PRA,1st PRA,1st FOO,221,10
 17,2nd,1st FOO vs 1st PRA,1st FOO,1st PRA,218,10
-17,2nd,1st KIN vs 1st FRA,1st FRA,1st KIN,121,10
-17,2nd,1st KIN vs 1st FRA,1st KIN,1st FRA,156,9d
+16,2nd,1st ST vs 1st RIC,1st RIC,1st ST,331,7d
+16,2nd,1st ST vs 1st RIC,1st ST,1st RIC,166,10
+17,2nd,1st RIC vs 1st CAS,1st CAS,1st RIC,249,10
+17,2nd,1st RIC vs 1st CAS,1st RIC,1st CAS,108,10
+17,2nd,1st RIC vs 1st CAS,1st RIC,2nd CAS,166,6
 17,2nd,1st CAM vs 1st MEL,1st MEL,1st CAM,265,10
 17,2nd,1st CAM vs 1st MEL,1st CAM,1st MEL,266,7
 17,2nd,1st GEE vs 1st GRE,1st GRE,1st GEE,311,9d
 17,2nd,1st GEE vs 1st GRE,1st GEE,1st GRE,128,10
-17,2nd,1st RIN vs 1st ST,1st ST,1st RIN,149,10
-17,2nd,1st RIN vs 1st ST,1st RIN,1st ST,196,5d
+17,2nd,1st GEE vs 1st GRE,1st GEE,2nd GRE,96,2
 17,2nd,1st MEL vs 1st NOR,1st NOR,1st MEL,318,5d
 17,2nd,1st MEL vs 1st NOR,1st MEL,1st NOR,147,10
 17,2nd,1st ESS vs 1st FIT,1st FIT,1st ESS,295,10
 17,2nd,1st ESS vs 1st FIT,1st ESS,1st FIT,267,7
+17,2nd,1st KIN vs 1st FRA,1st FRA,1st KIN,121,10
+17,2nd,1st KIN vs 1st FRA,1st KIN,1st FRA,156,9d
+17,2nd,1st KIN vs 1st FRA,1st KIN,2nd KIN,313,9d
+17,2nd,1st KIN vs 1st FRA,1st KIN,2nd FRA,144,6
 17,2nd,1st DAN vs 1st CAR,1st CAR,1st DAN,181,10
 17,2nd,1st DAN vs 1st CAR,1st DAN,1st CAR,305,7d
+17,2nd,1st DAN vs 1st CAR,1st DAN,2nd DAN,72,0
+17,2nd,1st RIN vs 1st ST,1st ST,1st RIN,149,10
+17,2nd,1st RIN vs 1st ST,1st RIN,1st ST,196,5d
+17,2nd,1st RIN vs 1st ST,1st RIN,2nd RIN,182,7
 1,3rd,1st FIT vs 1st ESS,1st ESS,1st FIT,231,10
 1,3rd,1st FIT vs 1st ESS,1st FIT,1st ESS,172,10
+1,3rd,1st FIT vs 1st ESS,1st FIT,2nd FIT,71,0
 1,3rd,1st KIN vs 1st MEL,1st MEL,1st KIN,208,10
 1,3rd,1st KIN vs 1st MEL,1st KIN,1st MEL,212,4
-1,3rd,1st RIN vs 1st MEL,1st MEL,1st RIN,328,10
-1,3rd,1st RIN vs 1st MEL,1st RIN,1st MEL,157,10
-1,3rd,1st GEE vs 1st ST,1st ST,1st GEE,301,10
-1,3rd,1st GEE vs 1st ST,1st GEE,1st ST,150,10
 2,3rd,1st GEE vs 1st FIT,1st FIT,1st GEE,166,10
 2,3rd,1st GEE vs 1st FIT,1st GEE,1st FIT,153,10
+2,3rd,1st GEE vs 1st FIT,1st GEE,2nd GEE,32,1
 2,3rd,1st MEL vs 1st RIN,1st RIN,1st MEL,351,10
 2,3rd,1st MEL vs 1st RIN,1st MEL,1st RIN,114,10
+1,3rd,1st RIN vs 1st MEL,1st MEL,1st RIN,328,10
+1,3rd,1st RIN vs 1st MEL,1st RIN,1st MEL,157,10
+1,3rd,1st RIN vs 1st MEL,1st RIN,2nd MEL,,0
 4,3rd,GEE vs MEL,MEL,GEE,214,6
 4,3rd,GEE vs MEL,GEE,MEL,149,10
-3,3rd,1st MEL vs 1st GEE,1st GEE,1st MEL,326,9
-3,3rd,1st MEL vs 1st GEE,1st MEL,1st GEE,285,10
+1,3rd,1st GEE vs 1st ST,1st ST,1st GEE,301,10
+1,3rd,1st GEE vs 1st ST,1st GEE,1st ST,150,10
+1,3rd,1st GEE vs 1st ST,1st GEE,2nd GEE,,0
 4,3rd,CAM vs KIN,KIN,CAM,192,5
 4,3rd,CAM vs KIN,CAM,KIN,185,9
 4,3rd,FIT vs RIN,RIN,FIT,286,7
@@ -487,6 +516,9 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 4,3rd,CAS vs ST,CAS,ST,207,5
 4,3rd,PRA vs ESS,ESS,PRA,242,5
 4,3rd,PRA vs ESS,PRA,ESS,244,6
+3,3rd,1st MEL vs 1st GEE,1st GEE,1st MEL,326,9
+3,3rd,1st MEL vs 1st GEE,1st MEL,1st GEE,285,10
+3,3rd,1st MEL vs 1st GEE,1st MEL,2nd MEL,,0
 4,3rd,GRE vs FRA,FRA,GRE,136,10
 4,3rd,GRE vs FRA,GRE,FRA,140,5
 4,3rd,RIC vs CAR,CAR,RIC,217,10
@@ -503,14 +535,14 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 5,3rd,CAS vs DAN,CAS,DAN,207,3
 5,3rd,ESS vs KIN,KIN,ESS,201,9
 5,3rd,ESS vs KIN,ESS,KIN,202,5
+6,3rd,CAM vs GRE,GRE,CAM,127,5
+6,3rd,CAM vs GRE,CAM,GRE,140,4
 5,3rd,FRA vs PRA,PRA,FRA,191,5
 5,3rd,FRA vs PRA,FRA,PRA,193,7
 5,3rd,MEL vs CAR,CAR,MEL,200,7
 5,3rd,MEL vs CAR,MEL,CAR,199,9
 5,3rd,GRE vs RIN,RIN,GRE,231,8
 5,3rd,GRE vs RIN,GRE,RIN,232,2
-6,3rd,CAM vs GRE,GRE,CAM,127,5
-6,3rd,CAM vs GRE,CAM,GRE,140,4
 6,3rd,ESS vs RIN,RIN,ESS,208,5
 6,3rd,ESS vs RIN,ESS,RIN,204,4
 6,3rd,GEE vs KIN,KIN,GEE,178,4
@@ -525,52 +557,52 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 7,3rd,FOO vs DAN,FOO,DAN,136,7
 7,3rd,KIN vs RIN,RIN,KIN,166,4
 7,3rd,KIN vs RIN,KIN,RIN,135,4
-7,3rd,GEE vs NOR,NOR,GEE,110,9
-7,3rd,GEE vs NOR,GEE,NOR,111,7
 7,3rd,RIC vs MEL,MEL,RIC,90,9
 7,3rd,RIC vs MEL,RIC,MEL,91,6
+7,3rd,GEE vs NOR,NOR,GEE,110,9
+7,3rd,GEE vs NOR,GEE,NOR,111,7
 7,3rd,CAR vs GRE,GRE,CAR,95,6
 7,3rd,CAR vs GRE,CAR,GRE,96,3
 7,3rd,ST vs ESS,ESS,ST,132,8
 7,3rd,ST vs ESS,ST,ESS,134,5
-7,3rd,CAS vs PRA,PRA,CAS,109,8
-7,3rd,CAS vs PRA,CAS,PRA,110,5
 8,3rd,NOR vs FIT,FIT,NOR,123,8
 8,3rd,NOR vs FIT,NOR,FIT,126,3
+7,3rd,CAS vs PRA,PRA,CAS,109,8
+7,3rd,CAS vs PRA,CAS,PRA,110,5
 8,3rd,ST vs MEL,MEL,ST,159,7
 8,3rd,ST vs MEL,ST,MEL,161,5
-8,3rd,CAR vs CAS,CAS,CAR,157,5
-8,3rd,CAR vs CAS,CAR,CAS,136,7
-8,3rd,MEL vs KIN,KIN,MEL,150,5
-8,3rd,MEL vs KIN,MEL,KIN,131,8
-8,3rd,CAM vs ESS,ESS,CAM,122,2
-8,3rd,CAM vs ESS,CAM,ESS,126,4
 8,3rd,RIC vs DAN,DAN,RIC,129,7
 8,3rd,RIC vs DAN,RIC,DAN,130,4
+8,3rd,MEL vs KIN,KIN,MEL,150,5
+8,3rd,MEL vs KIN,MEL,KIN,131,8
+8,3rd,CAR vs CAS,CAS,CAR,157,5
+8,3rd,CAR vs CAS,CAR,CAS,136,7
+8,3rd,CAM vs ESS,ESS,CAM,122,2
+8,3rd,CAM vs ESS,CAM,ESS,126,4
 8,3rd,RIN vs FRA,FRA,RIN,157,8
 8,3rd,RIN vs FRA,RIN,FRA,146,7
-8,3rd,FOO vs GEE,GEE,FOO,130,8
-8,3rd,FOO vs GEE,FOO,GEE,132,3
 8,3rd,GRE vs PRA,PRA,GRE,101,9
 8,3rd,GRE vs PRA,GRE,PRA,104,2
+8,3rd,FOO vs GEE,GEE,FOO,130,8
+8,3rd,FOO vs GEE,FOO,GEE,132,3
 9,3rd,NOR vs KIN,KIN,NOR,214,8
 9,3rd,NOR vs KIN,NOR,KIN,215,5
-9,3rd,FOO vs RIC,RIC,FOO,233,4
-9,3rd,FOO vs RIC,FOO,RIC,234,7
 9,3rd,MEL vs FIT,FIT,MEL,177,10
 9,3rd,MEL vs FIT,MEL,FIT,179,3
+9,3rd,FOO vs RIC,RIC,FOO,233,4
+9,3rd,FOO vs RIC,FOO,RIC,234,7
 9,3rd,RIN vs CAM,CAM,RIN,245,9
 9,3rd,RIN vs CAM,RIN,CAM,229,10
-9,3rd,GRE vs CAS,CAS,GRE,162,9
-9,3rd,GRE vs CAS,GRE,CAS,164,4
 9,3rd,CAR vs ESS,ESS,CAR,210,9
 9,3rd,CAR vs ESS,CAR,ESS,213,8
-9,3rd,DAN vs FRA,FRA,DAN,219,7
-9,3rd,DAN vs FRA,DAN,FRA,189,10
-9,3rd,PRA vs MEL,MEL,PRA,83,10
-9,3rd,PRA vs MEL,PRA,MEL,84,1
+9,3rd,GRE vs CAS,CAS,GRE,162,9
+9,3rd,GRE vs CAS,GRE,CAS,164,4
 9,3rd,ST vs GEE,GEE,ST,255,6
 9,3rd,ST vs GEE,ST,GEE,236,9
+9,3rd,PRA vs MEL,MEL,PRA,83,10
+9,3rd,PRA vs MEL,PRA,MEL,84,1
+9,3rd,DAN vs FRA,FRA,DAN,219,7
+9,3rd,DAN vs FRA,DAN,FRA,189,10
 10,3rd,ESS vs RIC,RIC,ESS,181,9
 10,3rd,ESS vs RIC,ESS,RIC,182,9
 10,3rd,GRE vs DAN,DAN,GRE,174,7
@@ -581,12 +613,12 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 10,3rd,GEE vs CAS,GEE,CAS,204,10
 10,3rd,CAM vs FRA,FRA,CAM,155,5
 10,3rd,CAM vs FRA,CAM,FRA,114,10
-10,3rd,FOO vs FIT,FIT,FOO,131,10
-10,3rd,FOO vs FIT,FOO,FIT,132,1
 10,3rd,NOR vs MEL,MEL,NOR,226,7
 10,3rd,NOR vs MEL,NOR,MEL,228,2
 10,3rd,PRA vs CAR,CAR,PRA,225,8
 10,3rd,PRA vs CAR,PRA,CAR,146,10
+10,3rd,FOO vs FIT,FIT,FOO,131,10
+10,3rd,FOO vs FIT,FOO,FIT,132,1
 10,3rd,ST vs KIN,KIN,ST,351,5
 10,3rd,ST vs KIN,ST,KIN,141,10
 11,3rd,GRE vs FOO,FOO,GRE,194,9
@@ -595,24 +627,23 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 11,3rd,FIT vs GEE,FIT,GEE,279,6
 11,3rd,PRA vs RIC,RIC,PRA,249,8
 11,3rd,PRA vs RIC,PRA,RIC,232,10
+11,3rd,CAR vs RIN,RIN,CAR,262,6
+11,3rd,CAR vs RIN,CAR,RIN,265,4
 11,3rd,KIN vs CAS,CAS,KIN,269,5
 11,3rd,KIN vs CAS,KIN,CAS,182,8
 11,3rd,NOR vs ST,ST,NOR,178,10
 11,3rd,NOR vs ST,NOR,ST,182,5
 11,3rd,MEL vs ESS,ESS,MEL,220,5
 11,3rd,MEL vs ESS,MEL,ESS,118,10
-11,3rd,CAR vs RIN,RIN,CAR,262,6
-11,3rd,CAR vs RIN,CAR,RIN,265,4
 11,3rd,MEL vs FRA,FRA,MEL,224,7
 11,3rd,MEL vs FRA,MEL,FRA,171,10
 11,3rd,CAM vs DAN,DAN,CAM,192,6
 11,3rd,CAM vs DAN,CAM,DAN,193,6
 12,3rd,1st RIC vs 1st RIN,1st RIN,1st RIC,189,10
 12,3rd,1st RIC vs 1st RIN,1st RIC,1st RIN,223,10
+12,3rd,1st RIC vs 1st RIN,1st RIC,2nd RIC,6,0
 12,3rd,1st NOR vs 1st ESS,1st ESS,1st NOR,315,9
 12,3rd,1st NOR vs 1st ESS,1st NOR,1st ESS,236,10
-12,3rd,1st FRA vs 1st FIT,1st FIT,1st FRA,185,10
-12,3rd,1st FRA vs 1st FIT,1st FRA,1st FIT,171,10
 12,3rd,1st DAN vs 1st GEE,1st GEE,1st DAN,137,10
 12,3rd,1st DAN vs 1st GEE,1st DAN,1st GEE,308,5
 12,3rd,1st KIN vs 1st GRE,1st GRE,1st KIN,288,2d
@@ -627,28 +658,39 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 12,3rd,1st CAR vs 1st MEL,1st CAR,1st MEL,311,7
 13,3rd,1st PRA vs 1st NOR,1st NOR,1st PRA,359,6d
 13,3rd,1st PRA vs 1st NOR,1st PRA,1st NOR,266,8
+12,3rd,1st FRA vs 1st FIT,1st FIT,1st FRA,185,10
+12,3rd,1st FRA vs 1st FIT,1st FRA,1st FIT,171,10
+12,3rd,1st FRA vs 1st FIT,1st FRA,2nd FRA,9,0
+12,3rd,1st FRA vs 1st FIT,1st FRA,2nd FIT,,0
 13,3rd,1st RIN vs 1st CAS,1st CAS,1st RIN,425,9d
 13,3rd,1st RIN vs 1st CAS,1st RIN,1st CAS,322,9
 13,3rd,1st FOO vs 1st ESS,1st ESS,1st FOO,241,10
 13,3rd,1st FOO vs 1st ESS,1st FOO,1st ESS,285,9
-13,3rd,1st DAN vs 1st MEL,1st MEL,1st DAN,108,10
-13,3rd,1st DAN vs 1st MEL,1st DAN,1st MEL,223,10
+13,3rd,1st FOO vs 1st ESS,1st FOO,2nd FOO,36,1
 13,3rd,1st GRE vs 1st MEL,1st MEL,1st GRE,173,10
 13,3rd,1st GRE vs 1st MEL,1st GRE,1st MEL,262,3
+13,3rd,1st DAN vs 1st MEL,1st MEL,1st DAN,108,10
+13,3rd,1st DAN vs 1st MEL,1st DAN,1st MEL,223,10
+13,3rd,1st DAN vs 1st MEL,1st DAN,2nd DAN,147,5
 13,3rd,1st CAM vs 1st CAR,1st CAR,1st CAM,271,10
 13,3rd,1st CAM vs 1st CAR,1st CAM,1st CAR,272,7
-13,3rd,1st FIT vs 1st KIN,1st KIN,1st FIT,337,10
-13,3rd,1st FIT vs 1st KIN,1st FIT,1st KIN,177,10
-13,3rd,1st GEE vs 1st FRA,1st FRA,1st GEE,209,10
-13,3rd,1st GEE vs 1st FRA,1st GEE,1st FRA,172,10
 13,3rd,1st RIC vs 1st ST,1st ST,1st RIC,283,10
 13,3rd,1st RIC vs 1st ST,1st RIC,1st ST,297,6
+13,3rd,1st GEE vs 1st FRA,1st FRA,1st GEE,209,10
+13,3rd,1st GEE vs 1st FRA,1st GEE,1st FRA,172,10
+13,3rd,1st GEE vs 1st FRA,1st GEE,2nd GEE,,0
 14,3rd,1st MEL vs 1st NOR,1st NOR,1st MEL,101,10
 14,3rd,1st MEL vs 1st NOR,1st MEL,1st NOR,114,3d
-14,3rd,1st GEE vs 1st GRE,1st GRE,1st GEE,281,9
-14,3rd,1st GEE vs 1st GRE,1st GEE,1st GRE,198,10
+14,3rd,1st MEL vs 1st NOR,1st MEL,2nd MEL,235,6d
+14,3rd,1st MEL vs 1st NOR,1st MEL,2nd NOR,92,10
+13,3rd,1st FIT vs 1st KIN,1st KIN,1st FIT,337,10
+13,3rd,1st FIT vs 1st KIN,1st FIT,1st KIN,177,10
+13,3rd,1st FIT vs 1st KIN,1st FIT,2nd FIT,,0
 14,3rd,1st CAS vs 1st RIC,1st RIC,1st CAS,215,10
 14,3rd,1st CAS vs 1st RIC,1st CAS,1st RIC,217,6
+14,3rd,1st GEE vs 1st GRE,1st GRE,1st GEE,281,9
+14,3rd,1st GEE vs 1st GRE,1st GEE,1st GRE,198,10
+14,3rd,1st GEE vs 1st GRE,1st GEE,2nd GEE,,0
 14,3rd,1st FIT vs 1st ESS,1st ESS,1st FIT,361,9
 14,3rd,1st FIT vs 1st ESS,1st FIT,1st ESS,183,7
 14,3rd,1st CAM vs 1st MEL,1st MEL,1st CAM,163,10
@@ -657,36 +699,36 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 14,3rd,1st CAR vs 1st DAN,1st CAR,1st DAN,109,10
 14,3rd,1st FRA vs 1st KIN,1st KIN,1st FRA,393,5d
 14,3rd,1st FRA vs 1st KIN,1st FRA,1st KIN,130,10
-14,3rd,1st RIN vs 1st ST,1st ST,1st RIN,244,10
-14,3rd,1st RIN vs 1st ST,1st RIN,1st ST,202,10
 14,3rd,1st PRA vs 1st FOO,1st FOO,1st PRA,153,10
 14,3rd,1st PRA vs 1st FOO,1st PRA,1st FOO,154,9
+14,3rd,1st RIN vs 1st ST,1st ST,1st RIN,244,10
+14,3rd,1st RIN vs 1st ST,1st RIN,1st ST,202,10
 1,4th,1st FOO vs 1st ST,1st ST,1st FOO,201,10
 1,4th,1st FOO vs 1st ST,1st FOO,1st ST,205,3
 1,4th,1st FRA vs 1st RIC,1st RIC,1st FRA,306,7d
 1,4th,1st FRA vs 1st RIC,1st FRA,1st RIC,266,7
 1,4th,1st CAR vs 1st MEL,1st MEL,1st CAR,219,10
 1,4th,1st CAR vs 1st MEL,1st CAR,1st MEL,220,8
+2,4th,1st RIC vs 1st ST,1st ST,1st RIC,261,10
+2,4th,1st RIC vs 1st ST,1st RIC,1st ST,239,10
 2,4th,1st MEL vs 1st FIT,1st FIT,1st MEL,371,10
 2,4th,1st MEL vs 1st FIT,1st MEL,1st FIT,128,10
 3,4th,1st MEL vs 1st RIC,1st RIC,1st MEL,312,10
 3,4th,1st MEL vs 1st RIC,1st MEL,1st RIC,192,10
-2,4th,1st RIC vs 1st ST,1st ST,1st RIC,261,10
-2,4th,1st RIC vs 1st ST,1st RIC,1st ST,239,10
 4,4th,GRE vs FRA,FRA,GRE,156,9
 4,4th,GRE vs FRA,GRE,FRA,158,3
 4,4th,FIT vs RIN,RIN,FIT,245,10
 4,4th,FIT vs RIN,FIT,RIN,202,10
-4,4th,FOO vs NOR,NOR,FOO,282,5
-4,4th,FOO vs NOR,FOO,NOR,217,9
 4,4th,CAM vs KIN,KIN,CAM,213,7
 4,4th,CAM vs KIN,CAM,KIN,214,2
+4,4th,FOO vs NOR,NOR,FOO,282,5
+4,4th,FOO vs NOR,FOO,NOR,217,9
 4,4th,MEL vs GEE,GEE,MEL,189,9
 4,4th,MEL vs GEE,MEL,GEE,193,4
-4,4th,PRA vs ESS,ESS,PRA,191,7
-4,4th,PRA vs ESS,PRA,ESS,146,10
 4,4th,ST vs CAS,CAS,ST,220,7
 4,4th,ST vs CAS,ST,CAS,163,9
+4,4th,PRA vs ESS,ESS,PRA,191,7
+4,4th,PRA vs ESS,PRA,ESS,146,10
 5,4th,DAN vs CAS,CAS,DAN,232,10
 5,4th,DAN vs CAS,DAN,CAS,147,10
 5,4th,RIN vs GRE,GRE,RIN,189,10
@@ -697,34 +739,34 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 5,4th,ST vs FIT,ST,FIT,199,2
 5,4th,GEE vs RIC,RIC,GEE,206,9
 5,4th,GEE vs RIC,GEE,RIC,207,9
-5,4th,CAM vs NOR,NOR,CAM,191,9
-5,4th,CAM vs NOR,CAM,NOR,195,8
 5,4th,PRA vs FRA,FRA,PRA,109,10
 5,4th,PRA vs FRA,PRA,FRA,114,4
+5,4th,CAM vs NOR,NOR,CAM,191,9
+5,4th,CAM vs NOR,CAM,NOR,195,8
 6,4th,NOR vs FRA,FRA,NOR,132,8
 6,4th,NOR vs FRA,NOR,FRA,133,2
 6,4th,GRE vs CAM,CAM,GRE,202,10
 6,4th,GRE vs CAM,GRE,CAM,194,10
-6,4th,MEL vs ST,ST,MEL,188,9
-6,4th,MEL vs ST,MEL,ST,194,4
 5,4th,CAR vs MEL,MEL,CAR,241,10
 5,4th,CAR vs MEL,CAR,MEL,242,2
+6,4th,MEL vs ST,ST,MEL,188,9
+6,4th,MEL vs ST,MEL,ST,194,4
 6,4th,PRA vs DAN,DAN,PRA,223,4
 6,4th,PRA vs DAN,PRA,DAN,197,10
 6,4th,KIN vs GEE,GEE,KIN,182,10
 6,4th,KIN vs GEE,KIN,GEE,184,2
 6,4th,CAS vs FIT,FIT,CAS,157,3
 6,4th,CAS vs FIT,CAS,FIT,159,3
+7,4th,ESS vs ST,ST,ESS,43,0
+7,4th,ESS vs ST,ESS,ST,77,2
 7,4th,FOO vs DAN,DAN,FOO,69,0
 7,4th,FOO vs DAN,FOO,DAN,21,3
 6,4th,FOO vs CAR,CAR,FOO,165,7
 6,4th,FOO vs CAR,FOO,CAR,166,4
-7,4th,ESS vs ST,ST,ESS,43,0
-7,4th,ESS vs ST,ESS,ST,77,2
-7,4th,RIN vs KIN,KIN,RIN,154,5
-7,4th,RIN vs KIN,RIN,KIN,129,5
 7,4th,GEE vs NOR,NOR,GEE,107,8
 7,4th,GEE vs NOR,GEE,NOR,111,7
+7,4th,RIN vs KIN,KIN,RIN,154,5
+7,4th,RIN vs KIN,RIN,KIN,129,5
 7,4th,FRA vs MEL,MEL,FRA,126,8
 7,4th,FRA vs MEL,FRA,MEL,131,9
 7,4th,PRA vs CAS,CAS,PRA,65,3
@@ -735,18 +777,18 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 8,4th,KIN vs MEL,KIN,MEL,104,3
 8,4th,CAM vs ESS,ESS,CAM,102,8
 8,4th,CAM vs ESS,CAM,ESS,106,6
-8,4th,ST vs MEL,MEL,ST,123,10
-8,4th,ST vs MEL,ST,MEL,115,7
 8,4th,GRE vs PRA,PRA,GRE,82,10
 8,4th,GRE vs PRA,GRE,PRA,83,4
+8,4th,ST vs MEL,MEL,ST,123,10
+8,4th,ST vs MEL,ST,MEL,115,7
 8,4th,RIN vs FRA,FRA,RIN,154,10
 8,4th,RIN vs FRA,RIN,FRA,158,4
 8,4th,NOR vs FIT,FIT,NOR,139,5
 8,4th,NOR vs FIT,NOR,FIT,136,8
-8,4th,FOO vs GEE,GEE,FOO,107,6
-8,4th,FOO vs GEE,FOO,GEE,93,9
 8,4th,CAS vs CAR,CAR,CAS,114,5
 8,4th,CAS vs CAR,CAS,CAR,116,3
+8,4th,FOO vs GEE,GEE,FOO,107,6
+8,4th,FOO vs GEE,FOO,GEE,93,9
 9,4th,ST vs GEE,GEE,ST,210,6
 9,4th,ST vs GEE,ST,GEE,188,10
 9,4th,RIC vs FOO,FOO,RIC,161,10
@@ -767,12 +809,12 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 9,4th,ESS vs CAR,ESS,CAR,122,10
 10,4th,PRA vs CAR,CAR,PRA,225,10
 10,4th,PRA vs CAR,PRA,CAR,227,3
-10,4th,KIN vs ST,ST,KIN,68,10
-10,4th,KIN vs ST,KIN,ST,72,0
 10,4th,FRA vs CAM,CAM,FRA,180,10
 10,4th,FRA vs CAM,FRA,CAM,182,8
 10,4th,CAS vs GEE,GEE,CAS,231,5
 10,4th,CAS vs GEE,CAS,GEE,232,4
+10,4th,KIN vs ST,ST,KIN,68,10
+10,4th,KIN vs ST,KIN,ST,72,0
 10,4th,NOR vs MEL,MEL,NOR,136,9
 10,4th,NOR vs MEL,NOR,MEL,137,4
 10,4th,FIT vs FOO,FOO,FIT,237,5
@@ -799,55 +841,76 @@ round,grade,matchup,opposition,batting_team,total_runs,total_wickets
 11,4th,CAS vs KIN,CAS,KIN,164,3
 11,4th,PRA vs RIC,RIC,PRA,182,10
 11,4th,PRA vs RIC,PRA,RIC,183,4
-12,4th,1st DAN vs 1st GEE,1st GEE,1st DAN,264,10
-12,4th,1st DAN vs 1st GEE,1st DAN,1st GEE,262,8
 12,4th,1st MEL vs 1st CAR,1st CAR,1st MEL,236,10
 12,4th,1st MEL vs 1st CAR,1st MEL,1st CAR,157,10
-12,4th,1st CAM vs 1st ST,1st ST,1st CAM,155,7
-12,4th,1st CAM vs 1st ST,1st CAM,1st ST,136,7
+12,4th,1st DAN vs 1st GEE,1st GEE,1st DAN,264,10
+12,4th,1st DAN vs 1st GEE,1st DAN,1st GEE,262,8
 12,4th,1st RIN vs 1st RIC,1st RIC,1st RIN,237,10
 12,4th,1st RIN vs 1st RIC,1st RIN,1st RIC,336,9
-12,4th,1st NOR vs 1st ESS,1st ESS,1st NOR,133,10
-12,4th,1st NOR vs 1st ESS,1st NOR,1st ESS,142,3d
+12,4th,1st CAM vs 1st ST,1st ST,1st CAM,155,7
+12,4th,1st CAM vs 1st ST,1st CAM,1st ST,136,7
 12,4th,1st FIT vs 1st FRA,1st FRA,1st FIT,287,8d
 12,4th,1st FIT vs 1st FRA,1st FIT,1st FRA,187,10
+12,4th,1st NOR vs 1st ESS,1st ESS,1st NOR,133,10
+12,4th,1st NOR vs 1st ESS,1st NOR,1st ESS,142,3d
+12,4th,1st NOR vs 1st ESS,1st NOR,2nd NOR,158,2d
+12,4th,1st NOR vs 1st ESS,1st NOR,2nd ESS,153,5
 12,4th,1st PRA vs 1st MEL,1st MEL,1st PRA,175,10
 12,4th,1st PRA vs 1st MEL,1st PRA,1st MEL,198,8
 12,4th,1st GRE vs 1st KIN,1st KIN,1st GRE,211,10
 12,4th,1st GRE vs 1st KIN,1st GRE,1st KIN,330,7
-13,4th,1st RIC vs 1st ST,1st ST,1st RIC,143,10
-13,4th,1st RIC vs 1st ST,1st RIC,1st ST,102,10
 12,4th,1st CAS vs 1st FOO,1st FOO,1st CAS,292,5
 12,4th,1st CAS vs 1st FOO,1st CAS,1st FOO,168,10
+13,4th,1st RIC vs 1st ST,1st ST,1st RIC,143,10
+13,4th,1st RIC vs 1st ST,1st RIC,1st ST,102,10
+13,4th,1st RIC vs 1st ST,1st RIC,2nd RIC,210,4
 13,4th,1st KIN vs 1st FIT,1st FIT,1st KIN,124,10
 13,4th,1st KIN vs 1st FIT,1st KIN,1st FIT,127,5d
+13,4th,1st KIN vs 1st FIT,1st KIN,2nd KIN,111,10
+13,4th,1st KIN vs 1st FIT,1st KIN,2nd FIT,109,5
 13,4th,1st FOO vs 1st ESS,1st ESS,1st FOO,307,7d
 13,4th,1st FOO vs 1st ESS,1st FOO,1st ESS,252,10
 13,4th,1st DAN vs 1st MEL,1st MEL,1st DAN,94,10
 13,4th,1st DAN vs 1st MEL,1st DAN,1st MEL,220,4d
+13,4th,1st DAN vs 1st MEL,1st DAN,2nd DAN,169,9
+13,4th,1st DAN vs 1st MEL,1st DAN,2nd MEL,44,0
 13,4th,1st NOR vs 1st PRA,1st PRA,1st NOR,187,10
 13,4th,1st NOR vs 1st PRA,1st NOR,1st PRA,149,10
 13,4th,1st CAR vs 1st CAM,1st CAM,1st CAR,350,9d
 13,4th,1st CAR vs 1st CAM,1st CAR,1st CAM,226,7
 13,4th,1st FRA vs 1st GEE,1st GEE,1st FRA,256,10
 13,4th,1st FRA vs 1st GEE,1st FRA,1st GEE,159,10
+13,4th,1st FRA vs 1st GEE,1st FRA,2nd FRA,66,5
 13,4th,1st CAS vs 1st RIN,1st RIN,1st CAS,197,10
 13,4th,1st CAS vs 1st RIN,1st CAS,1st RIN,285,7
-13,4th,1st GRE vs 1st MEL,1st MEL,1st GRE,88,10
-13,4th,1st GRE vs 1st MEL,1st GRE,1st MEL,189,6d
 14,4th,1st CAS vs 1st RIC,1st RIC,1st CAS,99,10
 14,4th,1st CAS vs 1st RIC,1st CAS,1st RIC,114,9d
-14,4th,1st NOR vs 1st MEL,1st MEL,1st NOR,52,10
-14,4th,1st NOR vs 1st MEL,1st NOR,1st MEL,169,6d
-14,4th,1st DAN vs 1st CAR,1st CAR,1st DAN,134,10
-14,4th,1st DAN vs 1st CAR,1st DAN,1st CAR,172,1d
-14,4th,1st KIN vs 1st FRA,1st FRA,1st KIN,122,10
-14,4th,1st KIN vs 1st FRA,1st KIN,1st FRA,127,3d
+14,4th,1st CAS vs 1st RIC,1st CAS,2nd CAS,144,10
+14,4th,1st CAS vs 1st RIC,1st CAS,2nd RIC,130,5
 14,4th,1st FIT vs 1st ESS,1st ESS,1st FIT,329,8d
 14,4th,1st FIT vs 1st ESS,1st FIT,1st ESS,209,10
+13,4th,1st GRE vs 1st MEL,1st MEL,1st GRE,88,10
+13,4th,1st GRE vs 1st MEL,1st GRE,1st MEL,189,6d
+13,4th,1st GRE vs 1st MEL,1st GRE,2nd GRE,101,10
+13,4th,1st GRE vs 1st MEL,1st GRE,2nd MEL,4,0
+14,4th,1st DAN vs 1st CAR,1st CAR,1st DAN,134,10
+14,4th,1st DAN vs 1st CAR,1st DAN,1st CAR,172,1d
+14,4th,1st DAN vs 1st CAR,1st DAN,2nd DAN,122,10
+14,4th,1st DAN vs 1st CAR,1st DAN,2nd CAR,85,1
 14,4th,1st MEL vs 1st CAM,1st CAM,1st MEL,272,5d
 14,4th,1st MEL vs 1st CAM,1st MEL,1st CAM,66,10
+14,4th,1st MEL vs 1st CAM,1st MEL,2nd CAM,145,6
+14,4th,1st KIN vs 1st FRA,1st FRA,1st KIN,122,10
+14,4th,1st KIN vs 1st FRA,1st KIN,1st FRA,127,3d
+14,4th,1st KIN vs 1st FRA,1st KIN,2nd KIN,51,9
+14,4th,1st KIN vs 1st FRA,1st KIN,2nd FRA,47,1
 14,4th,1st PRA vs 1st FOO,1st FOO,1st PRA,155,10
 14,4th,1st PRA vs 1st FOO,1st PRA,1st FOO,201,9d
+14,4th,1st PRA vs 1st FOO,1st PRA,2nd PRA,68,1
+14,4th,1st NOR vs 1st MEL,1st MEL,1st NOR,52,10
+14,4th,1st NOR vs 1st MEL,1st NOR,1st MEL,169,6d
+14,4th,1st NOR vs 1st MEL,1st NOR,2nd NOR,28,1
+14,4th,1st NOR vs 1st MEL,1st NOR,2nd MEL,,0
 14,4th,1st ST vs 1st RIN,1st RIN,1st ST,253,10
 14,4th,1st ST vs 1st RIN,1st ST,1st RIN,184,10
+14,4th,1st ST vs 1st RIN,1st ST,2nd RIN,,0

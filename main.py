@@ -7,11 +7,11 @@ import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # Constants
-SA_JSON = "/Users/agamjotsandhu/Desktop/Random projects/Premier Cricket Analysis/credentials.json"
+SA_JSON = "credentials.json"
 SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1gTbhS70aDUPKOhNJvlEM5TogjcGmvUb4-iSrMV_yhAY/edit"
 CACHE_FILE = "scraped_matches.json"
 MAX_WORKERS = 4
-FORCE_RESCRAPE = True
+FORCE_RESCRAPE = False
 
 grade_links = [
     "https://play.cricket.com.au/grade/4069a25a-cf4d-4ebb-8190-5f7a4cabd4d7?tab=matches",  # Firsts
