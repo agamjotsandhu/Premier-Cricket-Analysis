@@ -1,7 +1,7 @@
 # --- Project Specifics ---
 credentials.json
 .env
-
+csv/
 # --- Python / Data Science ---
 __pycache__/
 *.py[cod]

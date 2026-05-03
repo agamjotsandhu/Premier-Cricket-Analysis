@@ -130,13 +130,110 @@ def _upload_csv_to_sheet(sa_json_path: str, spreadsheet_url: str,
 
     print(f"Uploaded {len(rows)} rows to sheet '{sheet_name}'.")
 
+
+# ------------------------------------------------------------------
+# Per-match worker  (runs in a subprocess)
+# ------------------------------------------------------------------
+def scrape_one(job):
+    round_num, _grade_link, match_url = job
+    driver = ds.build_driver()
+    try:
+        batting_rows, bowling_rows = sip.scrape_scorecard_data(driver, match_url)
+
+        # Prepend round number
+        batting_rows = [[round_num] + row for row in batting_rows]
+        bowling_rows = [[round_num] + row for row in bowling_rows]
+
+        return batting_rows, bowling_rows, match_url
+    finally:
+        driver.quit()
+
+
 # ------------------------------------------------------------------
 # Main
 # ------------------------------------------------------------------
 def main():
-    print("Uploading to Google Sheets...")
-    _upload_csv_to_sheet(SA_JSON, SPREADSHEET_URL, BATTING_CSV, "batting_data")
-    _upload_csv_to_sheet(SA_JSON, SPREADSHEET_URL, BOWLING_CSV, "bowling_data")
+    start_time = time.time()
+
+    cache = load_cache()
+    if FORCE_RESCRAPE:
+        cache = set()
+
+    # --- Scan all grade pages for round/match index ---
+    grade_round_index = {}
+    print("Scanning grades for rounds and matches...")
+    scout = ds.build_driver()
+    try:
+        for grade_link in grade_links:
+            if not grade_link.startswith("http"):
+                continue
+            rounds = ds.scan_grade_all_rounds(scout, grade_link)
+            grade_round_index[grade_link] = rounds
+            print(f"  Found {len(rounds)} rounds in {grade_link}")
+    finally:
+        scout.quit()
+
+    # --- Build job list (skip cached) ---
+    jobs = []
+    skipped_count = 0
+    for grade_link, rounds in grade_round_index.items():
+        for round_num, matches in rounds.items():
+            for _match_name, match_url in matches:
+                if match_url in cache:
+                    skipped_count += 1
+                    continue
+                jobs.append((round_num, grade_link, match_url))
+
+    print(f"Jobs to process: {len(jobs)}  |  Skipped (cached): {skipped_count}")
+
+    # --- Parallel scrape ---
+    master_batting: list = []
+    master_bowling: list = []
+    scraped_count = 0
+    error_count   = 0
+
+    with ProcessPoolExecutor(max_workers=MAX_WORKERS) as ex:
+        futures = {ex.submit(scrape_one, job): job for job in jobs}
+        for fut in as_completed(futures):
+            job = futures[fut]
+            match_url = job[2]
+            try:
+                batting, bowling, url = fut.result()
+                if batting or bowling:
+                    master_batting.extend(batting)
+                    master_bowling.extend(bowling)
+                    scraped_count += 1
+                # Always cache so we don't retry on next run
+                cache.add(url)
+                save_cache(cache)
+                print(f"  Done: {url}")
+            except Exception as e:
+                error_count += 1
+                print(f"  Error ({match_url}): {e}")
+
+    # --- Export CSVs ---
+    if not master_batting and not master_bowling:
+        print("No new data scraped.")
+    else:
+        df_batting = pd.DataFrame(master_batting, columns=BATTING_COLS)
+        df_bowling = pd.DataFrame(master_bowling, columns=BOWLING_COLS)
+
+        df_batting.to_csv(BATTING_CSV, index=False)
+        df_bowling.to_csv(BOWLING_CSV, index=False)
+        print(f"Exported {len(df_batting)} batting rows  → {BATTING_CSV}")
+        print(f"Exported {len(df_bowling)} bowling rows  → {BOWLING_CSV}")
+
+        # --- Upload to Google Sheets ---
+        print("Uploading to Google Sheets...")
+        _upload_csv_to_sheet(SA_JSON, SPREADSHEET_URL, BATTING_CSV, "batting_data")
+        _upload_csv_to_sheet(SA_JSON, SPREADSHEET_URL, BOWLING_CSV, "bowling_data")
+
+    duration = time.time() - start_time
+    print(f"\nSummary:")
+    print(f"  Matches scraped : {scraped_count}")
+    print(f"  Skipped (cache) : {skipped_count}")
+    print(f"  Errors          : {error_count}")
+    print(f"  Wall-clock time : {duration:.2f}s")
 
 
 if __name__ == "__main__":
