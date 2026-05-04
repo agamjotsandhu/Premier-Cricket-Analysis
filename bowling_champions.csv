@@ -1,0 +1,1849 @@
+rank,player,club,grade,wkts,avg
+1,"Chandrasinghe, Ashley",Casey South Melbourne Cricket Club,1st,1051,65.69
+2,"Brasher, Dylan",Footscray Cricket Club,1st,945,63
+3,"Chowna, Farzan",Melbourne Cricket Club,1st,944,72.62
+4,"Thomson, Blake",Melbourne Cricket Club,1st,937,62.47
+5,"Kight, Dylan",Footscray Cricket Club,1st,898,69.08
+6,"Jamieson, Mitchell",Footscray Cricket Club,1st,890,46.84
+7,"Koduru, Jagadeswara",Carlton Cricket Club,1st,779,41
+8,"Luxton, Will",Greenvale Kangaroos Cricket Club,1st,764,50.93
+9,"McKenna, Fergus",Melbourne University Cricket Club,1st,728,42.82
+10,"Smyth, Tom",Carlton Cricket Club,1st,717,47.8
+11,"Newman, Ed",St Kilda Cricket Club,1st,677,52.08
+12,"Lalor, Jack",Northcote Cricket Club,1st,675,42.19
+13,"Rudd, Jack",Fitzroy Doncaster Cricket Club,1st,665,47.5
+14,"Bangs, Lachlan",Prahran Cricket Club,1st,660,44
+15,"Fitzpatrick, Liam",Camberwell Magpies Cricket Club,1st,636,53
+16,"Sundberg, Joshua",Northcote Cricket Club,1st,633,45.21
+17,"Blackford, Liam",Geelong Cricket Club,1st,633,42.2
+18,"Manning, Josh",Kingston Hawthorn Cricket Club,1st,629,37
+19,"Isakka, Jackson",Casey South Melbourne Cricket Club,1st,623,29.67
+20,"Gordon, Finlay",Casey South Melbourne Cricket Club,1st,617,29.38
+21,"Egan, Damon",Prahran Cricket Club,1st,608,35.76
+22,"Forsyth, Brett",Dandenong Cricket Club,1st,603,60.3
+23,"Bean, Finlay",Melbourne University Cricket Club,1st,603,43.07
+24,"Hemp, Cameron",Prahran Cricket Club,1st,597,35.12
+25,"Turner, Alex",Prahran Cricket Club,1st,594,54
+26,"Merlo, Jonathan",Melbourne Cricket Club,1st,584,48.67
+27,"Lemire, Jai",Carlton Cricket Club,1st,583,32.39
+28,"Duke, Harry",Essendon Cricket Club,1st,567,43.62
+29,"Eckland, Joseph",Frankston Peninsula Cricket Club,1st,547,42.08
+30,"Scholz, Dan",Richmond Cricket Club (VIC),1st,545,34.06
+31,"Dean, Travis",Footscray Cricket Club,1st,540,90
+32,"Gulbis, Evan",Carlton Cricket Club,1st,532,40.92
+33,"Seymour, James",St Kilda Cricket Club,1st,528,27.79
+34,"Walter, Paul",Prahran Cricket Club,1st,524,43.67
+35,"D’Rozario, Jonathan",Richmond Cricket Club (VIC),1st,524,32.75
+36,"Elcock, Jai",Frankston Peninsula Cricket Club,1st,522,34.8
+37,"Vines, Eamonn",Geelong Cricket Club,1st,517,73.86
+38,"Doherty, James",Richmond Cricket Club (VIC),1st,502,25.1
+39,"Redhu, Dhruv Poojari",Melbourne University Cricket Club,1st,482,28.35
+40,"Dixon, Harry",St Kilda Cricket Club,1st,478,59.75
+41,"Russ, Thomas",St Kilda Cricket Club,1st,473,39.42
+42,"Crosthwaite, Adam",St Kilda Cricket Club,1st,469,67
+43,"Flynn, Archie",Ringwood Cricket Club,1st,465,33.21
+44,"Harper, Jack",Melbourne Cricket Club,1st,447,49.67
+45,"Trembearth, Joshua",Essendon Cricket Club,1st,440,31.43
+46,"Nadeem, Aiman",Footscray Cricket Club,1st,431,20.52
+47,"Dooley, Patrick",Camberwell Magpies Cricket Club,1st,430,71.67
+48,"Larkin, Joshua",Geelong Cricket Club,1st,422,30.14
+49,"Blair, Will",Northcote Cricket Club,1st,421,28.07
+50,"Poulton, Connor",Essendon Cricket Club,1st,420,32.31
+51,"Rutland, Connor",Carlton Cricket Club,1st,420,23.33
+52,"Slater, Joshua",Dandenong Cricket Club,1st,411,45.67
+53,"Faber, Brandon",St Kilda Cricket Club,1st,408,21.47
+54,"Amin, Rheedyi Adam",Ringwood Cricket Club,1st,407,22.61
+55,"Pednekar, Yash",Casey South Melbourne Cricket Club,1st,400,26.67
+56,"Tindall, Nic",Kingston Hawthorn Cricket Club,1st,397,30.54
+57,"Taranto, Nicholas",Frankston Peninsula Cricket Club,1st,395,28.21
+58,"Perera, Odil",Greenvale Kangaroos Cricket Club,1st,390,30
+59,"Maxwell, Charlie",Frankston Peninsula Cricket Club,1st,384,24
+60,"Wickramasinghe, Vimesh",Kingston Hawthorn Cricket Club,1st,379,27.07
+61,"Wilson, Matthew",Dandenong Cricket Club,1st,376,28.92
+62,"Melville, Henry",Melbourne University Cricket Club,1st,367,30.58
+63,"Hussain, Musa",Greenvale Kangaroos Cricket Club,1st,363,27.92
+64,"Stingel, Ryan",Greenvale Kangaroos Cricket Club,1st,354,25.29
+65,"Rogers, Tom",Ringwood Cricket Club,1st,349,38.78
+66,"Armstrong, Ashley",Geelong Cricket Club,1st,345,34.5
+67,"Pollock, Devin",Casey South Melbourne Cricket Club,1st,343,31.18
+68,"Delaney, Max",Prahran Cricket Club,1st,342,38
+69,"Arsalan, Muhammad",Essendon Cricket Club,1st,330,27.5
+70,"Banthorpe, Liam",Fitzroy Doncaster Cricket Club,1st,330,30
+71,"Sawrey, Joshua",Richmond Cricket Club (VIC),1st,324,54
+72,"Smyth, Harrison",Carlton Cricket Club,1st,323,21.53
+73,"Kellaway, Campbell",Melbourne Cricket Club,1st,314,78.5
+74,"Horlock, Oliver",Ringwood Cricket Club,1st,312,20.8
+75,"Macdonald, Blake",St Kilda Cricket Club,1st,308,30.8
+76,"Spoors, Matthew",Fitzroy Doncaster Cricket Club,1st,308,38.5
+77,"White, Emerson",Essendon Cricket Club,1st,307,20.47
+78,"Gamage, Dhanusha",Dandenong Cricket Club,1st,306,38.25
+79,"Bhalla, Prabhnoor",Greenvale Kangaroos Cricket Club,1st,292,22.46
+80,"Singh, Yuvraj",Melbourne University Cricket Club,1st,290,24.17
+81,"Kodoth, Akshay",Camberwell Magpies Cricket Club,1st,289,20.64
+82,"Forrest, Patrick",Camberwell Magpies Cricket Club,1st,287,31.89
+83,"du Toit, Nikki",Melbourne Cricket Club,1st,286,95.33
+84,"Sullivan, Dominic",Carlton Cricket Club,1st,285,35.63
+85,"Lewis, Joel",Kingston Hawthorn Cricket Club,1st,284,23.67
+86,"Chopra, Shorye",Camberwell Magpies Cricket Club,1st,283,21.77
+87,"Mills, Sam",Richmond Cricket Club (VIC),1st,280,23.33
+88,"Hoekstra, Harry",Casey South Melbourne Cricket Club,1st,275,22.92
+89,"King, David",Ringwood Cricket Club,1st,267,16.69
+90,"Singh, Shobit",Dandenong Cricket Club,1st,266,17.73
+91,"Crispe, Aaron",Northcote Cricket Club,1st,261,21.75
+92,"Malik, Daud",Casey South Melbourne Cricket Club,1st,258,21.5
+93,"Winn, Liam",Fitzroy Doncaster Cricket Club,1st,258,18.43
+94,"Wiseman, James",Camberwell Magpies Cricket Club,1st,254,50.8
+95,"Rajput, Arshit",Essendon Cricket Club,1st,250,20.83
+96,"Vincent, Jonathan",Kingston Hawthorn Cricket Club,1st,249,19.15
+97,"Gibson, Benjamin",Ringwood Cricket Club,1st,249,20.75
+98,"Hinds, Jacob",Richmond Cricket Club (VIC),1st,248,16.53
+99,"Sehrawat, Arjun",Geelong Cricket Club,1st,241,21.91
+100,"Hammel, Ryan",Dandenong Cricket Club,1st,240,21.82
+101,"Prestwidge, Jack",Footscray Cricket Club,1st,236,23.6
+102,"O’Brien, Robbie",Greenvale Kangaroos Cricket Club,1st,234,29.25
+103,"Molloy, Liam",Essendon Cricket Club,1st,229,17.62
+104,"Gleeson, Tearan",Northcote Cricket Club,1st,227,15.13
+105,"Elliott, Samuel",Fitzroy Doncaster Cricket Club,1st,226,28.25
+106,"Dhanoa, Ikroop",Essendon Cricket Club,1st,222,37
+107,"Caulfield, Nathan",Geelong Cricket Club,1st,221,20.09
+108,"Field, Lachie",Geelong Cricket Club,1st,220,16.92
+109,"Elliott, Zachary",Fitzroy Doncaster Cricket Club,1st,219,16.85
+110,"Malik, Zen",Kingston Hawthorn Cricket Club,1st,217,19.73
+111,"Malcolm, Damon",Prahran Cricket Club,1st,210,42
+112,"Klauer, Lachlan",Frankston Peninsula Cricket Club,1st,208,20.8
+113,"Holland, Ian",Ringwood Cricket Club,1st,207,25.88
+114,"Lawson, Mitch",Northcote Cricket Club,1st,204,20.4
+115,"Howe, Christian",Melbourne Cricket Club,1st,203,25.38
+116,"Hatzoglou, Peter",Melbourne University Cricket Club,1st,203,12.69
+117,"Attanayake, Thaveesh",Kingston Hawthorn Cricket Club,1st,203,29
+118,"Kellaway, Christopher",Melbourne Cricket Club,1st,200,25
+119,"Singh, Armann",Greenvale Kangaroos Cricket Club,1st,196,16.33
+120,"Alavi, Ejaaz",Fitzroy Doncaster Cricket Club,1st,195,24.38
+121,"Symons, Brodie",Prahran Cricket Club,1st,193,32.17
+122,"Harper, Sam",Melbourne Cricket Club,1st,190,47.5
+123,"Poppa, Andrew Lewis",Carlton Cricket Club,1st,188,37.6
+124,"Taeuber, Braden",Fitzroy Doncaster Cricket Club,1st,184,23
+125,"Lyndon, Jack",Melbourne University Cricket Club,1st,183,22.88
+126,"Warren, Douglas",Melbourne University Cricket Club,1st,172,21.5
+127,"Benedek, Chris",Casey South Melbourne Cricket Club,1st,171,34.2
+128,"McKenzie, Hamish",Camberwell Magpies Cricket Club,1st,170,42.5
+129,"Hinds, Connor",Richmond Cricket Club (VIC),1st,169,14.08
+130,"Khattak, Saad",Kingston Hawthorn Cricket Club,1st,169,14.08
+131,"Hay, Michael",Northcote Cricket Club,1st,169,18.78
+132,"Goodman, Tim",Richmond Cricket Club (VIC),1st,167,27.83
+133,"Rojko, Cooper",St Kilda Cricket Club,1st,164,23.43
+134,"Freeman, Jackson",Ringwood Cricket Club,1st,162,16.2
+135,"Sathyajith, Vithum",Kingston Hawthorn Cricket Club,1st,161,20.13
+136,"Irfan, Muhammad",Casey South Melbourne Cricket Club,1st,161,20.13
+137,"Nanopoulos, James",Dandenong Cricket Club,1st,159,15.9
+138,"Harbinson, Sam",Northcote Cricket Club,1st,159,17.67
+139,"Rose, Brendan",Richmond Cricket Club (VIC),1st,156,26
+140,"Hennig, Matthew",St Kilda Cricket Club,1st,156,22.29
+141,"Walker, Dylan",Ringwood Cricket Club,1st,156,19.5
+142,"Crone, Xavier",Frankston Peninsula Cricket Club,1st,154,14
+143,"Remy, Cooper",Frankston Peninsula Cricket Club,1st,153,30.6
+144,"De Silva, Shenuka",Prahran Cricket Club,1st,152,19
+145,"Singh, Ranbir",Richmond Cricket Club (VIC),1st,151,21.57
+146,"Sharma, Aryan J",Carlton Cricket Club,1st,150,21.43
+147,"Muntasir, Yaseen",Greenvale Kangaroos Cricket Club,1st,148,16.44
+148,"Handscomb, Peter",St Kilda Cricket Club,1st,148,37
+149,"Pace, Joshua",Footscray Cricket Club,1st,145,13.18
+150,"Anlezark, Austin",Richmond Cricket Club (VIC),1st,144,144
+151,"Croes, Noah",Melbourne University Cricket Club,1st,143,15.89
+152,"Birthisel, Max",Footscray Cricket Club,1st,139,19.86
+153,"Cater, Cory",Kingston Hawthorn Cricket Club,1st,136,12.36
+154,"Barnes, Harrison",Melbourne University Cricket Club,1st,134,33.5
+155,"Smith, Jackson",Northcote Cricket Club,1st,131,13.1
+156,"Parsons, Jarrod",Essendon Cricket Club,1st,130,32.5
+157,"Fitzsimmons, Coby",Camberwell Magpies Cricket Club,1st,127,21.17
+158,"Lill, Charles",Melbourne Cricket Club,1st,125,25
+159,"Maxwell, Glenn",Fitzroy Doncaster Cricket Club,1st,122,61
+160,"Paramesh, Prajay",Camberwell Magpies Cricket Club,1st,119,17
+161,"Destito, Luke",St Kilda Cricket Club,1st,119,19.83
+162,"Whiteaker, Jacob",Melbourne University Cricket Club,1st,117,19.5
+163,"Stevenson, Cameron",Carlton Cricket Club,1st,117,14.63
+164,"Phelan, Mark",Fitzroy Doncaster Cricket Club,1st,115,16.43
+165,"Scott, Tom",Camberwell Magpies Cricket Club,1st,112,14
+166,"Heigl, Kurt",Richmond Cricket Club (VIC),1st,108,21.6
+167,"Wrigglesworth, Thomas",Melbourne Cricket Club,1st,107,11.89
+168,"Fraser, Jobe",Camberwell Magpies Cricket Club,1st,107,13.38
+169,"Kranzbuhler, Luke",Frankston Peninsula Cricket Club,1st,107,17.83
+170,"Singh, Jaspreet",Frankston Peninsula Cricket Club,1st,106,9.64
+171,"Lalor, Archie",Northcote Cricket Club,1st,100,20
+172,"Ramkumar, Vishwa",Dandenong Cricket Club,1st,94,18.8
+173,"Wilton, Lenny",Casey South Melbourne Cricket Club,1st,93,31
+174,"Paramesh, Sacheen R",Camberwell Magpies Cricket Club,1st,92,30.67
+175,"Toseland, Bailey",Footscray Cricket Club,1st,91,15.17
+176,"Wilcox, Matt",Prahran Cricket Club,1st,90,12.86
+177,"Galeotti, Justin",Greenvale Kangaroos Cricket Club,1st,90,30
+178,"Stow, Luke",Kingston Hawthorn Cricket Club,1st,90,11.25
+179,"Vine, Jay",Footscray Cricket Club,1st,89,14.83
+180,"Lambden, Nathan",Casey South Melbourne Cricket Club,1st,88,9.78
+181,"Fitzgerald, Harry",Greenvale Kangaroos Cricket Club,1st,87,12.43
+182,"Lenehan, Aidan",Frankston Peninsula Cricket Club,1st,84,14
+183,"Tully, Luke",Ringwood Cricket Club,1st,82,20.5
+184,"Fernando, Oshada",Greenvale Kangaroos Cricket Club,1st,81,27
+185,"Garner, Josh",Geelong Cricket Club,1st,81,8.1
+186,"Simondson, Charles",Camberwell Magpies Cricket Club,1st,81,11.57
+187,"Medew-Ewen, Joe",Northcote Cricket Club,1st,80,16
+188,"Gove, Sam",Frankston Peninsula Cricket Club,1st,80,8
+189,"Kellapotha, Ruwantha",Casey South Melbourne Cricket Club,1st,77,19.25
+190,"O’Connell, Tom",Geelong Cricket Club,1st,76,25.33
+191,"Attard, Zane",Geelong Cricket Club,1st,75,12.5
+192,"Martin, Jackson",Essendon Cricket Club,1st,75,75
+193,"Billington, James",Prahran Cricket Club,1st,74,18.5
+194,"van Wijk, Sean",Frankston Peninsula Cricket Club,1st,73,18.25
+195,"kellar, tom",Fitzroy Doncaster Cricket Club,1st,69,9.86
+196,"Aikman, Ryan",Geelong Cricket Club,1st,69,11.5
+197,"Abeyesekera, Aaron",Casey South Melbourne Cricket Club,1st,68,17
+198,"Singh, Harvinder",Essendon Cricket Club,1st,67,13.4
+199,"Khatra, Gurnaz",Fitzroy Doncaster Cricket Club,1st,67,9.57
+200,"Seneviratne, Gehan",Dandenong Cricket Club,1st,67,16.75
+201,"Mason, Liam",Footscray Cricket Club,1st,66,16.5
+202,"Brar, Guntaas",Carlton Cricket Club,1st,65,16.25
+203,"Hemachandra, Venuk",Dandenong Cricket Club,1st,65,16.25
+204,"Mohotty, Vinu",Casey South Melbourne Cricket Club,1st,62,12.4
+205,"Bowering, William",Kingston Hawthorn Cricket Club,1st,58,11.6
+206,"Pearson, Tyler",Kingston Hawthorn Cricket Club,1st,57,28.5
+207,"Sugumar, Timothy",Ringwood Cricket Club,1st,56,11.2
+208,"Macciocca, Zachary",Fitzroy Doncaster Cricket Club,1st,56,14
+209,"Koliba, Lincoln",Geelong Cricket Club,1st,54,13.5
+210,"Kharoud, Rupptaz",Fitzroy Doncaster Cricket Club,1st,54,18
+211,"Raman, Ritin",Melbourne Cricket Club,1st,53,17.67
+212,"Sears, Ben",Melbourne University Cricket Club,1st,52,17.33
+213,"Haberfield, Oliver",Geelong Cricket Club,1st,52,17.33
+214,"Lovell, Will",St Kilda Cricket Club,1st,49,16.33
+215,"Thompson, Jordan",Northcote Cricket Club,1st,48,24
+216,"Abdulrafay, Muhammad",Essendon Cricket Club,1st,48,16
+217,"Edwards, Scott",Richmond Cricket Club (VIC),1st,47,-
+218,"Hundal, Gurbaaz",Greenvale Kangaroos Cricket Club,1st,43,21.5
+219,"Prakash, Janak",Melbourne University Cricket Club,1st,42,14
+220,"McPhee, James",Prahran Cricket Club,1st,41,8.2
+221,"Fletcher, Nicholas",Fitzroy Doncaster Cricket Club,1st,41,10.25
+222,"Childs, Miller",Fitzroy Doncaster Cricket Club,1st,40,8
+223,"Cliff, Benjamin",Greenvale Kangaroos Cricket Club,1st,40,5
+224,"Paddington, Thomas",St Kilda Cricket Club,1st,37,9.25
+225,"Meehan, James",Melbourne Cricket Club,1st,37,37
+226,"Beaton, Justin",Ringwood Cricket Club,1st,37,6.17
+227,"Newell, Sam",Dandenong Cricket Club,1st,37,12.33
+228,"Aldridge, Charlie",Kingston Hawthorn Cricket Club,1st,37,6.17
+229,"Rolfs, Benjamin",Melbourne University Cricket Club,1st,36,36
+230,"McGuane, Nicholas",Essendon Cricket Club,1st,36,6
+231,"Bhatia, Archit",Richmond Cricket Club (VIC),1st,35,8.75
+232,"Mountain, Matthew",Ringwood Cricket Club,1st,35,11.67
+233,"Harris, Marcus",St Kilda Cricket Club,1st,34,11.33
+234,"Desai, Rishi",Melbourne Cricket Club,1st,34,34
+235,"McGillivray, Wilson",Melbourne Cricket Club,1st,34,8.5
+236,"Archer, Michael",Carlton Cricket Club,1st,34,17
+237,"Box, Griffin",Richmond Cricket Club (VIC),1st,34,11.33
+238,"Lalor, Daniel",Northcote Cricket Club,1st,33,11
+239,"Hatzoglou, Max",Footscray Cricket Club,1st,33,11
+240,"Myott, Liam",Fitzroy Doncaster Cricket Club,1st,33,16.5
+241,"Howard, Adam",Northcote Cricket Club,1st,32,6.4
+242,"Burton, Conroy",Greenvale Kangaroos Cricket Club,1st,31,10.33
+243,"Nelson, Tom",Camberwell Magpies Cricket Club,1st,29,4.83
+244,"Gunning, Oliver",Melbourne Cricket Club,1st,29,7.25
+245,"Peake, Oliver",Geelong Cricket Club,1st,29,14.5
+246,"Ramkumar, Akshay",Casey South Melbourne Cricket Club,1st,29,29
+247,"Adihetty, Ashvin",Casey South Melbourne Cricket Club,1st,29,14.5
+248,"Brennan, Nicholas",Carlton Cricket Club,1st,29,29
+249,"Murphy, Todd",St Kilda Cricket Club,1st,28,14
+250,"Gouge, Patrick",Ringwood Cricket Club,1st,28,14
+251,"Rosham, James",Melbourne Cricket Club,1st,27,13.5
+252,"Neate, Thomas",Geelong Cricket Club,1st,27,9
+253,"Fotia, Matthew",Ringwood Cricket Club,1st,26,8.67
+254,"Stafford, Mark",Melbourne University Cricket Club,1st,26,3.71
+255,"Highgate, Declan",Greenvale Kangaroos Cricket Club,1st,25,25
+256,"Markovski, Nicholas",Essendon Cricket Club,1st,24,8
+257,"Wilczynski, Daniel",Footscray Cricket Club,1st,24,24
+258,"Tye, Andrew",Prahran Cricket Club,1st,24,24
+259,"Frost, Ashton",Footscray Cricket Club,1st,24,12
+260,"Cox, Liam",Frankston Peninsula Cricket Club,1st,24,12
+261,"Jephcott, Michael",Northcote Cricket Club,1st,24,8
+262,"Bansal, Vishesh",Dandenong Cricket Club,1st,22,11
+263,"Wickham, Benjamin",Melbourne Cricket Club,1st,21,21
+264,"Jamieson, Reuben",Camberwell Magpies Cricket Club,1st,20,10
+265,"Cestnik, Mitchell",Frankston Peninsula Cricket Club,1st,20,6.67
+266,"Kelly, Bernard",Greenvale Kangaroos Cricket Club,1st,19,3.17
+267,"Giles, Charlie",Prahran Cricket Club,1st,19,19
+268,"Zmak, Ivan",Greenvale Kangaroos Cricket Club,1st,18,6
+269,"Roach, Angus",Fitzroy Doncaster Cricket Club,1st,18,9
+270,"O’Neill, Fergus",Melbourne Cricket Club,1st,18,-
+271,"Fernando, Vihanga",Essendon Cricket Club,1st,17,4.25
+272,"Parr, Zac",Fitzroy Doncaster Cricket Club,1st,17,-
+273,"Bartlett, Joshua",St Kilda Cricket Club,1st,17,8.5
+274,"Curtis, Lachlan",Frankston Peninsula Cricket Club,1st,16,8
+275,"Gray, Henry",St Kilda Cricket Club,1st,16,8
+276,"Whitford, Nathan",Dandenong Cricket Club,1st,16,8
+277,"Safdar, Noman",Essendon Cricket Club,1st,16,3.2
+278,"Augustin, Jacques",Dandenong Cricket Club,1st,15,15
+279,"Bajwa, Harkirat",Fitzroy Doncaster Cricket Club,1st,15,3
+280,"Fischbacher, Herbie",Kingston Hawthorn Cricket Club,1st,15,5
+281,"Sullivan, Jack",Melbourne Cricket Club,1st,14,14
+282,"Walker, Tom",Melbourne University Cricket Club,1st,14,4.67
+283,"Hurley, Noah",Dandenong Cricket Club,1st,13,4.33
+284,"Allaway, Evan",Casey South Melbourne Cricket Club,1st,13,4.33
+285,"Dichiera, Lewis",Greenvale Kangaroos Cricket Club,1st,13,6.5
+286,"Farooq, Reyaan",St Kilda Cricket Club,1st,13,6.5
+287,"Matheson, Jamie",Frankston Peninsula Cricket Club,1st,13,-
+288,"Roosenboom, Ben",Footscray Cricket Club,1st,13,4.33
+289,"Curran, Thomas",Melbourne Cricket Club,1st,13,6.5
+290,"Fernando, Nirmana",Greenvale Kangaroos Cricket Club,1st,13,4.33
+291,"Helwig, Kieren",Geelong Cricket Club,1st,12,6
+292,"McConnell, Lucas",Frankston Peninsula Cricket Club,1st,12,6
+293,"Forwood, Michael",Melbourne University Cricket Club,1st,11,11
+294,"Nadeem, Aayan",Footscray Cricket Club,1st,10,3.33
+295,"Mahadeva, Barathan",Dandenong Cricket Club,1st,10,-
+296,"Browning, James",Melbourne University Cricket Club,1st,10,-
+297,"Sutherland, Tobias",Greenvale Kangaroos Cricket Club,1st,10,5
+298,"Pattinson, James",Dandenong Cricket Club,1st,9,9
+299,"Perry, Mitch",Richmond Cricket Club (VIC),1st,9,4.5
+300,"Farrand, Jonathan",Ringwood Cricket Club,1st,8,8
+301,"Ash, Joshua",Richmond Cricket Club (VIC),1st,8,8
+302,"Bollu, Kanishk",Greenvale Kangaroos Cricket Club,1st,8,8
+303,"Mikedis, Max",Northcote Cricket Club,1st,8,-
+304,"Harper, Nathan",Geelong Cricket Club,1st,7,3.5
+305,"Collins, Josh",Geelong Cricket Club,1st,7,7
+306,"Parikh, Dhruval",Richmond Cricket Club (VIC),1st,7,1.75
+307,"Busk, Lachie",Essendon Cricket Club,1st,7,7
+308,"Cunnington, Jack",St Kilda Cricket Club,1st,7,2.33
+309,"Neate, Lachlan",Geelong Cricket Club,1st,7,3.5
+310,"Keppetipola, Bhanuka",Kingston Hawthorn Cricket Club,1st,6,6
+311,"Newman, Angus",St Kilda Cricket Club,1st,6,6
+312,"Mark, Reiley",Richmond Cricket Club (VIC),1st,6,6
+313,"Dignan, Jye",Frankston Peninsula Cricket Club,1st,6,-
+314,"ivanovic, daniel",Ringwood Cricket Club,1st,5,5
+315,"Hay, Jack",Frankston Peninsula Cricket Club,1st,5,5
+316,"Majoka, Rehan",Kingston Hawthorn Cricket Club,1st,5,-
+317,"McClure, Cam",Prahran Cricket Club,1st,4,1.33
+318,"Mileto, Tom",Melbourne University Cricket Club,1st,4,2
+319,"Pearce, Matthew",Northcote Cricket Club,1st,4,4
+320,"Mohade, Harsh Laxmikant",Frankston Peninsula Cricket Club,1st,4,2
+321,"Edwards, Henry",Carlton Cricket Club,1st,4,4
+322,"Pietz, Jakey",Camberwell Magpies Cricket Club,1st,4,4
+323,"Marinic, Max",Dandenong Cricket Club,1st,4,2
+324,"Parker, Max",Richmond Cricket Club (VIC),1st,3,1.5
+325,"Hannah, Glenn",Melbourne Cricket Club,1st,3,3
+326,"Beer, Sam",Prahran Cricket Club,1st,2,-
+327,"Guida, Noah",Essendon Cricket Club,1st,2,0.67
+328,"Walker, William",Camberwell Magpies Cricket Club,1st,2,-
+329,"Gill, Simrth Singh",Essendon Cricket Club,1st,2,0.67
+330,"Moody, David",Melbourne Cricket Club,1st,1,-
+331,"Hose, Lachlan",Frankston Peninsula Cricket Club,1st,1,-
+332,"Rai, Navdeep",Essendon Cricket Club,1st,1,1
+333,"Craig, Brodie",Geelong Cricket Club,1st,0,-
+334,"Lane, Roby",Northcote Cricket Club,1st,0,-
+335,"Trevethan, Jack",Richmond Cricket Club (VIC),1st,0,0
+336,"Birchall, Hugh",Prahran Cricket Club,1st,0,-
+337,"Scott, Will",Prahran Cricket Club,1st,0,-
+338,"Xavier, Nicholas",Melbourne Cricket Club,1st,0,-
+339,"Brasher, Lucas",Carlton Cricket Club,1st,0,-
+340,"Shinn-mahony, Lachlan",Carlton Cricket Club,1st,0,-
+341,"Wrigglesworth, Hayden",Dandenong Cricket Club,1st,0,-
+342,"O’Brien, Simon",Melbourne Cricket Club,1st,0,0
+343,"Fitzgerald, Lachlan",Footscray Cricket Club,1st,0,-
+344,"Rogneda, Michael",Northcote Cricket Club,1st,0,-
+345,"Rogers, Thomas",Footscray Cricket Club,1st,0,-
+346,"Collins, Logan",Prahran Cricket Club,1st,0,-
+347,"Ashen, Luke",St Kilda Cricket Club,1st,0,-
+348,"Stow, Callum",Geelong Cricket Club,1st,0,-
+349,"Boyce, James",Prahran Cricket Club,1st,0,-
+350,"Collins, William",Prahran Cricket Club,1st,0,-
+351,"McIlveen, Callum",Richmond Cricket Club (VIC),1st,0,0
+352,"Lawson, Gabe",Ringwood Cricket Club,1st,0,-
+353,"O'Brien, Declan",Footscray Cricket Club,1st,0,-
+354,"Keogh, Max",Prahran Cricket Club,1st,0,-
+355,"Donegan, Mark",Ringwood Cricket Club,1st,0,0
+356,"Driscoll, Joshua",Melbourne Cricket Club,1st,0,-
+357,"Smillie, Aaron",Carlton Cricket Club,1st,0,-
+358,"Menon, Pranav",Prahran Cricket Club,1st,0,-
+359,"Sullivan, Patrick",Geelong Cricket Club,1st,0,0
+360,"Pollard, Julian",Carlton Cricket Club,1st,0,-
+361,"Anderson, Jimmy",Northcote Cricket Club,1st,0,-
+362,"Jones, Harry",St Kilda Cricket Club,1st,0,-
+1,"Bremner, Matthew",Fitzroy Doncaster Cricket Club,2nd,620,38.75
+2,"Nadeem, Aayan",Footscray Cricket Club,2nd,608,46.77
+3,"Gunning, Oliver",Melbourne Cricket Club,2nd,595,49.58
+4,"Ashish, Ashish",St Kilda Cricket Club,2nd,595,33.06
+5,"Raman, Ritin",Melbourne Cricket Club,2nd,590,65.56
+6,"Farooq, Reyaan",St Kilda Cricket Club,2nd,585,48.75
+7,"Hemachandra, Venuk",Dandenong Cricket Club,2nd,571,43.92
+8,"Lucas, Keir",Carlton Cricket Club,2nd,567,33.35
+9,"O'Brien, Declan",Footscray Cricket Club,2nd,560,50.91
+10,"Shinn-mahony, Lachlan",Carlton Cricket Club,2nd,554,36.93
+11,"Newman, Angus",St Kilda Cricket Club,2nd,530,33.13
+12,"Mileto, Tom",Melbourne University Cricket Club,2nd,522,43.5
+13,"Hatzoglou, Max",Footscray Cricket Club,2nd,506,63.25
+14,"Wilton, Lenny",Casey South Melbourne Cricket Club,2nd,497,35.5
+15,"Phelan, Mark",Fitzroy Doncaster Cricket Club,2nd,492,54.67
+16,"Cunnington, Jack",St Kilda Cricket Club,2nd,489,34.93
+17,"Ramireddy, Santhosh",Geelong Cricket Club,2nd,487,28.65
+18,"Parsons, Patrick",Frankston Peninsula Cricket Club,2nd,482,37.08
+19,"du Toit, Nikki",Melbourne Cricket Club,2nd,477,43.36
+20,"Brogden, Cody",Geelong Cricket Club,2nd,476,26.44
+21,"Macciocca, Zachary",Fitzroy Doncaster Cricket Club,2nd,470,39.17
+22,"Gouge, Patrick",Ringwood Cricket Club,2nd,468,42.55
+23,"Brar, Guntaas",Carlton Cricket Club,2nd,468,46.8
+24,"Long, Jacob",Casey South Melbourne Cricket Club,2nd,467,25.94
+25,"Forwood, Michael",Melbourne University Cricket Club,2nd,456,41.45
+26,"Jephcott, Michael",Northcote Cricket Club,2nd,455,41.36
+27,"Hoffman, Tyler",Richmond Cricket Club (VIC),2nd,453,26.65
+28,"Cozens, Fletcher",Geelong Cricket Club,2nd,451,50.11
+29,"Heigl, Kurt",Richmond Cricket Club (VIC),2nd,446,55.75
+30,"Ajani, Luke",Kingston Hawthorn Cricket Club,2nd,438,24.33
+31,"Pawha, Adit",Camberwell Magpies Cricket Club,2nd,436,33.54
+32,"Morrey, Nicholas",Prahran Cricket Club,2nd,433,48.11
+33,"Scott, Tom",Camberwell Magpies Cricket Club,2nd,426,60.86
+34,"Aikman, Ryan",Geelong Cricket Club,2nd,422,38.36
+35,"Fernando, Aaron",Dandenong Cricket Club,2nd,418,26.13
+36,"Bansal, Vishesh",Dandenong Cricket Club,2nd,412,27.47
+37,"ivanovic, daniel",Ringwood Cricket Club,2nd,403,28.79
+38,"Gray, Henry",St Kilda Cricket Club,2nd,401,30.85
+39,"Barnes, Guy",St Kilda Cricket Club,2nd,382,47.75
+40,"Kasarla, Nikhil Reddy",Casey South Melbourne Cricket Club,2nd,378,29.08
+41,"Ivetic, Simo",Kingston Hawthorn Cricket Club,2nd,375,23.44
+42,"Frost, Ashton",Footscray Cricket Club,2nd,366,33.27
+43,"Wickham, Benjamin",Melbourne Cricket Club,2nd,362,24.13
+44,"Sharma, Aryan",Fitzroy Doncaster Cricket Club,2nd,362,24.13
+45,"Meehan, James",Melbourne Cricket Club,2nd,360,32.73
+46,"Collins, Josh",Geelong Cricket Club,2nd,359,39.89
+47,"Koliba, Lincoln",Geelong Cricket Club,2nd,357,29.75
+48,"Gill, Simrth Singh",Essendon Cricket Club,2nd,356,32.36
+49,"Brne, Ethan",Essendon Cricket Club,2nd,352,70.4
+50,"Richardson, Brodie",Fitzroy Doncaster Cricket Club,2nd,348,19.33
+51,"Gapes, Matthew",Frankston Peninsula Cricket Club,2nd,346,31.45
+52,"Fitzsimmons, Coby",Camberwell Magpies Cricket Club,2nd,344,49.14
+53,"Sriram, Akshith",Carlton Cricket Club,2nd,344,28.67
+54,"Burton, Conroy",Greenvale Kangaroos Cricket Club,2nd,338,33.8
+55,"Hundal, Gurbaaz",Greenvale Kangaroos Cricket Club,2nd,338,42.25
+56,"Wray, Spencer",Carlton Cricket Club,2nd,323,17.94
+57,"Mckenzie, Hamish",Kingston Hawthorn Cricket Club,2nd,321,18.88
+58,"O’Brien, Robbie",Greenvale Kangaroos Cricket Club,2nd,319,63.8
+59,"Prakash, Janak",Melbourne University Cricket Club,2nd,316,52.67
+60,"Iverson, Jack",Richmond Cricket Club (VIC),2nd,315,21
+61,"Bhatia, Archit",Richmond Cricket Club (VIC),2nd,312,44.57
+62,"Tobin, Liam",Essendon Cricket Club,2nd,310,25.83
+63,"Bollu, Kanishk",Greenvale Kangaroos Cricket Club,2nd,310,22.14
+64,"Malcolm, Damon",Prahran Cricket Club,2nd,309,51.5
+65,"Jackson, Travis",Prahran Cricket Club,2nd,307,30.7
+66,"Abeyesekera, Aaron",Casey South Melbourne Cricket Club,2nd,305,33.89
+67,"Paramesh, Prajay",Camberwell Magpies Cricket Club,2nd,305,27.73
+68,"Roach, Angus",Fitzroy Doncaster Cricket Club,2nd,305,27.73
+69,"McComb, Griffin",Camberwell Magpies Cricket Club,2nd,303,33.67
+70,"McConnell, Lucas",Frankston Peninsula Cricket Club,2nd,303,21.64
+71,"Singh, Jaskabeer",Casey South Melbourne Cricket Club,2nd,299,19.93
+72,"Dhanoa, Ikroop",Essendon Cricket Club,2nd,298,49.67
+73,"Ross, Nicholas",Carlton Cricket Club,2nd,297,42.43
+74,"Mountain, Matthew",Ringwood Cricket Club,2nd,295,49.17
+75,"Keppetipola, Bhanuka",Kingston Hawthorn Cricket Club,2nd,291,26.45
+76,"Aldridge, Charlie",Kingston Hawthorn Cricket Club,2nd,288,26.18
+77,"Scott, Will",Prahran Cricket Club,2nd,281,28.1
+78,"Goodman, Tim",Richmond Cricket Club (VIC),2nd,281,28.1
+79,"Remy, Cooper",Frankston Peninsula Cricket Club,2nd,276,25.09
+80,"Flynn, Harry",Ringwood Cricket Club,2nd,276,21.23
+81,"Hyslop, Hugh",Melbourne Cricket Club,2nd,274,45.67
+82,"Storey, Samson",Northcote Cricket Club,2nd,272,22.67
+83,"Rojko, Cooper",St Kilda Cricket Club,2nd,272,30.22
+84,"Gove, Sam",Frankston Peninsula Cricket Club,2nd,270,67.5
+85,"England, Nicholas",Casey South Melbourne Cricket Club,2nd,268,22.33
+86,"Zissis, Lachlan",Prahran Cricket Club,2nd,268,33.5
+87,"Salvado, Aidan",Essendon Cricket Club,2nd,264,18.86
+88,"Morrison, Tom",Dandenong Cricket Club,2nd,263,26.3
+89,"Lill, Charles",Melbourne Cricket Club,2nd,262,29.11
+90,"Wiseman, James",Camberwell Magpies Cricket Club,2nd,255,36.43
+91,"Willett, Oliver",Prahran Cricket Club,2nd,252,19.38
+92,"Markovski, Nicholas",Essendon Cricket Club,2nd,250,22.73
+93,"Sugumar, Timothy",Ringwood Cricket Club,2nd,250,35.71
+94,"Benedek, Chris",Casey South Melbourne Cricket Club,2nd,248,31
+95,"Lalor, Daniel",Northcote Cricket Club,2nd,241,21.91
+96,"Collins, William",Prahran Cricket Club,2nd,240,26.67
+97,"Donegan, Mark",Ringwood Cricket Club,2nd,239,18.38
+98,"Webb, Angus",Greenvale Kangaroos Cricket Club,2nd,229,17.62
+99,"Kelly, Bernard",Greenvale Kangaroos Cricket Club,2nd,229,38.17
+100,"Carter, Dezi",Footscray Cricket Club,2nd,228,38
+101,"Hosemans, Bailey",Northcote Cricket Club,2nd,226,16.14
+102,"van Wijk, Sean",Frankston Peninsula Cricket Club,2nd,226,25.11
+103,"Rolfs, Benjamin",Melbourne University Cricket Club,2nd,223,22.3
+104,"Olsen, Samuel",Camberwell Magpies Cricket Club,2nd,223,17.15
+105,"Meddings, Dan",St Kilda Cricket Club,2nd,221,27.63
+106,"Marinic, Max",Dandenong Cricket Club,2nd,220,24.44
+107,"Backhouse, Riley",Prahran Cricket Club,2nd,219,21.9
+108,"Mohan, Aryan",Dandenong Cricket Club,2nd,216,43.2
+109,"Sullivan, Luke",Kingston Hawthorn Cricket Club,2nd,207,14.79
+110,"Giles, Charlie",Prahran Cricket Club,2nd,206,22.89
+111,"Cavigan, Lucas",Carlton Cricket Club,2nd,205,29.29
+112,"Jaura, Panav",Greenvale Kangaroos Cricket Club,2nd,205,15.77
+113,"Sharma, Naman",Melbourne University Cricket Club,2nd,204,29.14
+114,"Curtis, Lachlan",Frankston Peninsula Cricket Club,2nd,203,29
+115,"Childs, Miller",Fitzroy Doncaster Cricket Club,2nd,203,29
+116,"Chhina, Abhikaran Singh",Dandenong Cricket Club,2nd,202,22.44
+117,"Menon, Pranav",Prahran Cricket Club,2nd,202,33.67
+118,"Kumar, Daksh",Footscray Cricket Club,2nd,201,16.75
+119,"Parker, Max",Richmond Cricket Club (VIC),2nd,199,22.11
+120,"Biddiscombe, Liam",Geelong Cricket Club,2nd,197,24.63
+121,"Cestnik, Mitchell",Frankston Peninsula Cricket Club,2nd,195,21.67
+122,"Toseland, Bailey",Footscray Cricket Club,2nd,194,27.71
+123,"Podesta, Blake",Fitzroy Doncaster Cricket Club,2nd,185,20.56
+124,"Attanayake, Thaveesh",Kingston Hawthorn Cricket Club,2nd,184,61.33
+125,"Rihan, Sayed",Dandenong Cricket Club,2nd,176,22
+126,"McIlveen, Callum",Richmond Cricket Club (VIC),2nd,176,25.14
+127,"Fernando, Vihanga",Essendon Cricket Club,2nd,175,19.44
+128,"Rajput, Arshit",Essendon Cricket Club,2nd,173,57.67
+129,"Sacchetta, Michael",Northcote Cricket Club,2nd,173,24.71
+130,"Majoka, Rehan",Kingston Hawthorn Cricket Club,2nd,173,34.6
+131,"Fischbacher, Herbie",Kingston Hawthorn Cricket Club,2nd,171,19
+132,"Sathyajith, Vithum",Kingston Hawthorn Cricket Club,2nd,170,18.89
+133,"Boyce, James",Prahran Cricket Club,2nd,164,23.43
+134,"Box, Griffin",Richmond Cricket Club (VIC),2nd,163,20.38
+135,"De Silva, Lishan",Fitzroy Doncaster Cricket Club,2nd,161,17.89
+136,"Croft, Sam",Geelong Cricket Club,2nd,160,17.78
+137,"Dichiera, Lewis",Greenvale Kangaroos Cricket Club,2nd,160,17.78
+138,"Jenkins, Cam",Footscray Cricket Club,2nd,160,13.33
+139,"Gunatilake, Roshan",Kingston Hawthorn Cricket Club,2nd,160,53.33
+140,"Gamage, Dhanusha",Dandenong Cricket Club,2nd,160,40
+141,"Kharoud, Rupptaz",Fitzroy Doncaster Cricket Club,2nd,160,16
+142,"Fitzgerald, Harry",Greenvale Kangaroos Cricket Club,2nd,158,31.6
+143,"Lawson, Mitch",Northcote Cricket Club,2nd,158,79
+144,"Mishra, Arin",Essendon Cricket Club,2nd,156,17.33
+145,"Paull, Corey",Geelong Cricket Club,2nd,154,25.67
+146,"Schultheis, Eddy",Melbourne University Cricket Club,2nd,151,30.2
+147,"Sridev, Chandramauli",Greenvale Kangaroos Cricket Club,2nd,150,50
+148,"Perera, Odil",Greenvale Kangaroos Cricket Club,2nd,145,72.5
+149,"Ivanovic, Luke",Ringwood Cricket Club,2nd,144,28.8
+150,"Parsons, Jarrod",Essendon Cricket Club,2nd,144,16
+151,"Smith, Lucas",Camberwell Magpies Cricket Club,2nd,142,20.29
+152,"Forrest, Patrick",Camberwell Magpies Cricket Club,2nd,141,141
+153,"Gray, James",St Kilda Cricket Club,2nd,141,20.14
+154,"Gilham, Luke",Footscray Cricket Club,2nd,141,14.1
+155,"Pace, Joshua",Footscray Cricket Club,2nd,141,47
+156,"Parrott, Kyle",Melbourne Cricket Club,2nd,140,15.56
+157,"Armstrong, Ashley",Geelong Cricket Club,2nd,138,46
+158,"Wasiewicz, Paul",Essendon Cricket Club,2nd,137,27.4
+159,"McGrotty, Finlay",Camberwell Magpies Cricket Club,2nd,133,19
+160,"Panaia, Noah",Footscray Cricket Club,2nd,130,32.5
+161,"Richardson, Joshua",Richmond Cricket Club (VIC),2nd,130,26
+162,"Parker, Sean",Frankston Peninsula Cricket Club,2nd,127,11.55
+163,"kellar, tom",Fitzroy Doncaster Cricket Club,2nd,126,21
+164,"Courtney, Tom",Geelong Cricket Club,2nd,124,31
+165,"Maloney, Monty",Geelong Cricket Club,2nd,123,24.6
+166,"Allaway, Evan",Casey South Melbourne Cricket Club,2nd,122,17.43
+167,"Attard, Zane",Geelong Cricket Club,2nd,122,40.67
+168,"Raza, Ahmed",Casey South Melbourne Cricket Club,2nd,122,122
+169,"Hope-Bell, Jack",Prahran Cricket Club,2nd,121,30.25
+170,"Sharma, Kartikay",Dandenong Cricket Club,2nd,120,60
+171,"McKenzie, Jock",Kingston Hawthorn Cricket Club,2nd,116,23.2
+172,"Nicholls, Henry",Prahran Cricket Club,2nd,116,12.89
+173,"Shaikh, Izan",Carlton Cricket Club,2nd,115,38.33
+174,"Pietz, Daniel",Camberwell Magpies Cricket Club,2nd,115,11.5
+175,"Wrigglesworth, Hayden",Dandenong Cricket Club,2nd,113,16.14
+176,"Edwards, Jackson",Ringwood Cricket Club,2nd,113,11.3
+177,"Kellaway, Christopher",Melbourne Cricket Club,2nd,112,22.4
+178,"Moore, Charlie",Ringwood Cricket Club,2nd,111,15.86
+179,"Young, Tim",Melbourne University Cricket Club,2nd,109,13.63
+180,"Howard, Adam",Northcote Cricket Club,2nd,109,27.25
+181,"Bain, Ted",Geelong Cricket Club,2nd,107,17.83
+182,"Mishra, Prabhav",Ringwood Cricket Club,2nd,105,13.13
+183,"Pancholi, Prithish",Richmond Cricket Club (VIC),2nd,104,20.8
+184,"Patel, Om",Melbourne University Cricket Club,2nd,104,14.86
+185,"Laghmani, Redwan",Kingston Hawthorn Cricket Club,2nd,104,34.67
+186,"Singh, Ranbir",Richmond Cricket Club (VIC),2nd,104,17.33
+187,"Pereara, Ben",Northcote Cricket Club,2nd,103,14.71
+188,"Hay, Jack",Frankston Peninsula Cricket Club,2nd,100,-
+189,"Durrant, Elliott",Melbourne University Cricket Club,2nd,99,11
+190,"Mohade, Harsh Laxmikant",Frankston Peninsula Cricket Club,2nd,99,14.14
+191,"Miles, Alfie",Footscray Cricket Club,2nd,99,16.5
+192,"McComb, Declan",St Kilda Cricket Club,2nd,96,16
+193,"Evans, Tyler",Dandenong Cricket Club,2nd,95,19
+194,"Lalor, Archie",Northcote Cricket Club,2nd,92,46
+195,"Poppa, Andrew Lewis",Carlton Cricket Club,2nd,91,15.17
+196,"Beer, Sam",Prahran Cricket Club,2nd,90,30
+197,"Pearce, Matthew",Northcote Cricket Club,2nd,90,22.5
+198,"Edwards, Henry",Carlton Cricket Club,2nd,89,8.9
+199,"Sharma, Yuvraj",Melbourne Cricket Club,2nd,89,29.67
+200,"Lawson, Gabe",Ringwood Cricket Club,2nd,88,12.57
+201,"Panaia, Noah",Essendon Cricket Club,2nd,87,21.75
+202,"Birthisel, Max",Footscray Cricket Club,2nd,87,43.5
+203,"Hastings, Connor",Melbourne University Cricket Club,2nd,87,29
+204,"Prior, Kevin",Camberwell Magpies Cricket Club,2nd,86,12.29
+205,"Fernando, Ashley",Greenvale Kangaroos Cricket Club,2nd,85,21.25
+206,"Heffernan, Max",Casey South Melbourne Cricket Club,2nd,85,14.17
+207,"Bradley, Max",Fitzroy Doncaster Cricket Club,2nd,84,42
+208,"Khan, Ali",Melbourne University Cricket Club,2nd,84,14
+209,"Langham, Noah",Frankston Peninsula Cricket Club,2nd,84,16.8
+210,"Sharma, Aryan J",Carlton Cricket Club,2nd,83,16.6
+211,"Robertson, Henry",Essendon Cricket Club,2nd,82,11.71
+212,"Mohotty, Vinu",Casey South Melbourne Cricket Club,2nd,81,20.25
+213,"Bienefelt, Kyle",Geelong Cricket Club,2nd,81,20.25
+214,"Ramkumar, Akshay",Casey South Melbourne Cricket Club,2nd,81,16.2
+215,"Wallace, Harrison",Frankston Peninsula Cricket Club,2nd,81,13.5
+216,"Plumb, Brendan",Kingston Hawthorn Cricket Club,2nd,80,11.43
+217,"Barone, Noah",Northcote Cricket Club,2nd,79,15.8
+218,"Lane, Roby",Northcote Cricket Club,2nd,79,11.29
+219,"Kelly, Jett",Dandenong Cricket Club,2nd,79,26.33
+220,"Reid, Tom",Melbourne Cricket Club,2nd,78,13
+221,"Rogneda, Michael",Northcote Cricket Club,2nd,78,15.6
+222,"Sharma, Aryan",Greenvale Kangaroos Cricket Club,2nd,78,15.6
+223,"Robinson, Angus",Fitzroy Doncaster Cricket Club,2nd,76,19
+224,"Hatzoglou, Leo",Melbourne University Cricket Club,2nd,75,10.71
+225,"Pietz, Jakey",Camberwell Magpies Cricket Club,2nd,75,8.33
+226,"O’Riley, Bailey",Ringwood Cricket Club,2nd,75,25
+227,"Graf, Lachlan",St Kilda Cricket Club,2nd,74,12.33
+228,"Blanch, Aaron",Casey South Melbourne Cricket Club,2nd,73,24.33
+229,"Eccles, Brodie",Dandenong Cricket Club,2nd,73,18.25
+230,"Lukies, Kepler",Fitzroy Doncaster Cricket Club,2nd,72,12
+231,"Stables, Marcus",Northcote Cricket Club,2nd,72,10.29
+232,"Muntasir, Yaseen",Greenvale Kangaroos Cricket Club,2nd,72,-
+233,"McMaster, Adam",Dandenong Cricket Club,2nd,71,14.2
+234,"Munasinghe, Nathan A",Prahran Cricket Club,2nd,70,23.33
+235,"Gome, Matthew",Melbourne University Cricket Club,2nd,68,11.33
+236,"Hay, Michael",Northcote Cricket Club,2nd,68,22.67
+237,"Purcell, Thomas",Richmond Cricket Club (VIC),2nd,67,13.4
+238,"Singh, Yuvraj",Melbourne University Cricket Club,2nd,67,33.5
+239,"Singh, Armann",Greenvale Kangaroos Cricket Club,2nd,65,65
+240,"Avari, Neville",Casey South Melbourne Cricket Club,2nd,65,32.5
+241,"Edwards, Joshua",Frankston Peninsula Cricket Club,2nd,65,13
+242,"Hotston, Josh",Frankston Peninsula Cricket Club,2nd,64,32
+243,"Fitzgerald, Lachlan",Footscray Cricket Club,2nd,62,10.33
+244,"Scott, David",St Kilda Cricket Club,2nd,60,30
+245,"Parrott, Max",Melbourne Cricket Club,2nd,59,11.8
+246,"Chapalamadugu, Rohith",Kingston Hawthorn Cricket Club,2nd,59,19.67
+247,"Sridhar, Krishna",Casey South Melbourne Cricket Club,2nd,58,14.5
+248,"Caulfield, Nathan",Geelong Cricket Club,2nd,57,19
+249,"Delaney, Max",Prahran Cricket Club,2nd,56,28
+250,"Halton, William",Casey South Melbourne Cricket Club,2nd,54,13.5
+251,"Morrow, Sean",Carlton Cricket Club,2nd,54,13.5
+252,"Guida, Noah",Essendon Cricket Club,2nd,53,17.67
+253,"Reddell, Brendan",Melbourne Cricket Club,2nd,53,26.5
+254,"Highgate, Declan",Greenvale Kangaroos Cricket Club,2nd,53,17.67
+255,"Hammel, Ryan",Dandenong Cricket Club,2nd,52,26
+256,"Stevenson, Cameron",Carlton Cricket Club,2nd,50,50
+257,"Singh, Gurbir",St Kilda Cricket Club,2nd,49,24.5
+258,"Browning, James",Melbourne University Cricket Club,2nd,49,16.33
+259,"Stephens, Mitchell",Greenvale Kangaroos Cricket Club,2nd,49,9.8
+260,"Singh, Harvinder",Essendon Cricket Club,2nd,48,16
+261,"Clark, Samuel",Greenvale Kangaroos Cricket Club,2nd,48,9.6
+262,"Mahadeva, Barathan",Dandenong Cricket Club,2nd,45,9
+263,"Bienvenu, Hugo",Melbourne University Cricket Club,2nd,45,45
+264,"Kranzbuhler, Luke",Frankston Peninsula Cricket Club,2nd,45,22.5
+265,"Adihetty, Ashvin",Casey South Melbourne Cricket Club,2nd,45,15
+266,"Gorman, Christopher",Camberwell Magpies Cricket Club,2nd,44,14.67
+267,"Walker, Liam",Ringwood Cricket Club,2nd,44,7.33
+268,"Siede, Ryan",Northcote Cricket Club,2nd,42,21
+269,"Sharma, Paawan",Geelong Cricket Club,2nd,42,42
+270,"Cuthbert, Thomas",Northcote Cricket Club,2nd,40,10
+271,"Hurley, Ned",Frankston Peninsula Cricket Club,2nd,38,12.67
+272,"Birchall, Hugh",Prahran Cricket Club,2nd,38,5.43
+273,"Hinds, Jacob",Richmond Cricket Club (VIC),2nd,38,19
+274,"Desai, Rishi",Melbourne Cricket Club,2nd,38,-
+275,"Shadbolt, James",Northcote Cricket Club,2nd,38,9.5
+276,"Gell, Harry",Richmond Cricket Club (VIC),2nd,38,9.5
+277,"Smith, Barnaby",St Kilda Cricket Club,2nd,38,12.67
+278,"Jamieson, Reuben",Camberwell Magpies Cricket Club,2nd,37,37
+279,"Scott, Lochlan",Frankston Peninsula Cricket Club,2nd,37,-
+280,"Vine, Jay",Footscray Cricket Club,2nd,37,18.5
+281,"Nicholls, Aidan",Camberwell Magpies Cricket Club,2nd,37,7.4
+282,"Murphy, Roland",Melbourne Cricket Club,2nd,36,12
+283,"Chandel, Rohan",Dandenong Cricket Club,2nd,35,17.5
+284,"Dignan, Jye",Frankston Peninsula Cricket Club,2nd,35,17.5
+285,"Darji, Krit",Essendon Cricket Club,2nd,34,8.5
+286,"Martin, Jackson",Essendon Cricket Club,2nd,34,17
+287,"Walsh, Lachlan",Frankston Peninsula Cricket Club,2nd,34,17
+288,"Anderson, Sam",Melbourne Cricket Club,2nd,34,17
+289,"Anderson, Jimmy",Northcote Cricket Club,2nd,33,8.25
+290,"Antonello, Liam",Dandenong Cricket Club,2nd,32,16
+291,"Gray, Dylan",Frankston Peninsula Cricket Club,2nd,32,16
+292,"Parikh, Dhruval",Casey South Melbourne Cricket Club,2nd,31,10.33
+293,"Martinus, Romesh",Richmond Cricket Club (VIC),2nd,31,15.5
+294,"Simondson, Charles",Camberwell Magpies Cricket Club,2nd,31,31
+295,"Jones, Harry",St Kilda Cricket Club,2nd,31,31
+296,"Rose, Brendan",Richmond Cricket Club (VIC),2nd,30,30
+297,"Abdul Sathaar, Fayzan",Footscray Cricket Club,2nd,30,10
+298,"Ashton, Will",St Kilda Cricket Club,2nd,30,10
+299,"Stevenson, Jack",Casey South Melbourne Cricket Club,2nd,29,14.5
+300,"Cameron, Jarryd",Ringwood Cricket Club,2nd,29,14.5
+301,"Taneja, Tanish",Footscray Cricket Club,2nd,29,29
+302,"Trevethan, Jack",Richmond Cricket Club (VIC),2nd,28,5.6
+303,"Vincent, Jonathan",Kingston Hawthorn Cricket Club,2nd,28,7
+304,"Brennan, Nicholas",Carlton Cricket Club,2nd,28,28
+305,"Cross, Michael",Greenvale Kangaroos Cricket Club,2nd,27,5.4
+306,"Ash, Joshua",Richmond Cricket Club (VIC),2nd,27,9
+307,"greene, simon",Camberwell Magpies Cricket Club,2nd,27,27
+308,"Melville, Henry",Melbourne University Cricket Club,2nd,26,-
+309,"Dicesare, Earl",Northcote Cricket Club,2nd,25,4.17
+310,"Driscoll, Joshua",Melbourne Cricket Club,2nd,23,11.5
+311,"Halbish, Phil",Melbourne Cricket Club,2nd,23,7.67
+312,"Hinds, Connor",Richmond Cricket Club (VIC),2nd,22,5.5
+313,"Kumar, Krish",Melbourne University Cricket Club,2nd,22,5.5
+314,"McConnell, Aidan",Greenvale Kangaroos Cricket Club,2nd,22,11
+315,"Sullivan, Dominic",Carlton Cricket Club,2nd,21,10.5
+316,"Hose, Lachlan",Frankston Peninsula Cricket Club,2nd,21,7
+317,"Haberfield, Oliver",Geelong Cricket Club,2nd,21,10.5
+318,"Tully, Luke",Ringwood Cricket Club,2nd,21,7
+319,"Harbinson, Sam",Northcote Cricket Club,2nd,21,21
+320,"Atkinson, Jack",Carlton Cricket Club,2nd,20,6.67
+321,"Slater, Joshua",Geelong Cricket Club,2nd,20,20
+322,"Paramesh, Sacheen R",Camberwell Magpies Cricket Club,2nd,20,20
+323,"Kennedy, Jobe",St Kilda Cricket Club,2nd,19,9.5
+324,"Myott, Liam",Fitzroy Doncaster Cricket Club,2nd,18,4.5
+325,"Khatra, Gurnaz",Fitzroy Doncaster Cricket Club,2nd,17,5.67
+326,"Mason, Liam",Footscray Cricket Club,2nd,17,17
+327,"Russell, Liam",Fitzroy Doncaster Cricket Club,2nd,17,5.67
+328,"Sharkey, Ethan",Northcote Cricket Club,2nd,17,8.5
+329,"Ryder, Tremayne",Northcote Cricket Club,2nd,16,8
+330,"Rai, Navdeep",Essendon Cricket Club,2nd,16,5.33
+331,"Malik, Daud",Casey South Melbourne Cricket Club,2nd,16,8
+332,"Martin, Jack",Ringwood Cricket Club,2nd,16,5.33
+333,"Sexton, Benjamin",Prahran Cricket Club,2nd,15,15
+334,"Neate, Thomas",Geelong Cricket Club,2nd,15,15
+335,"Aggelis, Blake",Footscray Cricket Club,2nd,15,5
+336,"Klauer, Lachlan",Frankston Peninsula Cricket Club,2nd,14,-
+337,"Khattak, Saad",Kingston Hawthorn Cricket Club,2nd,14,14
+338,"Scott, Kyle",Kingston Hawthorn Cricket Club,2nd,13,3.25
+339,"D'Souza, Neil",Dandenong Cricket Club,2nd,13,6.5
+340,"Billington, James",Prahran Cricket Club,2nd,13,13
+341,"Lyndon, Jack",Melbourne University Cricket Club,2nd,13,13
+342,"Grummitt, Charlie",Camberwell Magpies Cricket Club,2nd,12,-
+343,"Helwig, Kieren",Geelong Cricket Club,2nd,12,-
+344,"Surendran, Rahul",Fitzroy Doncaster Cricket Club,2nd,12,12
+345,"Fox, Adam",St Kilda Cricket Club,2nd,12,12
+346,"Cox, Liam",Frankston Peninsula Cricket Club,2nd,12,12
+347,"Pawar, Simarjit",Camberwell Magpies Cricket Club,2nd,11,-
+348,"Giove, Nathan",Dandenong Cricket Club,2nd,11,11
+349,"Rath, Parth",Prahran Cricket Club,2nd,10,-
+350,"Xavier, Nicholas",Melbourne Cricket Club,2nd,10,5
+351,"Taeuber, Braden",Fitzroy Doncaster Cricket Club,2nd,10,5
+352,"Parr, Zac",Fitzroy Doncaster Cricket Club,2nd,9,4.5
+353,"Farrand, Jonathan",Ringwood Cricket Club,2nd,9,2.25
+354,"Smith, Kobe",Fitzroy Doncaster Cricket Club,2nd,9,9
+355,"Smith, Harry",Fitzroy Doncaster Cricket Club,2nd,9,4.5
+356,"Scott-Waters, Oscar",Frankston Peninsula Cricket Club,2nd,9,3
+357,"Sutherland, Tobias",Greenvale Kangaroos Cricket Club,2nd,9,9
+358,"Smillie, Aaron",Carlton Cricket Club,2nd,9,-
+359,"Fernando, Nirmana",Greenvale Kangaroos Cricket Club,2nd,9,9
+360,"Field, Samuel",Melbourne Cricket Club,2nd,8,4
+361,"obrien, Ryder",Footscray Cricket Club,2nd,8,8
+362,"Mant, Keiran",Kingston Hawthorn Cricket Club,2nd,8,8
+363,"Cunningham, Toby",Geelong Cricket Club,2nd,8,-
+364,"Ceeney, Ashton",Dandenong Cricket Club,2nd,8,8
+365,"Nand, Raj",Melbourne University Cricket Club,2nd,7,-
+366,"McGinty, Seth",Carlton Cricket Club,2nd,7,2.33
+367,"Hannah, Glenn",Melbourne Cricket Club,2nd,7,-
+368,"Dobson, Caiden",Richmond Cricket Club (VIC),2nd,6,6
+369,"Ashen, Luke",St Kilda Cricket Club,2nd,6,2
+370,"Wigney, Charlie",Richmond Cricket Club (VIC),2nd,6,-
+371,"Anuradha, Sesath",Greenvale Kangaroos Cricket Club,2nd,6,6
+372,"Smith, Christian",Dandenong Cricket Club,2nd,5,2.5
+373,"Banfield, Will",Ringwood Cricket Club,2nd,5,5
+374,"Wynne, Trent",Ringwood Cricket Club,2nd,5,5
+375,"Manteit, Leonardo",Northcote Cricket Club,2nd,5,5
+376,"Karaluwinne, Charlie",Greenvale Kangaroos Cricket Club,2nd,5,-
+377,"Young, Andrew",Melbourne University Cricket Club,2nd,5,5
+378,"Takkar, Harshit",Melbourne University Cricket Club,2nd,5,5
+379,"Bush, Vincent",Carlton Cricket Club,2nd,5,5
+380,"Seneviratne, Gehan",Dandenong Cricket Club,2nd,5,5
+381,"Reed, Jackson",Richmond Cricket Club (VIC),2nd,5,-
+382,"Butt, Umair",Footscray Cricket Club,2nd,5,1.25
+383,"Jarrett, James",Camberwell Magpies Cricket Club,2nd,5,2.5
+384,"Paddington, Thomas",St Kilda Cricket Club,2nd,4,4
+385,"Brasher, Lucas",Carlton Cricket Club,2nd,4,1.33
+386,"Hirani, Parth",Dandenong Cricket Club,2nd,4,2
+387,"Beer, Jack",Carlton Cricket Club,2nd,4,-
+388,"Zmak, Ivan",Greenvale Kangaroos Cricket Club,2nd,4,2
+389,"Rosham, James",Melbourne Cricket Club,2nd,4,-
+390,"Safdar, Noman",Essendon Cricket Club,2nd,4,-
+391,"Cesaro, Thomas",Melbourne Cricket Club,2nd,4,-
+392,"Kapoor, Saksham",Prahran Cricket Club,2nd,3,3
+393,"Booth, Tristan",Casey South Melbourne Cricket Club,2nd,3,3
+394,"Pawlowicz, Jacob",Essendon Cricket Club,2nd,2,-
+395,"O'Donnell, Brodie",Melbourne University Cricket Club,2nd,2,1
+396,"Rixon, Adam",Camberwell Magpies Cricket Club,2nd,2,2
+397,"Bepey, Isaac",Melbourne Cricket Club,2nd,2,-
+398,"Parikh, Dhruval",Richmond Cricket Club (VIC),2nd,2,2
+399,"Jacotine, Dylan",Kingston Hawthorn Cricket Club,2nd,2,2
+400,"Bowering, William",Kingston Hawthorn Cricket Club,2nd,1,-
+401,"Appu, Ashwin",Prahran Cricket Club,2nd,1,-
+402,"Noonan, Darcy",Ringwood Cricket Club,2nd,1,1
+403,"Moraitis, Jamie",Kingston Hawthorn Cricket Club,2nd,1,1
+404,"Tindall, Nic",Kingston Hawthorn Cricket Club,2nd,1,1
+405,"D'Souza, Aiden",Footscray Cricket Club,2nd,1,1
+406,"Keogh, Max",Prahran Cricket Club,2nd,1,-
+407,"SAINI, DAKSH",Camberwell Magpies Cricket Club,2nd,1,-
+408,"Di Stefano, Jack",Camberwell Magpies Cricket Club,2nd,1,1
+409,"Sullivan, Patrick",Geelong Cricket Club,2nd,1,0.5
+410,"Sheridan, Matthew",Casey South Melbourne Cricket Club,2nd,1,1
+411,"Arsalan, Muhammad",Essendon Cricket Club,2nd,0,-
+412,"Hay, Lachlan",Footscray Cricket Club,2nd,0,-
+413,"Harper, Nathan",Geelong Cricket Club,2nd,0,-
+414,"Tamber, Jujhar Singh",Carlton Cricket Club,2nd,0,-
+415,"Clark, Mitch",Greenvale Kangaroos Cricket Club,2nd,0,-
+416,"Bienvenu, Lucien",Melbourne University Cricket Club,2nd,0,-
+417,"Christie, Dale",Casey South Melbourne Cricket Club,2nd,0,-
+418,"Griffiths, Campbell",Melbourne Cricket Club,2nd,0,0
+419,"Field, Lachie",Geelong Cricket Club,2nd,0,-
+420,"Stevenson, Jacob",Melbourne University Cricket Club,2nd,0,-
+421,"Walker, William",Camberwell Magpies Cricket Club,2nd,0,-
+422,"Perera, Thenuka",Dandenong Cricket Club,2nd,0,-
+423,"Jain, Abhishek",Kingston Hawthorn Cricket Club,2nd,0,0
+424,"Wrigglesworth, Thomas",Melbourne Cricket Club,2nd,0,-
+425,"Wilczynski, Daniel",Footscray Cricket Club,2nd,0,-
+426,"Nandini, Tanush",Frankston Peninsula Cricket Club,2nd,0,-
+427,"Matheson, Jamie",Frankston Peninsula Cricket Club,2nd,0,-
+428,"O’Brien, Simon",Melbourne Cricket Club,2nd,0,-
+429,"Khan, Qasim",Northcote Cricket Club,2nd,0,-
+430,"Stow, Bradley",Kingston Hawthorn Cricket Club,2nd,0,-
+431,"Singh, Eshann",Greenvale Kangaroos Cricket Club,2nd,0,-
+432,"Suresh, Harshal S",Footscray Cricket Club,2nd,0,-
+433,"Whitford, Nathan",Dandenong Cricket Club,2nd,0,0
+434,"Harding, Aaron",St Kilda Cricket Club,2nd,0,0
+435,"Duffield, Josh",Dandenong Cricket Club,2nd,0,0
+436,"Kremer-Slevin, Hunter",Melbourne University Cricket Club,2nd,0,-
+437,"Jackson, Walter",St Kilda Cricket Club,2nd,0,-
+438,"Lambert, Thomas",Northcote Cricket Club,2nd,0,0
+439,"McGain, Liam",Prahran Cricket Club,2nd,0,-
+440,"Burchall, Connor",Northcote Cricket Club,2nd,0,-
+441,"van Rooyen, Jesse",Prahran Cricket Club,2nd,0,0
+442,"Abdulrafay, Muhammad",Essendon Cricket Club,2nd,0,-
+443,"Dossor, Joseph",Fitzroy Doncaster Cricket Club,2nd,0,-
+444,"Richardson, Zack",Carlton Cricket Club,2nd,0,-
+445,"McGillivray, Wilson",Melbourne Cricket Club,2nd,0,-
+446,"Busk, Lachie",Essendon Cricket Club,2nd,0,-
+447,"Braden, Hamish",Prahran Cricket Club,2nd,0,-
+448,"Shahzad, Talal",Frankston Peninsula Cricket Club,2nd,0,-
+449,"Bhalla, Prabhnoor",Greenvale Kangaroos Cricket Club,2nd,0,-
+450,"Neate, Lachlan",Geelong Cricket Club,2nd,0,-
+451,"Donnellan, Benjamin",Fitzroy Doncaster Cricket Club,2nd,0,-
+452,"Curtain, Joe",Melbourne Cricket Club,2nd,0,0
+453,"Sharma, Rachit",Dandenong Cricket Club,2nd,0,-
+454,"Bartlett, Joshua",St Kilda Cricket Club,2nd,0,-
+455,"Sullivan, Jack",Melbourne Cricket Club,2nd,0,-
+456,"Gandy, Luke",St Kilda Cricket Club,2nd,0,-
+457,"Campbell, Lachlan",Footscray Cricket Club,2nd,0,-
+458,"Mathew, Rohan",Casey South Melbourne Cricket Club,2nd,0,-
+459,"Watson, Lachlan",Geelong Cricket Club,2nd,0,-
+460,"Mastin, Joshua",Geelong Cricket Club,2nd,0,-
+461,"McCann, Luke",Richmond Cricket Club (VIC),2nd,0,0
+462,"Cornish, Aaron",Essendon Cricket Club,2nd,0,-
+463,"Pollard, Julian",Carlton Cricket Club,2nd,0,-
+464,"Rallapalli, Karthikeya",Footscray Cricket Club,2nd,0,-
+465,"Malik, Zen",Kingston Hawthorn Cricket Club,2nd,0,-
+1,"Podesta, Blake",Fitzroy Doncaster Cricket Club,3rd,604,60.4
+2,"Sharma, Yuvraj",Melbourne Cricket Club,3rd,510,39.23
+3,"Banfield, Will",Ringwood Cricket Club,3rd,507,42.25
+4,"Courtney, Tom",Geelong Cricket Club,3rd,495,49.5
+5,"Di Stefano, Jack",Camberwell Magpies Cricket Club,3rd,485,44.09
+6,"Munasinghe, Nathan A",Prahran Cricket Club,3rd,478,47.8
+7,"Ashen, Luke",St Kilda Cricket Club,3rd,468,46.8
+8,"Ivanovic, Luke",Ringwood Cricket Club,3rd,457,50.78
+9,"Anderson, Sam",Melbourne Cricket Club,3rd,456,45.6
+10,"Martel, Nicanor",Carlton Cricket Club,3rd,455,41.36
+11,"Klein, Jake",Geelong Cricket Club,3rd,446,31.86
+12,"Parrott, Kyle",Melbourne Cricket Club,3rd,439,62.71
+13,"Gunatilake, Roshan",Kingston Hawthorn Cricket Club,3rd,439,43.9
+14,"Moore, Charlie",Ringwood Cricket Club,3rd,434,43.4
+15,"Singh, Manpreet",Kingston Hawthorn Cricket Club,3rd,432,43.2
+16,"Bradley, Max",Fitzroy Doncaster Cricket Club,3rd,421,52.63
+17,"Abdul Sathaar, Fayzan",Footscray Cricket Club,3rd,416,59.43
+18,"Singh, Gurbir",St Kilda Cricket Club,3rd,414,69
+19,"Mastin, Joshua",Geelong Cricket Club,3rd,372,41.33
+20,"Badhaan, Jessraj",Essendon Cricket Club,3rd,356,32.36
+21,"Chislett, Jacob",Geelong Cricket Club,3rd,351,23.4
+22,"doherty, Heath",Essendon Cricket Club,3rd,349,34.9
+23,"Rayner, Billy",Fitzroy Doncaster Cricket Club,3rd,343,24.5
+24,"Sandhu, Vanshjot",Essendon Cricket Club,3rd,340,22.67
+25,"Fox, Adam",St Kilda Cricket Club,3rd,333,33.3
+26,"Anuradha, Sesath",Greenvale Kangaroos Cricket Club,3rd,332,30.18
+27,"Bain, Ted",Geelong Cricket Club,3rd,328,32.8
+28,"Bienvenu, Hugo",Melbourne University Cricket Club,3rd,328,41
+29,"Wynne, Trent",Ringwood Cricket Club,3rd,324,24.92
+30,"Mishra, Prabhav",Ringwood Cricket Club,3rd,323,53.83
+31,"Wood, Oscar",Melbourne Cricket Club,3rd,323,40.38
+32,"Chhina, Abhikaran Singh",Dandenong Cricket Club,3rd,320,-
+33,"obrien, Ryder",Footscray Cricket Club,3rd,317,26.42
+34,"Cuthbert, Thomas",Northcote Cricket Club,3rd,315,31.5
+35,"Blanch, Aaron",Casey South Melbourne Cricket Club,3rd,314,28.55
+36,"Smith, Christian",Dandenong Cricket Club,3rd,312,31.2
+37,"Meddings, Dan",St Kilda Cricket Club,3rd,311,44.43
+38,"Bienvenu, Lucien",Melbourne University Cricket Club,3rd,310,22.14
+39,"van Rooyen, Jesse",Prahran Cricket Club,3rd,309,30.9
+40,"Edwards, Joshua",Frankston Peninsula Cricket Club,3rd,309,103
+41,"Reddell, Brendan",Melbourne Cricket Club,3rd,302,30.2
+42,"Antonello, Liam",Dandenong Cricket Club,3rd,298,29.8
+43,"Chapalamadugu, Rohith",Kingston Hawthorn Cricket Club,3rd,297,24.75
+44,"Scott-Waters, Oscar",Frankston Peninsula Cricket Club,3rd,296,32.89
+45,"Hastings, Connor",Melbourne University Cricket Club,3rd,294,49
+46,"Shaikh, Izan",Carlton Cricket Club,3rd,287,31.89
+47,"Atkinson, Jack",Carlton Cricket Club,3rd,284,35.5
+48,"Simpson, Harry",Carlton Cricket Club,3rd,284,25.82
+49,"Parrott, Max",Melbourne Cricket Club,3rd,283,31.44
+50,"McComb, Griffin",Camberwell Magpies Cricket Club,3rd,283,56.6
+51,"Donnellan, Benjamin",Fitzroy Doncaster Cricket Club,3rd,282,25.64
+52,"Deighton, Tom",St Kilda Cricket Club,3rd,277,23.08
+53,"Khan, Ali",Melbourne University Cricket Club,3rd,273,30.33
+54,"Halton, William",Casey South Melbourne Cricket Club,3rd,270,38.57
+55,"Ross, Nicholas",Carlton Cricket Club,3rd,269,53.8
+56,"Sharma, Arjun",Greenvale Kangaroos Cricket Club,3rd,267,22.25
+57,"Loy-Abrahams, Ethan",Richmond Cricket Club (VIC),3rd,267,33.38
+58,"Stone, Matthew",Frankston Peninsula Cricket Club,3rd,264,33
+59,"Chokshi, Priyansh",Footscray Cricket Club,3rd,261,37.29
+60,"Beniwal, Zachary",Essendon Cricket Club,3rd,253,19.46
+61,"Sridhar, Krishna",Casey South Melbourne Cricket Club,3rd,252,42
+62,"Purcell, Thomas",Richmond Cricket Club (VIC),3rd,251,35.86
+63,"Fernando, Ashley",Greenvale Kangaroos Cricket Club,3rd,251,31.38
+64,"Craig, Hamish",Geelong Cricket Club,3rd,249,35.57
+65,"Mohan, Aryan",Dandenong Cricket Club,3rd,249,35.57
+66,"Vailisseri, Mohamed",Kingston Hawthorn Cricket Club,3rd,249,20.75
+67,"Rihan, Sayed",Dandenong Cricket Club,3rd,246,61.5
+68,"Singh, Paramvir",Essendon Cricket Club,3rd,246,24.6
+69,"Singh, Shehzad",Dandenong Cricket Club,3rd,245,35
+70,"Phillips-Williams, Sean",Essendon Cricket Club,3rd,242,16.13
+71,"Datta, Armaan",Fitzroy Doncaster Cricket Club,3rd,241,26.78
+72,"Paull, Corey",Geelong Cricket Club,3rd,241,30.13
+73,"Sharma, Naman",Melbourne University Cricket Club,3rd,239,119.5
+74,"Craig, Brodie",Geelong Cricket Club,3rd,238,34
+75,"Siede, Ryan",Northcote Cricket Club,3rd,237,59.25
+76,"Plumb, Brendan",Kingston Hawthorn Cricket Club,3rd,235,58.75
+77,"Roach, Angus",Fitzroy Doncaster Cricket Club,3rd,234,78
+78,"Kennedy, Jobe",St Kilda Cricket Club,3rd,233,38.83
+79,"Procopiou, Andrew",Camberwell Magpies Cricket Club,3rd,233,33.29
+80,"Darji, Krit",Essendon Cricket Club,3rd,232,38.67
+81,"Anderson, Jimmy",Northcote Cricket Club,3rd,231,33
+82,"D'souza, Aaron",Casey South Melbourne Cricket Club,3rd,228,16.29
+83,"Heaney, James",Fitzroy Doncaster Cricket Club,3rd,227,45.4
+84,"Macklin, Isaac",Ringwood Cricket Club,3rd,227,20.64
+85,"Biddiscombe, Liam",Geelong Cricket Club,3rd,226,113
+86,"Jackson, Travis",Prahran Cricket Club,3rd,224,56
+87,"Richardson, Joshua",Richmond Cricket Club (VIC),3rd,219,24.33
+88,"Grobler, Anthony",Greenvale Kangaroos Cricket Club,3rd,215,19.55
+89,"Hotston, Josh",Frankston Peninsula Cricket Club,3rd,215,21.5
+90,"Sharma, Aryan",Greenvale Kangaroos Cricket Club,3rd,210,26.25
+91,"Lyons, George",Ringwood Cricket Club,3rd,208,26
+92,"Lynch, Hugh",Richmond Cricket Club (VIC),3rd,207,29.57
+93,"Russell, Liam",Fitzroy Doncaster Cricket Club,3rd,206,41.2
+94,"Hope-Bell, Jack",Prahran Cricket Club,3rd,205,34.17
+95,"Edwards, Rory",Carlton Cricket Club,3rd,205,20.5
+96,"Maloney, Monty",Geelong Cricket Club,3rd,204,22.67
+97,"Goel, Yash",Melbourne Cricket Club,3rd,203,33.83
+98,"Parker, Sean",Frankston Peninsula Cricket Club,3rd,201,40.2
+99,"Giblett, Lachlan",Richmond Cricket Club (VIC),3rd,195,19.5
+100,"De Silva, Lishan",Fitzroy Doncaster Cricket Club,3rd,193,38.6
+101,"O’Riley, Bailey",Ringwood Cricket Club,3rd,185,30.83
+102,"Chowdhary, Aditya",Kingston Hawthorn Cricket Club,3rd,184,23
+103,"Ashton, Will",St Kilda Cricket Club,3rd,181,18.1
+104,"Grummitt, Charlie",Camberwell Magpies Cricket Club,3rd,179,44.75
+105,"Ervine, Rohan",Ringwood Cricket Club,3rd,179,16.27
+106,"Smith, Barnaby",St Kilda Cricket Club,3rd,179,44.75
+107,"Smith, Lucas",Camberwell Magpies Cricket Club,3rd,178,44.5
+108,"Young, Andrew",Melbourne University Cricket Club,3rd,177,29.5
+109,"Hatzoglou, Leo",Melbourne University Cricket Club,3rd,175,29.17
+110,"Bhardwaj, Aryaman",Northcote Cricket Club,3rd,175,19.44
+111,"Chandel, Rohan",Dandenong Cricket Club,3rd,175,25
+112,"Dave, Paawan",Ringwood Cricket Club,3rd,173,17.3
+113,"Miles, Alfie",Footscray Cricket Club,3rd,173,19.22
+114,"Jarrett, James",Camberwell Magpies Cricket Club,3rd,173,17.3
+115,"Hyslop, Hugh",Melbourne Cricket Club,3rd,170,42.5
+116,"Mills, Zac",Northcote Cricket Club,3rd,170,21.25
+117,"Heffernan, Max",Casey South Melbourne Cricket Club,3rd,170,21.25
+118,"Wolf, Charlie",Melbourne Cricket Club,3rd,167,33.4
+119,"Hall, Chris",Richmond Cricket Club (VIC),3rd,166,23.71
+120,"Bhatia, Archit",Richmond Cricket Club (VIC),3rd,165,82.5
+121,"Raza, Ahmed",Casey South Melbourne Cricket Club,3rd,163,32.6
+122,"Pereara, Nicholas",Northcote Cricket Club,3rd,162,16.2
+123,"Yuvaraj, Sash",Prahran Cricket Club,3rd,160,26.67
+124,"McKenzie, Jock",Kingston Hawthorn Cricket Club,3rd,160,26.67
+125,"Bhasin, Riyan",Footscray Cricket Club,3rd,159,15.9
+126,"Stables, Marcus",Northcote Cricket Club,3rd,158,31.6
+127,"Vanderslik, Thomas",Camberwell Magpies Cricket Club,3rd,156,39
+128,"Morris, Charlie",Richmond Cricket Club (VIC),3rd,153,15.3
+129,"Smith, James",St Kilda Cricket Club,3rd,152,21.71
+130,"Field, Samuel",Melbourne Cricket Club,3rd,150,75
+131,"Arbab, Zayaan",Frankston Peninsula Cricket Club,3rd,150,25
+132,"Rodda, Will",Geelong Cricket Club,3rd,149,24.83
+133,"Pereara, Ben",Northcote Cricket Club,3rd,148,21.14
+134,"Nicholls, Henry",Prahran Cricket Club,3rd,148,49.33
+135,"Taneja, Tanish",Footscray Cricket Club,3rd,148,29.6
+136,"Jackson, Walter",St Kilda Cricket Club,3rd,146,20.86
+137,"Katta, Kovid",Kingston Hawthorn Cricket Club,3rd,145,12.08
+138,"Scott, Will",Prahran Cricket Club,3rd,144,48
+139,"Sidhu, Enrique",Casey South Melbourne Cricket Club,3rd,143,11.92
+140,"Abeywickrama, Akith",Casey South Melbourne Cricket Club,3rd,142,23.67
+141,"Gray, Dylan",Frankston Peninsula Cricket Club,3rd,141,17.63
+142,"Campbell, Lachlan",Footscray Cricket Club,3rd,139,19.86
+143,"Shayan Ahmad, Syed",Fitzroy Doncaster Cricket Club,3rd,137,22.83
+144,"Curtis, Lachlan",Frankston Peninsula Cricket Club,3rd,136,34
+145,"Neelakantan, Siddharth",Casey South Melbourne Cricket Club,3rd,135,15
+146,"Mountain, Matthew",Ringwood Cricket Club,3rd,135,67.5
+147,"Rolfs, Benjamin",Melbourne University Cricket Club,3rd,132,66
+148,"McIlroy, Aaron",Frankston Peninsula Cricket Club,3rd,132,18.86
+149,"Avari, Neville",Casey South Melbourne Cricket Club,3rd,128,32
+150,"Thurgood, Nick",Dandenong Cricket Club,3rd,127,25.4
+151,"Dobson, Caiden",Richmond Cricket Club (VIC),3rd,125,20.83
+152,"McCooke, Alistair",Melbourne Cricket Club,3rd,123,30.75
+153,"Pettitt, James",Carlton Cricket Club,3rd,121,11
+154,"Singh, Maan Fabian",Essendon Cricket Club,3rd,121,24.2
+155,"Ryder, Tremayne",Northcote Cricket Club,3rd,120,13.33
+156,"Forbes, Addison",Fitzroy Doncaster Cricket Club,3rd,119,17
+157,"Shadbolt, James",Northcote Cricket Club,3rd,119,19.83
+158,"Giove, Nathan",Dandenong Cricket Club,3rd,118,19.67
+159,"Amarasinghe, Nisith",Dandenong Cricket Club,3rd,116,23.2
+160,"Kapoor, Saksham",Prahran Cricket Club,3rd,116,29
+161,"Mannarsamy, Arunkarthik",Kingston Hawthorn Cricket Club,3rd,113,14.13
+162,"Croft, Sam",Geelong Cricket Club,3rd,111,37
+163,"Dicesare, Earl",Northcote Cricket Club,3rd,111,18.5
+164,"Scott, Kane",Prahran Cricket Club,3rd,110,18.33
+165,"Jones, Lucas",Camberwell Magpies Cricket Club,3rd,108,10.8
+166,"Williamson, Kyle",Melbourne Cricket Club,3rd,108,27
+167,"Gill, Simrth Singh",Essendon Cricket Club,3rd,105,105
+168,"Kumar, Daksh",Footscray Cricket Club,3rd,104,34.67
+169,"Booth, Tristan",Casey South Melbourne Cricket Club,3rd,104,26
+170,"Waters, Will",Melbourne University Cricket Club,3rd,104,13
+171,"Durrant, Elliott",Melbourne University Cricket Club,3rd,103,25.75
+172,"McGrotty, Finlay",Camberwell Magpies Cricket Club,3rd,103,34.33
+173,"Bouckley, Lewis",Carlton Cricket Club,3rd,102,34
+174,"Bath, Tom",Frankston Peninsula Cricket Club,3rd,100,20
+175,"D'Souza, Neil",Dandenong Cricket Club,3rd,99,99
+176,"Pandithakoralege, Traveen",Footscray Cricket Club,3rd,99,12.38
+177,"Sridev, Chandramauli",Greenvale Kangaroos Cricket Club,3rd,97,48.5
+178,"Cashman, Tom",Richmond Cricket Club (VIC),3rd,94,23.5
+179,"Kolaritsch, Ethan",Richmond Cricket Club (VIC),3rd,93,15.5
+180,"Lovell, Ethan",Richmond Cricket Club (VIC),3rd,92,11.5
+181,"Cavigan, Lucas",Carlton Cricket Club,3rd,90,90
+182,"Evans, Jack",Camberwell Magpies Cricket Club,3rd,89,17.8
+183,"Nand, Raj",Melbourne University Cricket Club,3rd,89,11.13
+184,"Langham, Noah",Frankston Peninsula Cricket Club,3rd,88,22
+185,"Salvado, Aidan",Essendon Cricket Club,3rd,87,87
+186,"Bienefelt, Kyle",Geelong Cricket Club,3rd,85,28.33
+187,"Satyan, Navnith",Richmond Cricket Club (VIC),3rd,84,21
+188,"Hamilton, Will",St Kilda Cricket Club,3rd,84,14
+189,"Patel, Kanhai",Carlton Cricket Club,3rd,83,16.6
+190,"Wasantha, M.",Greenvale Kangaroos Cricket Club,3rd,83,8.3
+191,"Carter, Dezi",Footscray Cricket Club,3rd,82,-
+192,"Martin, Jackson",Essendon Cricket Club,3rd,82,41
+193,"Backhouse, Riley",Prahran Cricket Club,3rd,82,82
+194,"Webb, Angus",Greenvale Kangaroos Cricket Club,3rd,80,26.67
+195,"Gome, Matthew",Melbourne University Cricket Club,3rd,80,20
+196,"Ravi, Rushil",Prahran Cricket Club,3rd,80,26.67
+197,"Campbell, Jack",Carlton Cricket Club,3rd,80,20
+198,"Pearse, Luke",Prahran Cricket Club,3rd,80,16
+199,"Storey, Samson",Northcote Cricket Club,3rd,77,-
+200,"Suresh, Harshal S",Footscray Cricket Club,3rd,76,19
+201,"Johnson, Charlie",Casey South Melbourne Cricket Club,3rd,76,25.33
+202,"Tamber, Jujhar Singh",Carlton Cricket Club,3rd,75,25
+203,"Pearson, Matthew",Dandenong Cricket Club,3rd,75,18.75
+204,"de Silva, Dinuk",St Kilda Cricket Club,3rd,74,12.33
+205,"De Silva, Yuvin",Camberwell Magpies Cricket Club,3rd,72,24
+206,"Wickramasurendra, Rison",Casey South Melbourne Cricket Club,3rd,72,14.4
+207,"Jaura, Panav",Greenvale Kangaroos Cricket Club,3rd,70,23.33
+208,"Bollu, Kanishk",Greenvale Kangaroos Cricket Club,3rd,70,70
+209,"Marchant, Todd",Carlton Cricket Club,3rd,69,23
+210,"Hay, Jack",Frankston Peninsula Cricket Club,3rd,69,23
+211,"Khan, Imran",Northcote Cricket Club,3rd,68,-
+212,"Ghanekar, Aryan",Casey South Melbourne Cricket Club,3rd,67,33.5
+213,"Ramireddy, Santhosh",Geelong Cricket Club,3rd,67,67
+214,"Cameron, Jarryd",Ringwood Cricket Club,3rd,67,11.17
+215,"Wilkins, Lenny",Prahran Cricket Club,3rd,66,13.2
+216,"Hester, Charlie",St Kilda Cricket Club,3rd,65,32.5
+217,"Hopper, Phoenix",Footscray Cricket Club,3rd,64,21.33
+218,"Surani, Arish",Kingston Hawthorn Cricket Club,3rd,64,32
+219,"Menon, Pranav",Prahran Cricket Club,3rd,64,64
+220,"Jain, Abhishek",Kingston Hawthorn Cricket Club,3rd,63,12.6
+221,"Conway, John",Richmond Cricket Club (VIC),3rd,63,31.5
+222,"Salwathura, Harish",Frankston Peninsula Cricket Club,3rd,63,7.88
+223,"Mant, Keiran",Kingston Hawthorn Cricket Club,3rd,62,20.67
+224,"Mishra, Arin",Essendon Cricket Club,3rd,62,12.4
+225,"Lukies, Kepler",Fitzroy Doncaster Cricket Club,3rd,61,-
+226,"Sharma, Aryan",Fitzroy Doncaster Cricket Club,3rd,61,61
+227,"Sharma, Kartikay",Dandenong Cricket Club,3rd,60,20
+228,"Clark, Samuel",Greenvale Kangaroos Cricket Club,3rd,59,14.75
+229,"Collins, William",Prahran Cricket Club,3rd,59,29.5
+230,"Sullivan, Luke",Kingston Hawthorn Cricket Club,3rd,58,58
+231,"Dossor, Joseph",Fitzroy Doncaster Cricket Club,3rd,56,9.33
+232,"Kelly, Jett",Dandenong Cricket Club,3rd,55,11
+233,"Laxman, Aarav",Northcote Cricket Club,3rd,53,10.6
+234,"Kharoud, Rupptaz",Fitzroy Doncaster Cricket Club,3rd,53,53
+235,"Gell, Harry",Richmond Cricket Club (VIC),3rd,52,8.67
+236,"Rabbani, Muhammad Taha",Greenvale Kangaroos Cricket Club,3rd,51,5.67
+237,"Rajapaksha, Sanithu",Kingston Hawthorn Cricket Club,3rd,51,25.5
+238,"Guinea, Josh",Casey South Melbourne Cricket Club,3rd,51,25.5
+239,"Payne, Lachlan",Ringwood Cricket Club,3rd,50,12.5
+240,"Dignan, Jye",Frankston Peninsula Cricket Club,3rd,50,25
+241,"O’Connor, Braydon",Carlton Cricket Club,3rd,49,12.25
+242,"Rixon, Adam",Camberwell Magpies Cricket Club,3rd,49,49
+243,"Pawar, Simarjit",Camberwell Magpies Cricket Club,3rd,49,16.33
+244,"Fernando, Vihanga",Essendon Cricket Club,3rd,48,24
+245,"Sharma, Advit",Dandenong Cricket Club,3rd,47,11.75
+246,"Parab, Shaunak",Ringwood Cricket Club,3rd,47,23.5
+247,"Cole, Alex",Fitzroy Doncaster Cricket Club,3rd,47,23.5
+248,"Reid, Tom",Melbourne Cricket Club,3rd,46,23
+249,"Ingpen, Alex",Melbourne University Cricket Club,3rd,46,23
+250,"Takkar, Harshit",Melbourne University Cricket Club,3rd,45,11.25
+251,"McConnell, Aidan",Greenvale Kangaroos Cricket Club,3rd,45,11.25
+252,"McCormick, Clancy",Richmond Cricket Club (VIC),3rd,43,14.33
+253,"Thakur, Anurag",Kingston Hawthorn Cricket Club,3rd,43,14.33
+254,"Massey, Jack",Prahran Cricket Club,3rd,43,21.5
+255,"Holt, Tamar",Geelong Cricket Club,3rd,43,21.5
+256,"O`Brien, Luke",Ringwood Cricket Club,3rd,41,20.5
+257,"Haberfield, Logan",Geelong Cricket Club,3rd,41,20.5
+258,"ivanovic, daniel",Ringwood Cricket Club,3rd,40,40
+259,"Macalister, Rex",Prahran Cricket Club,3rd,40,13.33
+260,"Rawlings, Toby",Melbourne University Cricket Club,3rd,39,39
+261,"Wilson, Stewart",Footscray Cricket Club,3rd,38,6.33
+262,"Perera, Tharindu",Melbourne University Cricket Club,3rd,38,19
+263,"Saleemi, Ali",Greenvale Kangaroos Cricket Club,3rd,37,37
+264,"Walsh, Lachlan",Frankston Peninsula Cricket Club,3rd,37,18.5
+265,"Cestnik, Mitchell",Frankston Peninsula Cricket Club,3rd,37,37
+266,"Lawson, Gabe",Ringwood Cricket Club,3rd,37,12.33
+267,"Sharma, Yashen",Northcote Cricket Club,3rd,37,12.33
+268,"Miraz, Luay",Essendon Cricket Club,3rd,36,6
+269,"Wood, Samuel",Footscray Cricket Club,3rd,36,12
+270,"Sharkey, Ethan",Northcote Cricket Club,3rd,36,36
+271,"Stubbs, Anthony",Camberwell Magpies Cricket Club,3rd,35,17.5
+272,"McGinty, Seth",Carlton Cricket Club,3rd,35,35
+273,"Sacchetta, Michael",Northcote Cricket Club,3rd,35,17.5
+274,"Iyer, Aarav",Camberwell Magpies Cricket Club,3rd,35,5.83
+275,"Verma, Aryan",Camberwell Magpies Cricket Club,3rd,35,17.5
+276,"Mihiripenna, Dulith",Richmond Cricket Club (VIC),3rd,34,17
+277,"Cooknell, Xavier",Greenvale Kangaroos Cricket Club,3rd,34,11.33
+278,"Stow, Bradley",Kingston Hawthorn Cricket Club,3rd,34,17
+279,"Gandhi, Ranen",Ringwood Cricket Club,3rd,34,34
+280,"Sheers, Harrison",Fitzroy Doncaster Cricket Club,3rd,33,11
+281,"Netto, Matthew",Footscray Cricket Club,3rd,33,11
+282,"Winneke, Ed",Camberwell Magpies Cricket Club,3rd,33,33
+283,"Burn, Max",Camberwell Magpies Cricket Club,3rd,33,11
+284,"Bush, Vincent",Carlton Cricket Club,3rd,32,5.33
+285,"Noonan, Xavier",Ringwood Cricket Club,3rd,32,8
+286,"Sandhu, Agamjot",Essendon Cricket Club,3rd,32,16
+287,"Maaskant, Joel",Fitzroy Doncaster Cricket Club,3rd,32,10.67
+288,"Howard, Felix",Casey South Melbourne Cricket Club,3rd,31,10.33
+289,"Sajeba, James",Richmond Cricket Club (VIC),3rd,31,7.75
+290,"Senevirathne, Reshen",Casey South Melbourne Cricket Club,3rd,31,15.5
+291,"Barone, Noah",Northcote Cricket Club,3rd,30,30
+292,"Waring, Trent",Greenvale Kangaroos Cricket Club,3rd,30,15
+293,"Capaldo, Oliver",Greenvale Kangaroos Cricket Club,3rd,29,9.67
+294,"Bhour, Garry",Carlton Cricket Club,3rd,29,5.8
+295,"Cunningham, Toby",Geelong Cricket Club,3rd,29,14.5
+296,"Siegelwin, Crandel",Casey South Melbourne Cricket Club,3rd,29,14.5
+297,"Ruwanpathirana, Mandiv",Northcote Cricket Club,3rd,27,13.5
+298,"Kochhar, Rayaan",Casey South Melbourne Cricket Club,3rd,27,13.5
+299,"Singh, Parvan",Northcote Cricket Club,3rd,27,13.5
+300,"Singh, Aryandeep",Frankston Peninsula Cricket Club,3rd,26,13
+301,"Waghorn, Edison",Fitzroy Doncaster Cricket Club,3rd,26,13
+302,"Sharma, Paawan",Geelong Cricket Club,3rd,26,4.33
+303,"Graves, Nicholas",Prahran Cricket Club,3rd,26,6.5
+304,"Reichman, Nathaniel",Northcote Cricket Club,3rd,25,25
+305,"Pietz, Daniel",Camberwell Magpies Cricket Club,3rd,25,-
+306,"Jesper, Rowan",Melbourne University Cricket Club,3rd,24,8
+307,"Zissis, Lachlan",Prahran Cricket Club,3rd,24,6
+308,"Culloty, Ronan",Fitzroy Doncaster Cricket Club,3rd,24,24
+309,"Markovski, Nicholas",Essendon Cricket Club,3rd,23,23
+310,"Pawlowicz, Jacob",Essendon Cricket Club,3rd,23,23
+311,"Abeyesekera, Aaron",Casey South Melbourne Cricket Club,3rd,23,-
+312,"Brasher, Kyan",Carlton Cricket Club,3rd,22,22
+313,"Murphy, Nate",Casey South Melbourne Cricket Club,3rd,22,11
+314,"Marazita, Xavier",Footscray Cricket Club,3rd,22,-
+315,"Pancholi, Prithish",Richmond Cricket Club (VIC),3rd,22,22
+316,"Cornish, Aaron",Essendon Cricket Club,3rd,22,11
+317,"Fernando, Nirmana",Greenvale Kangaroos Cricket Club,3rd,22,11
+318,"Blanch, Matthew",Casey South Melbourne Cricket Club,3rd,21,5.25
+319,"Brisbane, Connor",Greenvale Kangaroos Cricket Club,3rd,21,3.5
+320,"Mccolough, Noah",Kingston Hawthorn Cricket Club,3rd,21,10.5
+321,"O’Brien, Simon",Melbourne Cricket Club,3rd,21,21
+322,"Kremer-Slevin, Hunter",Melbourne University Cricket Club,3rd,21,21
+323,"de Podolinsky, Lueder",Greenvale Kangaroos Cricket Club,3rd,21,7
+324,"Chandak, Krishna",Essendon Cricket Club,3rd,21,21
+325,"Lambert, Dan",Kingston Hawthorn Cricket Club,3rd,20,10
+326,"Pillay, Alexander",Prahran Cricket Club,3rd,20,20
+327,"Cheeran, Aanlin",Melbourne University Cricket Club,3rd,20,10
+328,"Braden, Hamish",Prahran Cricket Club,3rd,20,6.67
+329,"Goswami, Ananya",Northcote Cricket Club,3rd,20,20
+330,"Agg, Oscar",Geelong Cricket Club,3rd,20,20
+331,"Noonan, Darcy",Ringwood Cricket Club,3rd,19,19
+332,"Rose, Brendan",Richmond Cricket Club (VIC),3rd,19,9.5
+333,"Chasemore, Callum",St Kilda Cricket Club,3rd,19,6.33
+334,"Lambert, Thomas",Northcote Cricket Club,3rd,19,-
+335,"Singh, Harmanpreet",Casey South Melbourne Cricket Club,3rd,19,6.33
+336,"Khabarwal, Akshay",Northcote Cricket Club,3rd,19,9.5
+337,"Harms, Angus",Melbourne University Cricket Club,3rd,18,18
+338,"Walker, Ben",Frankston Peninsula Cricket Club,3rd,18,4.5
+339,"Neate, Thomas",Geelong Cricket Club,3rd,18,-
+340,"Corrie, Finley",Dandenong Cricket Club,3rd,18,18
+341,"Critchley, Nicholas",Melbourne Cricket Club,3rd,17,-
+342,"O'Donnell, Brodie",Melbourne University Cricket Club,3rd,17,5.67
+343,"Cross, Michael",Greenvale Kangaroos Cricket Club,3rd,17,17
+344,"Russell, Lachlan",Geelong Cricket Club,3rd,17,17
+345,"Robertson, Henry",Essendon Cricket Club,3rd,17,17
+346,"Green, Lachlan",Fitzroy Doncaster Cricket Club,3rd,16,5.33
+347,"Gilham, Luke",Footscray Cricket Club,3rd,16,16
+348,"O’Hehir, Kai",Footscray Cricket Club,3rd,16,8
+349,"Appleby, Rhonan",Richmond Cricket Club (VIC),3rd,16,5.33
+350,"Gupta, Arya",Camberwell Magpies Cricket Club,3rd,16,16
+351,"Brijesh, Dev Narayan",Greenvale Kangaroos Cricket Club,3rd,16,5.33
+352,"Bharadwaj, Rikhil",Dandenong Cricket Club,3rd,15,5
+353,"Hosemans, Bailey",Northcote Cricket Club,3rd,15,15
+354,"Munasinghe, Nigel K",Prahran Cricket Club,3rd,15,15
+355,"Lidder, Yuvraj",St Kilda Cricket Club,3rd,15,5
+356,"Graham, Charlie",Prahran Cricket Club,3rd,14,2.8
+357,"Norsetter, Joshua",Footscray Cricket Club,3rd,14,14
+358,"Stones, Ethan",Richmond Cricket Club (VIC),3rd,14,7
+359,"Shafquat, Samin",Essendon Cricket Club,3rd,14,14
+360,"Beniwal, Abhishek",Footscray Cricket Club,3rd,14,14
+361,"Ralph, Max",Kingston Hawthorn Cricket Club,3rd,14,3.5
+362,"Mathew, Rohan",Casey South Melbourne Cricket Club,3rd,14,14
+363,"Brennan, Nicholas",Carlton Cricket Club,3rd,14,7
+364,"Gibbs, Jared",Frankston Peninsula Cricket Club,3rd,14,-
+365,"Sooriyaaratchi, Thisura",Greenvale Kangaroos Cricket Club,3rd,13,6.5
+366,"Driscoll, Joshua",Melbourne Cricket Club,3rd,13,-
+367,"Stone, Nigel",Frankston Peninsula Cricket Club,3rd,13,13
+368,"Karaluwinne, Charlie",Greenvale Kangaroos Cricket Club,3rd,12,-
+369,"Khan, Qasim",Northcote Cricket Club,3rd,12,-
+370,"Desai, Rishi",Melbourne Cricket Club,3rd,12,6
+371,"Martin, Jack",Ringwood Cricket Club,3rd,12,6
+372,"Cesaro, Thomas",Melbourne Cricket Club,3rd,12,12
+373,"Emerson, Harry",Geelong Cricket Club,3rd,11,11
+374,"Mclean, Ryder",Footscray Cricket Club,3rd,11,11
+375,"Hussain, Aga Danish",St Kilda Cricket Club,3rd,11,11
+376,"du Toit, Henri",Melbourne University Cricket Club,3rd,11,5.5
+377,"Good, Fletcher",Melbourne Cricket Club,3rd,10,10
+378,"Beer, Jack",Carlton Cricket Club,3rd,10,10
+379,"Martindale, George",Essendon Cricket Club,3rd,10,10
+380,"Childs, Miller",Fitzroy Doncaster Cricket Club,3rd,10,10
+381,"Wallace, Harrison",Frankston Peninsula Cricket Club,3rd,10,10
+382,"Kenny, Thomas",Melbourne Cricket Club,3rd,10,-
+383,"Hegazy, Hady",Essendon Cricket Club,3rd,9,4.5
+384,"Pike, Lucas",Prahran Cricket Club,3rd,9,9
+385,"Morton, Axel",Footscray Cricket Club,3rd,9,3
+386,"Friedrich, Rikard",Greenvale Kangaroos Cricket Club,3rd,9,9
+387,"Ariketty, Aiyaan",Ringwood Cricket Club,3rd,9,9
+388,"Stevenson, Jacob",Melbourne University Cricket Club,3rd,8,8
+389,"Talwar, Rishikesh",St Kilda Cricket Club,3rd,8,4
+390,"Bepey, Isaac",Melbourne Cricket Club,3rd,8,8
+391,"Jewiss, Jesse",Frankston Peninsula Cricket Club,3rd,8,2.67
+392,"Gandy, Luke",St Kilda Cricket Club,3rd,8,-
+393,"Freeman, Darcy",Dandenong Cricket Club,3rd,8,4
+394,"Sharma, Manav",Fitzroy Doncaster Cricket Club,3rd,8,8
+395,"Nandini, Tanush",Frankston Peninsula Cricket Club,3rd,7,3.5
+396,"Seal, Zachary",Ringwood Cricket Club,3rd,7,-
+397,"SAINI, DAKSH",Camberwell Magpies Cricket Club,3rd,7,3.5
+398,"Watson, Lachlan",Geelong Cricket Club,3rd,7,7
+399,"Guida, Noah",Essendon Cricket Club,3rd,6,6
+400,"Surendran, Rahul",Fitzroy Doncaster Cricket Club,3rd,6,3
+401,"Wigney, Charlie",Richmond Cricket Club (VIC),3rd,6,6
+402,"McGain, Liam",Prahran Cricket Club,3rd,6,3
+403,"Schleiger, Oliver",Camberwell Magpies Cricket Club,3rd,6,6
+404,"Reed, Jackson",Richmond Cricket Club (VIC),3rd,6,-
+405,"Mawer, Kyle",Greenvale Kangaroos Cricket Club,3rd,6,3
+406,"Robson, Angus",St Kilda Cricket Club,3rd,5,2.5
+407,"Ali, Dilawar",Essendon Cricket Club,3rd,5,5
+408,"Matheson, Jamie",Frankston Peninsula Cricket Club,3rd,5,5
+409,"Ghotra, Jaskaran",Richmond Cricket Club (VIC),3rd,5,5
+410,"Thompson, Trent",Melbourne Cricket Club,3rd,4,4
+411,"agacy, leo",Richmond Cricket Club (VIC),3rd,4,4
+412,"Premaratne, Michain",Ringwood Cricket Club,3rd,4,-
+413,"Epstein, Rafael",Melbourne University Cricket Club,3rd,4,4
+414,"Kranzbuhler, Luke",Frankston Peninsula Cricket Club,3rd,4,4
+415,"Bowering, William",Kingston Hawthorn Cricket Club,3rd,3,3
+416,"Dahiya, Dhanush",Carlton Cricket Club,3rd,3,-
+417,"Collins, Logan",Prahran Cricket Club,3rd,3,-
+418,"McComb, Declan",St Kilda Cricket Club,3rd,3,3
+419,"granberg, oskar",Geelong Cricket Club,3rd,3,-
+420,"Sutherland, Tobias",Greenvale Kangaroos Cricket Club,3rd,3,-
+421,"George, Jerome",Frankston Peninsula Cricket Club,3rd,3,3
+422,"Kennedy, Matthew",Frankston Peninsula Cricket Club,3rd,3,-
+423,"Koralege, Yevin",Camberwell Magpies Cricket Club,3rd,3,3
+424,"Rallapalli, Karthikeya",Footscray Cricket Club,3rd,3,1
+425,"Sharma, Ansh",Ringwood Cricket Club,3rd,2,2
+426,"Horneman, Ezra",Ringwood Cricket Club,3rd,2,1
+427,"Ajani, Joel",Kingston Hawthorn Cricket Club,3rd,2,-
+428,"Rehal, Ronit",Camberwell Magpies Cricket Club,3rd,2,1
+429,"Johnson, Andrew",Kingston Hawthorn Cricket Club,3rd,2,1
+430,"Pinkney, George",Footscray Cricket Club,3rd,2,2
+431,"Rangaraju, Shriram",Footscray Cricket Club,3rd,2,-
+432,"Keogh, Max",Prahran Cricket Club,3rd,2,-
+433,"McIlwaine, Aussie",Carlton Cricket Club,3rd,1,1
+434,"Beer, Sam",Prahran Cricket Club,3rd,1,1
+435,"Moraitis, Jamie",Kingston Hawthorn Cricket Club,3rd,1,-
+436,"D'Souza, Aiden",Footscray Cricket Club,3rd,1,1
+437,"Ali, Hashim",Greenvale Kangaroos Cricket Club,3rd,1,1
+438,"Thomas, Abraham",Carlton Cricket Club,3rd,1,0.5
+439,"Singh, Eshann",Greenvale Kangaroos Cricket Club,3rd,1,1
+440,"Abdul Wasay, Muhammad",Essendon Cricket Club,3rd,1,-
+441,"Burchall, Connor",Northcote Cricket Club,3rd,1,-
+442,"Scott, Kyle",Kingston Hawthorn Cricket Club,3rd,1,1
+443,"Bhatia, Archit",Essendon Cricket Club,3rd,1,1
+444,"Cheesman, Jasper",Melbourne Cricket Club,3rd,0,-
+445,"Wilson-Keir, Jasper",Essendon Cricket Club,3rd,0,-
+446,"Scott, David",St Kilda Cricket Club,3rd,0,-
+447,"Sheridan, Nicholas",Fitzroy Doncaster Cricket Club,3rd,0,-
+448,"Excell, Benjamin",Camberwell Magpies Cricket Club,3rd,0,-
+449,"Rath, Parth",Prahran Cricket Club,3rd,0,-
+450,"Belci, Alessandro",Carlton Cricket Club,3rd,0,-
+451,"Fotia, Matthew",Ringwood Cricket Club,3rd,0,-
+452,"Clark, Mitch",Greenvale Kangaroos Cricket Club,3rd,0,-
+453,"Christie, Dale",Casey South Melbourne Cricket Club,3rd,0,-
+454,"Griffiths, Campbell",Melbourne Cricket Club,3rd,0,-
+455,"Devpura, Gavinu",Melbourne University Cricket Club,3rd,0,-
+456,"Pender, Orlando",St Kilda Cricket Club,3rd,0,-
+457,"Ajani, Luke",Kingston Hawthorn Cricket Club,3rd,0,-
+458,"Barnes, Guy",St Kilda Cricket Club,3rd,0,-
+459,"Panaia, Noah",Essendon Cricket Club,3rd,0,-
+460,"O’Brien, Jake",Frankston Peninsula Cricket Club,3rd,0,-
+461,"Xavier, Nicholas",Melbourne Cricket Club,3rd,0,-
+462,"Perera, Thenuka",Dandenong Cricket Club,3rd,0,0
+463,"Pizaro, William",Footscray Cricket Club,3rd,0,-
+464,"Manteit, Leonardo",Northcote Cricket Club,3rd,0,0
+465,"Rees, Lachlan",Fitzroy Doncaster Cricket Club,3rd,0,-
+466,"Gorman, Christopher",Camberwell Magpies Cricket Club,3rd,0,-
+467,"McLean, Max",Frankston Peninsula Cricket Club,3rd,0,-
+468,"Simhadri, Sai Shail",Essendon Cricket Club,3rd,0,-
+469,"Hirani, Parth",Dandenong Cricket Club,3rd,0,-
+470,"Dutton, Sam",Prahran Cricket Club,3rd,0,-
+471,"Shanbhag, Shlok",Footscray Cricket Club,3rd,0,0
+472,"Mahadeva, Barathan",Dandenong Cricket Club,3rd,0,-
+473,"Brne, Ethan",Essendon Cricket Club,3rd,0,-
+474,"Patel, Aadi",Footscray Cricket Club,3rd,0,-
+475,"Smith, Harry",Fitzroy Doncaster Cricket Club,3rd,0,-
+476,"Dench, Leo",Carlton Cricket Club,3rd,0,-
+477,"Martinus, Romesh",Richmond Cricket Club (VIC),3rd,0,-
+478,"Adams, Ryan",Dandenong Cricket Club,3rd,0,-
+479,"Murphy, Roland",Melbourne Cricket Club,3rd,0,-
+480,"Harding, Aaron",St Kilda Cricket Club,3rd,0,-
+481,"Paulas, Joe",Frankston Peninsula Cricket Club,3rd,0,-
+482,"Finkelstein, Josh",Melbourne Cricket Club,3rd,0,-
+483,"Laghmani, Redwan",Kingston Hawthorn Cricket Club,3rd,0,0
+484,"Ayaz, Muhammad",Dandenong Cricket Club,3rd,0,-
+485,"Jackson, Charlie",Melbourne Cricket Club,3rd,0,-
+486,"Richardson, Zack",Carlton Cricket Club,3rd,0,-
+487,"Sutton, Liam",Footscray Cricket Club,3rd,0,-
+488,"Patankar, Tanish",Footscray Cricket Club,3rd,0,-
+489,"Shahzad, Talal",Frankston Peninsula Cricket Club,3rd,0,0
+490,"Hales, Lucas",Fitzroy Doncaster Cricket Club,3rd,0,0
+491,"Ward, Ashley",Carlton Cricket Club,3rd,0,-
+492,"Sainsbury, Fred",Prahran Cricket Club,3rd,0,-
+493,"Patel, Parth",Geelong Cricket Club,3rd,0,-
+494,"Curtain, Joe",Melbourne Cricket Club,3rd,0,-
+495,"Thomas, Shaun",Dandenong Cricket Club,3rd,0,0
+496,"Bartlett, Joshua",St Kilda Cricket Club,3rd,0,0
+497,"Francis, James",Melbourne Cricket Club,3rd,0,-
+498,"Johns, Sidney",Melbourne Cricket Club,3rd,0,0
+499,"Sullivan, Patrick",Geelong Cricket Club,3rd,0,-
+500,"Walker, Luke",Frankston Peninsula Cricket Club,3rd,0,-
+501,"McCann, Luke",Richmond Cricket Club (VIC),3rd,0,-
+502,"Pollard, Julian",Carlton Cricket Club,3rd,0,-
+503,"Kaushik, Gurdarshan",Kingston Hawthorn Cricket Club,3rd,0,-
+504,"Abedi, Mohammed",Dandenong Cricket Club,3rd,0,-
+505,"Yates, Ethan",Melbourne University Cricket Club,3rd,0,-
+506,"Rowley, Liam",Northcote Cricket Club,3rd,0,-
+507,"Power, Callum",Richmond Cricket Club (VIC),3rd,0,-
+508,"Pearson, Tyler",Kingston Hawthorn Cricket Club,3rd,0,-
+509,"Mitchell, Xavier",Fitzroy Doncaster Cricket Club,3rd,0,-
+1,"Hales, Lucas",Fitzroy Doncaster Cricket Club,4th,437,48.56
+2,"Bhour, Garry",Carlton Cricket Club,4th,432,61.71
+3,"Tracey, Brayden",Carlton Cricket Club,4th,428,47.56
+4,"Devpura, Gavinu",Melbourne University Cricket Club,4th,427,35.58
+5,"Hamilton, Will",St Kilda Cricket Club,4th,425,47.22
+6,"Kenny, Hayden",Melbourne Cricket Club,4th,422,46.89
+7,"Sheers, Harrison",Fitzroy Doncaster Cricket Club,4th,415,31.92
+8,"Craig, Brodie",Geelong Cricket Club,4th,389,64.83
+9,"Francis, James",Melbourne Cricket Club,4th,383,34.82
+10,"Martin, Jackson",St Kilda Cricket Club,4th,367,36.7
+11,"Atkins, Charlie",St Kilda Cricket Club,4th,359,25.64
+12,"Agg, Oscar",Geelong Cricket Club,4th,358,29.83
+13,"Bauer, Austin",Richmond Cricket Club (VIC),4th,346,26.62
+14,"Bouckley, Lewis",Carlton Cricket Club,4th,339,33.9
+15,"Laxman, Aarav",Northcote Cricket Club,4th,339,48.43
+16,"Ali, Dilawar",Essendon Cricket Club,4th,337,25.92
+17,"Coonan, Ryan",Footscray Cricket Club,4th,336,24
+18,"Bath, Tom",Frankston Peninsula Cricket Club,4th,320,32
+19,"Mihiripenna, Dulith",Richmond Cricket Club (VIC),4th,318,31.8
+20,"Belci, Alessandro",Carlton Cricket Club,4th,312,39
+21,"Davidson, Jacob",Carlton Cricket Club,4th,309,23.77
+22,"Dobson, Yannick",Fitzroy Doncaster Cricket Club,4th,300,50
+23,"Chasemore, Callum",St Kilda Cricket Club,4th,299,37.38
+24,"Sharma, Ansh",Ringwood Cricket Club,4th,293,24.42
+25,"Griffin, Ben",Melbourne Cricket Club,4th,285,35.63
+26,"CHANDLER, ALEX",Frankston Peninsula Cricket Club,4th,285,28.5
+27,"Paul, Lachlan",Casey South Melbourne Cricket Club,4th,283,21.77
+28,"Norsetter, Joshua",Footscray Cricket Club,4th,282,31.33
+29,"Cramb, Raph",Melbourne University Cricket Club,4th,279,34.88
+30,"Senevirathne, Reshen",Casey South Melbourne Cricket Club,4th,278,19.86
+31,"O’Hehir, Kai",Footscray Cricket Club,4th,277,30.78
+32,"Kennedy, Cooper",Frankston Peninsula Cricket Club,4th,276,18.4
+33,"Araich, Jaikar Singh",Dandenong Cricket Club,4th,274,24.91
+34,"Reichman, Nathaniel",Northcote Cricket Club,4th,274,30.44
+35,"O`Brien, Luke",Ringwood Cricket Club,4th,273,30.33
+36,"Stones, Ethan",Richmond Cricket Club (VIC),4th,271,24.64
+37,"Perera, Tharindu",Melbourne University Cricket Club,4th,267,33.38
+38,"Singh Sodhi, Pahul",Essendon Cricket Club,4th,264,22
+39,"Howard, Felix",Casey South Melbourne Cricket Club,4th,264,22
+40,"Mccolough, Noah",Kingston Hawthorn Cricket Club,4th,261,32.63
+41,"Aikins, Johnathon",Melbourne Cricket Club,4th,259,28.78
+42,"Satyan, Navnith",Richmond Cricket Club (VIC),4th,258,25.8
+43,"Shafquat, Samin",Essendon Cricket Club,4th,254,36.29
+44,"Johnson, Andrew",Kingston Hawthorn Cricket Club,4th,254,36.29
+45,"Hegazy, Hady",Essendon Cricket Club,4th,249,31.13
+46,"Benson, Josh",Melbourne Cricket Club,4th,247,41.17
+47,"Schlittler, Angus",Prahran Cricket Club,4th,247,22.45
+48,"Abeywickrama, Akith",Casey South Melbourne Cricket Club,4th,246,49.2
+49,"Singh, Parvan",Northcote Cricket Club,4th,242,26.89
+50,"Hutchins, Bayden",Footscray Cricket Club,4th,242,40.33
+51,"Walker, Daniel",Camberwell Magpies Cricket Club,4th,236,23.6
+52,"Cashman, Tom",Richmond Cricket Club (VIC),4th,236,26.22
+53,"Ravi, Rushil",Prahran Cricket Club,4th,235,23.5
+54,"Sooriyaaratchi, Thisura",Greenvale Kangaroos Cricket Club,4th,234,21.27
+55,"Shayan Ahmad, Syed",Fitzroy Doncaster Cricket Club,4th,233,38.83
+56,"Rebeiro, Jayden",Ringwood Cricket Club,4th,226,18.83
+57,"Lambert, Dan",Kingston Hawthorn Cricket Club,4th,224,17.23
+58,"Heaney, James",Fitzroy Doncaster Cricket Club,4th,224,56
+59,"Ahuja, Sandeep",Fitzroy Doncaster Cricket Club,4th,224,28
+60,"Malangi, Neel",Fitzroy Doncaster Cricket Club,4th,222,22.2
+61,"Pike, Lucas",Prahran Cricket Club,4th,217,27.13
+62,"Goel, Yash",Melbourne Cricket Club,4th,217,72.33
+63,"Beckett, Douglas",St Kilda Cricket Club,4th,216,21.6
+64,"Scott, Ryder",Geelong Cricket Club,4th,215,17.92
+65,"Singh, Shehzad",Dandenong Cricket Club,4th,214,71.33
+66,"Beniwal, Abhishek",Footscray Cricket Club,4th,214,42.8
+67,"Iyer, Aarav",Camberwell Magpies Cricket Club,4th,212,35.33
+68,"Pearson, Matthew",Dandenong Cricket Club,4th,210,30
+69,"Peake, Charlie",Geelong Cricket Club,4th,209,34.83
+70,"Grimsey-Cook, Fletch",Geelong Cricket Club,4th,209,16.08
+71,"Kochhar, Rayaan",Casey South Melbourne Cricket Club,4th,208,29.71
+72,"Redpath, Harvey",Melbourne University Cricket Club,4th,207,18.82
+73,"Netto, Matthew",Footscray Cricket Club,4th,207,25.88
+74,"Cheesman, Jasper",Melbourne Cricket Club,4th,206,29.43
+75,"Ariketty, Aiyaan",Ringwood Cricket Club,4th,206,18.73
+76,"McCormick, Clancy",Richmond Cricket Club (VIC),4th,205,25.63
+77,"Jaura, Jashan",Greenvale Kangaroos Cricket Club,4th,205,14.64
+78,"Chokshi, Priyansh",Footscray Cricket Club,4th,204,40.8
+79,"Verma, Aryan",Camberwell Magpies Cricket Club,4th,204,68
+80,"Dias, Shenan",Melbourne University Cricket Club,4th,203,25.38
+81,"Khan, Imran",Northcote Cricket Club,4th,202,16.83
+82,"Arthur, Torren",Melbourne University Cricket Club,4th,201,22.33
+83,"Evans, Jack",Camberwell Magpies Cricket Club,4th,201,28.71
+84,"McLean, Max",Frankston Peninsula Cricket Club,4th,198,19.8
+85,"Sharma, Kartikay",Dandenong Cricket Club,4th,198,49.5
+86,"Bienvenu, Hugo",Melbourne University Cricket Club,4th,197,98.5
+87,"Florentine, Oscar",Footscray Cricket Club,4th,196,15.08
+88,"Goswami, Ananya",Northcote Cricket Club,4th,193,17.55
+89,"Bhasin, Riyan",Footscray Cricket Club,4th,189,63
+90,"Freeman, Darcy",Dandenong Cricket Club,4th,189,27
+91,"Edirisinghe, Kenul",Ringwood Cricket Club,4th,188,31.33
+92,"Sharma, Yashen",Northcote Cricket Club,4th,187,20.78
+93,"Clausen, Lucas",Ringwood Cricket Club,4th,186,20.67
+94,"Cheeran, Aanlin",Melbourne University Cricket Club,4th,184,30.67
+95,"Cole, Alex",Fitzroy Doncaster Cricket Club,4th,182,36.4
+96,"Cooknell, Xavier",Greenvale Kangaroos Cricket Club,4th,181,30.17
+97,"Rabbani, Muhammad Taha",Greenvale Kangaroos Cricket Club,4th,179,35.8
+98,"Bidur S, Rhyan",Footscray Cricket Club,4th,179,22.38
+99,"Siegelwin, Crandel",Casey South Melbourne Cricket Club,4th,179,22.38
+100,"Thomas, Shaun",Dandenong Cricket Club,4th,176,17.6
+101,"Jewiss, Jesse",Frankston Peninsula Cricket Club,4th,174,34.8
+102,"Ashen, Luke",St Kilda Cricket Club,4th,173,57.67
+103,"Richings, Matthew",Melbourne University Cricket Club,4th,172,28.67
+104,"Nicholls, Lincoln",Richmond Cricket Club (VIC),4th,171,17.1
+105,"Jacob, Karan",Camberwell Magpies Cricket Club,4th,169,14.08
+106,"Aulakh, Viraaj",Essendon Cricket Club,4th,166,27.67
+107,"Lim, Hayden",Melbourne University Cricket Club,4th,164,23.43
+108,"Box, Cooper",Richmond Cricket Club (VIC),4th,163,18.11
+109,"Weerasiri, Gyan",Kingston Hawthorn Cricket Club,4th,163,23.29
+110,"Chandak, Krishna",Essendon Cricket Club,4th,163,23.29
+111,"Brisbane, Connor",Greenvale Kangaroos Cricket Club,4th,162,23.14
+112,"Stone, Nigel",Frankston Peninsula Cricket Club,4th,162,162
+113,"Campbell, Jack",Carlton Cricket Club,4th,159,22.71
+114,"Chowdhary, Aditya",Kingston Hawthorn Cricket Club,4th,159,26.5
+115,"Graham, Charlie",Prahran Cricket Club,4th,158,26.33
+116,"Corrie, Finley",Dandenong Cricket Club,4th,157,26.17
+117,"Dave, Paawan",Ringwood Cricket Club,4th,156,31.2
+118,"Gupta, Arya",Camberwell Magpies Cricket Club,4th,156,14.18
+119,"Sharma, Manav",Fitzroy Doncaster Cricket Club,4th,155,38.75
+120,"Sajeba, James",Richmond Cricket Club (VIC),4th,154,25.67
+121,"Wolf, Charlie",Melbourne Cricket Club,4th,154,38.5
+122,"Freijah, Mark",Geelong Cricket Club,4th,146,36.5
+123,"Sharma, Aryan",Greenvale Kangaroos Cricket Club,4th,146,73
+124,"Surani, Arish",Kingston Hawthorn Cricket Club,4th,145,29
+125,"Peake, Clinton",Geelong Cricket Club,4th,144,20.57
+126,"SCHLITTLER, Neil",Prahran Cricket Club,4th,144,20.57
+127,"Sinha, Harsh",Fitzroy Doncaster Cricket Club,4th,142,23.67
+128,"Field, Samuel",Melbourne Cricket Club,4th,142,47.33
+129,"Datta, Armaan",Fitzroy Doncaster Cricket Club,4th,141,17.63
+130,"Tegg, Harrison",St Kilda Cricket Club,4th,139,19.86
+131,"Roberts, Jack",Prahran Cricket Club,4th,139,34.75
+132,"Simhadri, Sai Shail",Essendon Cricket Club,4th,138,15.33
+133,"Edirisinghe, Sandula",Essendon Cricket Club,4th,138,13.8
+134,"Wilkins, Lenny",Prahran Cricket Club,4th,137,19.57
+135,"Walker, Ben",Frankston Peninsula Cricket Club,4th,137,45.67
+136,"Emerson, Harry",Geelong Cricket Club,4th,136,34
+137,"Perera, Ian",Casey South Melbourne Cricket Club,4th,134,33.5
+138,"Burn, Max",Camberwell Magpies Cricket Club,4th,134,33.5
+139,"Epstein, Rafael",Melbourne University Cricket Club,4th,133,14.78
+140,"Ghuman, Avneet",St Kilda Cricket Club,4th,129,12.9
+141,"Rees, Lachlan",Fitzroy Doncaster Cricket Club,4th,128,21.33
+142,"Pizaro, Andrew",Footscray Cricket Club,4th,128,21.33
+143,"Costa, Charlie",Frankston Peninsula Cricket Club,4th,128,16
+144,"Klein, Jake",Geelong Cricket Club,4th,126,42
+145,"Singh, Aryandeep",Frankston Peninsula Cricket Club,4th,125,20.83
+146,"Chamberlain, Jack",Kingston Hawthorn Cricket Club,4th,125,13.89
+147,"Ghanekar, Aryan",Casey South Melbourne Cricket Club,4th,124,124
+148,"McCooke, Alistair",Melbourne Cricket Club,4th,124,13.78
+149,"Scott, Tom",Prahran Cricket Club,4th,120,17.14
+150,"Mohammed, Mubasheeruddin Jamal",Carlton Cricket Club,4th,119,59.5
+151,"Simpson, Lachlan",Prahran Cricket Club,4th,118,14.75
+152,"Abedi, Mohammed",Dandenong Cricket Club,4th,118,14.75
+153,"Morris, Tom",St Kilda Cricket Club,4th,117,58.5
+154,"du Toit, Henri",Melbourne University Cricket Club,4th,117,29.25
+155,"Dexter, Flynn",Dandenong Cricket Club,4th,116,8.92
+156,"Balla, Nayan",Geelong Cricket Club,4th,116,12.89
+157,"McKenzie, Jock",Kingston Hawthorn Cricket Club,4th,114,38
+158,"Parker, Jarryd",Frankston Peninsula Cricket Club,4th,113,28.25
+159,"SALWATHURA, LEITH",Melbourne Cricket Club,4th,113,56.5
+160,"Premaratne, Michain",Ringwood Cricket Club,4th,110,27.5
+161,"Salwathura, Harish",Frankston Peninsula Cricket Club,4th,110,36.67
+162,"Critchley, Nicholas",Melbourne Cricket Club,4th,109,27.25
+163,"Parab, Shaunak",Ringwood Cricket Club,4th,109,12.11
+164,"Bandara, Vindiya",Greenvale Kangaroos Cricket Club,4th,107,7.64
+165,"Brijesh, Dev Narayan",Greenvale Kangaroos Cricket Club,4th,107,10.7
+166,"Rixon, Adam",Camberwell Magpies Cricket Club,4th,104,-
+167,"Pillay, Alexander",Prahran Cricket Club,4th,104,13
+168,"Gandhi, Ranen",Ringwood Cricket Club,4th,104,26
+169,"Giblett, Lachlan",Richmond Cricket Club (VIC),4th,103,51.5
+170,"Dias, Maximilian",Carlton Cricket Club,4th,102,14.57
+171,"Wadhwa, Anagh",Dandenong Cricket Club,4th,101,16.83
+172,"Fernando, Dihein",Kingston Hawthorn Cricket Club,4th,101,14.43
+173,"Johnson, Charlie",Casey South Melbourne Cricket Club,4th,100,12.5
+174,"Di Domenico, Fabian",Richmond Cricket Club (VIC),4th,98,16.33
+175,"Melville, Ollie",Greenvale Kangaroos Cricket Club,4th,98,7
+176,"Talwar, Rishikesh",St Kilda Cricket Club,4th,96,19.2
+177,"Vijayarajan, Anujan",Casey South Melbourne Cricket Club,4th,95,11.88
+178,"de Podolinsky, Lueder",Greenvale Kangaroos Cricket Club,4th,94,15.67
+179,"O’Brien, Jake",Frankston Peninsula Cricket Club,4th,92,30.67
+180,"Rajapaksha, Sanithu",Kingston Hawthorn Cricket Club,4th,91,10.11
+181,"Reid, Joel",Greenvale Kangaroos Cricket Club,4th,91,10.11
+182,"Smith, James",St Kilda Cricket Club,4th,90,45
+183,"Chislett, Jacob",Geelong Cricket Club,4th,88,29.33
+184,"Badoni, Tanishq",Northcote Cricket Club,4th,87,17.4
+185,"Manul, Don",Kingston Hawthorn Cricket Club,4th,86,17.2
+186,"Noonan, Xavier",Ringwood Cricket Club,4th,86,21.5
+187,"Khabarwal, Akshay",Northcote Cricket Club,4th,86,12.29
+188,"Power, Callum",Richmond Cricket Club (VIC),4th,86,21.5
+189,"Scott, Kane",Prahran Cricket Club,4th,85,17
+190,"Kolaritsch, Ethan",Richmond Cricket Club (VIC),4th,85,85
+191,"Bedi, Armaan",Camberwell Magpies Cricket Club,4th,84,21
+192,"John, Justin",Northcote Cricket Club,4th,83,10.38
+193,"Loy-Abrahams, Ethan",Richmond Cricket Club (VIC),4th,83,83
+194,"De Alwis, Rivi",Greenvale Kangaroos Cricket Club,4th,83,11.86
+195,"Ralph, Steve",Kingston Hawthorn Cricket Club,4th,83,11.86
+196,"Excell, Benjamin",Camberwell Magpies Cricket Club,4th,82,20.5
+197,"Singh, Manpreet",Kingston Hawthorn Cricket Club,4th,82,-
+198,"Fernando, Gishain",Richmond Cricket Club (VIC),4th,80,16
+199,"FitzGerald, Cameron",Northcote Cricket Club,4th,79,11.29
+200,"Taneja, Tanish",Footscray Cricket Club,4th,79,39.5
+201,"Edirisinghe, Prageeth",Essendon Cricket Club,4th,77,19.25
+202,"Alonso, Joshua",Northcote Cricket Club,4th,75,7.5
+203,"Kenny, Thomas",Melbourne Cricket Club,4th,75,15
+204,"Sidhu, Enrique",Casey South Melbourne Cricket Club,4th,73,24.33
+205,"Gosain, Samaksh",Ringwood Cricket Club,4th,73,18.25
+206,"Ayaz, Muhammad",Dandenong Cricket Club,4th,73,24.33
+207,"Holt, Tamar",Geelong Cricket Club,4th,73,24.33
+208,"Gibbs, Jared",Frankston Peninsula Cricket Club,4th,73,73
+209,"Stone, Matthew",Frankston Peninsula Cricket Club,4th,72,36
+210,"Martindale, George",Essendon Cricket Club,4th,72,18
+211,"Appleby, Rhonan",Richmond Cricket Club (VIC),4th,72,36
+212,"Gill-Furness, Mitchell",Frankston Peninsula Cricket Club,4th,71,11.83
+213,"Perry, Luke",Frankston Peninsula Cricket Club,4th,71,14.2
+214,"Bhagat, Steve",Greenvale Kangaroos Cricket Club,4th,71,14.2
+215,"Pearse, Luke",Prahran Cricket Club,4th,69,11.5
+216,"Sexton, Benjamin",Prahran Cricket Club,4th,68,34
+217,"Stevenson, Louis",St Kilda Cricket Club,4th,66,-
+218,"Miraz, Luay",Essendon Cricket Club,4th,66,66
+219,"Kaushik, Keshav",Fitzroy Doncaster Cricket Club,4th,65,10.83
+220,"Shanbhag, Shlok",Footscray Cricket Club,4th,62,10.33
+221,"Wade, Sam",Ringwood Cricket Club,4th,62,15.5
+222,"Patel, Kanhai",Carlton Cricket Club,4th,61,61
+223,"Payne, Lachlan",Ringwood Cricket Club,4th,61,20.33
+224,"Zayler, Steve",St Kilda Cricket Club,4th,61,30.5
+225,"Koralege, Yevin",Camberwell Magpies Cricket Club,4th,61,10.17
+226,"de Silva, Dinuk",St Kilda Cricket Club,4th,60,20
+227,"Gusain, Ryan",Casey South Melbourne Cricket Club,4th,60,20
+228,"Capstick, Robert",Camberwell Magpies Cricket Club,4th,60,10
+229,"Guha, Avi",Northcote Cricket Club,4th,60,15
+230,"Yuvaraj, Sash",Prahran Cricket Club,4th,60,20
+231,"McIlwaine, Aussie",Carlton Cricket Club,4th,59,9.83
+232,"Thakur, Anurag",Kingston Hawthorn Cricket Club,4th,59,11.8
+233,"Booth, Tristan",Casey South Melbourne Cricket Club,4th,59,9.83
+234,"Ghotra, Jaskaran",Richmond Cricket Club (VIC),4th,59,19.67
+235,"Holland, Jarvis",Geelong Cricket Club,4th,58,58
+236,"Gill, Gurnoor Singh",Essendon Cricket Club,4th,57,6.33
+237,"Green, Lachlan",Fitzroy Doncaster Cricket Club,4th,57,28.5
+238,"Rawlings, Toby",Melbourne University Cricket Club,4th,57,9.5
+239,"Mawer, Kyle",Greenvale Kangaroos Cricket Club,4th,57,8.14
+240,"Miller, Luke",Northcote Cricket Club,4th,56,56
+241,"Lynch, Hugh",Richmond Cricket Club (VIC),4th,56,56
+242,"Balachandhar, Prathik",Dandenong Cricket Club,4th,56,9.33
+243,"Ponnamperuma, Anton",Camberwell Magpies Cricket Club,4th,56,18.67
+244,"Haberfield, Logan",Geelong Cricket Club,4th,56,11.2
+245,"Shah, Ansh",Greenvale Kangaroos Cricket Club,4th,55,13.75
+246,"Brasher, Kyan",Carlton Cricket Club,4th,55,13.75
+247,"Simpson, Harry",Carlton Cricket Club,4th,55,55
+248,"Chhina, Abhikaran Singh",Dandenong Cricket Club,4th,54,54
+249,"Foreshew, Blake",Kingston Hawthorn Cricket Club,4th,54,18
+250,"Shadbolt, James",Northcote Cricket Club,4th,54,54
+251,"Patankar, Tanish",Footscray Cricket Club,4th,54,18
+252,"Mahadeva, Barathan",Dandenong Cricket Club,4th,53,17.67
+253,"Conway, John",Richmond Cricket Club (VIC),4th,53,26.5
+254,"Sharma, Arjun",Greenvale Kangaroos Cricket Club,4th,52,52
+255,"Schonewille, Ryan",Kingston Hawthorn Cricket Club,4th,52,6.5
+256,"Farooq, Muhammad Umar",Essendon Cricket Club,4th,51,25.5
+257,"Berry, Noah",Geelong Cricket Club,4th,51,10.2
+258,"Ralph, Max",Kingston Hawthorn Cricket Club,4th,50,10
+259,"Wood, Oscar",Melbourne Cricket Club,4th,50,25
+260,"Lyons, George",Ringwood Cricket Club,4th,49,24.5
+261,"Davidson, Kye",Camberwell Magpies Cricket Club,4th,49,16.33
+262,"Koku Hennedige, Manuda",Greenvale Kangaroos Cricket Club,4th,48,6
+263,"Beck, Phoenix",Ringwood Cricket Club,4th,47,23.5
+264,"Macalister, Rex",Prahran Cricket Club,4th,47,7.83
+265,"Braden, Hamish",Prahran Cricket Club,4th,45,-
+266,"Reid, Ned",Fitzroy Doncaster Cricket Club,4th,45,45
+267,"Entwisle, Oliver",St Kilda Cricket Club,4th,44,11
+268,"Naughton, William",Carlton Cricket Club,4th,44,14.67
+269,"Tadepalli, Sanjeev",Camberwell Magpies Cricket Club,4th,44,11
+270,"Syed, Sultan",Dandenong Cricket Club,4th,44,4.4
+271,"James, Stefan",Essendon Cricket Club,4th,44,14.67
+272,"Neelakantan, Siddharth",Casey South Melbourne Cricket Club,4th,43,8.6
+273,"McComb, Declan",St Kilda Cricket Club,4th,43,43
+274,"Paulas, Joe",Frankston Peninsula Cricket Club,4th,43,8.6
+275,"Newman, William",Melbourne Cricket Club,4th,43,14.33
+276,"doherty, Heath",Essendon Cricket Club,4th,42,14
+277,"Purcell, Thomas",Casey South Melbourne Cricket Club,4th,41,13.67
+278,"Dornan, Cooper",Frankston Peninsula Cricket Club,4th,41,41
+279,"Mann, Arshnoor Singh",Greenvale Kangaroos Cricket Club,4th,41,8.2
+280,"Bhargava, Arnav",Northcote Cricket Club,4th,40,40
+281,"Murphy, Nate",Casey South Melbourne Cricket Club,4th,40,13.33
+282,"Cornish, Aaron",Essendon Cricket Club,4th,40,20
+283,"Dutton, Sam",Prahran Cricket Club,4th,38,12.67
+284,"Richardson, Zack",Carlton Cricket Club,4th,38,19
+285,"Sridev, Chandramauli",Greenvale Kangaroos Cricket Club,4th,37,37
+286,"Skinner, Charlie",St Kilda Cricket Club,4th,36,18
+287,"Yates, Ethan",Melbourne University Cricket Club,4th,36,18
+288,"George, Jerome",Frankston Peninsula Cricket Club,4th,35,11.67
+289,"Ajani, Joel",Kingston Hawthorn Cricket Club,4th,34,5.67
+290,"Rowley, Liam",Northcote Cricket Club,4th,34,11.33
+291,"Reid, Billy",St Kilda Cricket Club,4th,33,11
+292,"Farooqi, Mohammad Mikail",Casey South Melbourne Cricket Club,4th,33,8.25
+293,"Esposito, Matthew",Prahran Cricket Club,4th,33,11
+294,"Pizaro, William",Footscray Cricket Club,4th,32,8
+295,"Elliott, James",Northcote Cricket Club,4th,32,32
+296,"Chohan, Zorawar Singh",Essendon Cricket Club,4th,32,8
+297,"Montgomery, Sam",Ringwood Cricket Club,4th,32,6.4
+298,"Jackson, Charlie",Melbourne Cricket Club,4th,31,31
+299,"Wallace, Harrison",Frankston Peninsula Cricket Club,4th,31,31
+300,"Hoyne, Samuel",Fitzroy Doncaster Cricket Club,4th,29,14.5
+301,"Thomas, Abraham",Carlton Cricket Club,4th,29,29
+302,"Sharpin, Will",Prahran Cricket Club,4th,29,14.5
+303,"Tait, William",Melbourne Cricket Club,4th,29,14.5
+304,"Mitchell, Xavier",Fitzroy Doncaster Cricket Club,4th,29,29
+305,"Robinson, Tom",Kingston Hawthorn Cricket Club,4th,28,14
+306,"Thareja, Ayaan",Casey South Melbourne Cricket Club,4th,28,7
+307,"Sheedy, Alexandra",Ringwood Cricket Club,4th,28,28
+308,"Tabish, Zayaan",Essendon Cricket Club,4th,27,27
+309,"Dench, Leo",Carlton Cricket Club,4th,27,27
+310,"Grummitt, Charlie",Camberwell Magpies Cricket Club,4th,26,13
+311,"Young, Dylan",St Kilda Cricket Club,4th,26,13
+312,"Halliday, Eli",Frankston Peninsula Cricket Club,4th,25,25
+313,"Awasthi, Archish",Dandenong Cricket Club,4th,25,12.5
+314,"Webb, James",Camberwell Magpies Cricket Club,4th,24,12
+315,"Thompson, Trent",Melbourne Cricket Club,4th,24,6
+316,"Jones, Lucas",Camberwell Magpies Cricket Club,4th,24,24
+317,"Bates, Aden",Ringwood Cricket Club,4th,23,23
+318,"Gudup, Salil",Carlton Cricket Club,4th,23,7.67
+319,"granberg, oskar",Geelong Cricket Club,4th,23,7.67
+320,"Rayner, Billy",Fitzroy Doncaster Cricket Club,4th,23,23
+321,"Stockdale, Hayden",Dandenong Cricket Club,4th,23,7.67
+322,"Holding, Jarred",Melbourne University Cricket Club,4th,23,11.5
+323,"Massey, Jack",Prahran Cricket Club,4th,22,22
+324,"Harms, Angus",Melbourne University Cricket Club,4th,21,21
+325,"Coull, Zachary",Geelong Cricket Club,4th,21,3.5
+326,"Khehra, Gurshan",St Kilda Cricket Club,4th,20,6.67
+327,"Pothula, Pranav",Melbourne University Cricket Club,4th,20,20
+328,"Gray, James",Greenvale Kangaroos Cricket Club,4th,20,6.67
+329,"Masroor, Sayed",Dandenong Cricket Club,4th,20,4
+330,"Stow, Bradley",Kingston Hawthorn Cricket Club,4th,20,6.67
+331,"Antonenko, Jaryd",Geelong Cricket Club,4th,19,9.5
+332,"D'Souza, Neil",Dandenong Cricket Club,4th,19,9.5
+333,"Saidi, Jahan",Kingston Hawthorn Cricket Club,4th,19,19
+334,"Maaskant, Joel",Fitzroy Doncaster Cricket Club,4th,19,6.33
+335,"McGinty, Seth",Carlton Cricket Club,4th,18,18
+336,"Ervine, Rohan",Ringwood Cricket Club,4th,18,18
+337,"Brasch, William",Prahran Cricket Club,4th,18,9
+338,"Kennedy, Matthew",Frankston Peninsula Cricket Club,4th,18,18
+339,"Upadhyay, Arjun",Melbourne University Cricket Club,4th,17,17
+340,"Lake, Ky",Footscray Cricket Club,4th,17,5.67
+341,"Morris, Charlie",Richmond Cricket Club (VIC),4th,17,8.5
+342,"Patel, Maahi",Geelong Cricket Club,4th,17,5.67
+343,"Kumar, Rishith",Casey South Melbourne Cricket Club,4th,16,5.33
+344,"Waghorn, Edison",Fitzroy Doncaster Cricket Club,4th,16,5.33
+345,"Finkelstein, Josh",Melbourne Cricket Club,4th,16,16
+346,"Graves, Nicholas",Prahran Cricket Club,4th,16,5.33
+347,"Guinea, Josh",Casey South Melbourne Cricket Club,4th,15,2.14
+348,"Pawar, Simarjit",Camberwell Magpies Cricket Club,4th,15,7.5
+349,"Lambert, Thomas",Northcote Cricket Club,4th,14,-
+350,"Lane, Caedon",Northcote Cricket Club,4th,14,-
+351,"Byrne, Gus",Footscray Cricket Club,4th,14,-
+352,"White, Cooper",Kingston Hawthorn Cricket Club,4th,13,4.33
+353,"McNiece, Jason",Kingston Hawthorn Cricket Club,4th,13,6.5
+354,"McInerney, Josh",Kingston Hawthorn Cricket Club,4th,13,6.5
+355,"Dikeos, George",Essendon Cricket Club,4th,13,4.33
+356,"Bhardwaj, Aryaman",Northcote Cricket Club,4th,13,6.5
+357,"Hester, Charlie",St Kilda Cricket Club,4th,13,13
+358,"Culloty, Ronan",Fitzroy Doncaster Cricket Club,4th,13,13
+359,"Marazita, Xavier",Footscray Cricket Club,4th,12,6
+360,"Jhajj, Deep",Dandenong Cricket Club,4th,12,2.4
+361,"Vanderslik, Thomas",Camberwell Magpies Cricket Club,4th,12,12
+362,"Khan, Qasim",Northcote Cricket Club,4th,11,5.5
+363,"Sharma, Advit",Dandenong Cricket Club,4th,11,5.5
+364,"Grace, Brendan",Fitzroy Doncaster Cricket Club,4th,11,11
+365,"Hunter, Kobey",Greenvale Kangaroos Cricket Club,4th,11,5.5
+366,"Pawlowicz, Jacob",Essendon Cricket Club,4th,10,10
+367,"Purcell, Thomas",Prahran Cricket Club,4th,10,10
+368,"Maduwa Guruge, Thinuk",Frankston Peninsula Cricket Club,4th,9,9
+369,"Rawani, Musaa",Dandenong Cricket Club,4th,9,4.5
+370,"Good, Fletcher",Melbourne Cricket Club,4th,9,9
+371,"Chopra, Arush",Camberwell Magpies Cricket Club,4th,9,9
+372,"NAJIBI, Mohammad",Casey South Melbourne Cricket Club,4th,9,9
+373,"Pandey, Paarth",Dandenong Cricket Club,4th,9,4.5
+374,"Paddington, Thomas",St Kilda Cricket Club,4th,8,8
+375,"Jesper, Rowan",Melbourne University Cricket Club,4th,8,8
+376,"Harris, Riley",Casey South Melbourne Cricket Club,4th,8,4
+377,"McGain, Liam",Prahran Cricket Club,4th,8,4
+378,"Patel, Parth",Geelong Cricket Club,4th,8,8
+379,"Nayak, Sid",Carlton Cricket Club,4th,8,4
+380,"Rodda, Will",Geelong Cricket Club,4th,8,8
+381,"Bull, Adam",Prahran Cricket Club,4th,8,-
+382,"De Bolfo, Steven",Prahran Cricket Club,4th,7,-
+383,"Abbott, Charlie",Prahran Cricket Club,4th,6,1.5
+384,"Nevett, Joshua",Camberwell Magpies Cricket Club,4th,6,6
+385,"Drenpa, Tenzin",Frankston Peninsula Cricket Club,4th,6,6
+386,"Fernando, Ravindu",Essendon Cricket Club,4th,5,-
+387,"Sheehan, Jake",Fitzroy Doncaster Cricket Club,4th,5,5
+388,"Ruwanpathirana, Mandiv",Northcote Cricket Club,4th,5,1.67
+389,"Horneman, Ezra",Ringwood Cricket Club,4th,5,5
+390,"Amarasinghe, Nisith",Dandenong Cricket Club,4th,5,-
+391,"Caldow, David",Carlton Cricket Club,4th,5,5
+392,"Blacker, Jamie",Fitzroy Doncaster Cricket Club,4th,5,2.5
+393,"Ceeney, Ashton",Dandenong Cricket Club,4th,5,5
+394,"Rath, Parth",Prahran Cricket Club,4th,4,-
+395,"Howell, Sam",Ringwood Cricket Club,4th,4,4
+396,"Garber, Sashin",Prahran Cricket Club,4th,4,4
+397,"Singh, Taran",Melbourne Cricket Club,4th,4,-
+398,"Munasinghe, Nigel K",Prahran Cricket Club,4th,4,1.33
+399,"Atkinson, Josh",Geelong Cricket Club,4th,4,-
+400,"Paulson, Henry",Greenvale Kangaroos Cricket Club,4th,4,4
+401,"Wood, Samuel",Footscray Cricket Club,4th,3,1.5
+402,"Reid Dick, Andrew",Melbourne Cricket Club,4th,3,-
+403,"Khaira, Japjeet",Northcote Cricket Club,4th,3,3
+404,"Lacey, Oliver",Camberwell Magpies Cricket Club,4th,3,-
+405,"Friedrich, Rikard",Greenvale Kangaroos Cricket Club,4th,3,1.5
+406,"Johnson, Nate",Geelong Cricket Club,4th,3,-
+407,"Farooq, Arham",St Kilda Cricket Club,4th,3,1.5
+408,"Zhang, Haochen",Fitzroy Doncaster Cricket Club,4th,2,2
+409,"Storrar, Izabella",Geelong Cricket Club,4th,2,2
+410,"Ward, Patrick",Carlton Cricket Club,4th,2,-
+411,"Oborne, Jack",Prahran Cricket Club,4th,2,2
+412,"Tiwari, Ishita",Dandenong Cricket Club,4th,2,2
+413,"Mehra, Aryan",Footscray Cricket Club,4th,2,-
+414,"Abdul Wasay, Muhammad",Essendon Cricket Club,4th,2,1
+415,"Dossor, Joseph",Fitzroy Doncaster Cricket Club,4th,2,-
+416,"Sweetlove, Kyle",Melbourne Cricket Club,4th,2,2
+417,"Hussain, Aga Danish",St Kilda Cricket Club,4th,2,-
+418,"Sharma, Rachit",Dandenong Cricket Club,4th,2,2
+419,"Kulkarni, Abhishek",Melbourne University Cricket Club,4th,2,2
+420,"Ingpen, Alex",Melbourne University Cricket Club,4th,2,-
+421,"Bharadwaj, Rahul",Camberwell Magpies Cricket Club,4th,1,1
+422,"McNamara, Jack",St Kilda Cricket Club,4th,1,-
+423,"Tucker, Maxwell",Melbourne Cricket Club,4th,1,-
+424,"Patel, Aadi",Footscray Cricket Club,4th,1,-
+425,"Appu, Laxman",Camberwell Magpies Cricket Club,4th,1,-
+426,"Seal, Zachary",Ringwood Cricket Club,4th,1,1
+427,"De Silva, Yuvin",Camberwell Magpies Cricket Club,4th,1,1
+428,"Buhagiar, Stephen",Essendon Cricket Club,4th,1,-
+429,"Raco, Fynn",Footscray Cricket Club,4th,1,-
+430,"Fanning, Xavier",Geelong Cricket Club,4th,1,0.5
+431,"Pinkney, George",Footscray Cricket Club,4th,1,1
+432,"Ward, Ashley",Carlton Cricket Club,4th,1,1
+433,"REDDYCHARLA, Jyothiryaditya Raju",St Kilda Cricket Club,4th,1,-
+434,"Khalid, Hasnain",Fitzroy Doncaster Cricket Club,4th,0,-
+435,"Hassan, Haris",Richmond Cricket Club (VIC),4th,0,-
+436,"Noonan, Darcy",Ringwood Cricket Club,4th,0,0
+437,"Dahiya, Dhanush",Carlton Cricket Club,4th,0,-
+438,"Sheridan, Nicholas",Fitzroy Doncaster Cricket Club,4th,0,-
+439,"Imhoff, Frederick",Melbourne Cricket Club,4th,0,-
+440,"Craig, Hamish",Geelong Cricket Club,4th,0,-
+441,"Bryant, Max",Prahran Cricket Club,4th,0,-
+442,"Kalupahana, Dunitha",Greenvale Kangaroos Cricket Club,4th,0,-
+443,"Tamber, Jujhar Singh",Carlton Cricket Club,4th,0,-
+444,"Doherty, Ryan",Ringwood Cricket Club,4th,0,-
+445,"Ahmadzai, Sajad Rahman",Richmond Cricket Club (VIC),4th,0,-
+446,"Perera, Jethri",Dandenong Cricket Club,4th,0,0
+447,"Seymour, Steve",Prahran Cricket Club,4th,0,-
+448,"Pender, Orlando",St Kilda Cricket Club,4th,0,-
+449,"Steele, Henry",Melbourne University Cricket Club,4th,0,-
+450,"Mirza, Rayyan",Richmond Cricket Club (VIC),4th,0,-
+451,"Dutton, Matt",Prahran Cricket Club,4th,0,-
+452,"McCooke, Stewart",Melbourne Cricket Club,4th,0,0
+453,"Marchant, Todd",Carlton Cricket Club,4th,0,-
+454,"Kulkarni, Sharad",Richmond Cricket Club (VIC),4th,0,-
+455,"Perera, Thenuka",Dandenong Cricket Club,4th,0,-
+456,"Crooks, Mitchell",St Kilda Cricket Club,4th,0,-
+457,"Jhandi, Mansukh",Fitzroy Doncaster Cricket Club,4th,0,0
+458,"Nandini, Tanush",Frankston Peninsula Cricket Club,4th,0,-
+459,"Ashton, Kade",Melbourne Cricket Club,4th,0,-
+460,"Waring, Trent",Greenvale Kangaroos Cricket Club,4th,0,0
+461,"Grimes, Thomas",Essendon Cricket Club,4th,0,-
+462,"lewis, alex",Fitzroy Doncaster Cricket Club,4th,0,-
+463,"Butt, Faaiz",Richmond Cricket Club (VIC),4th,0,0
+464,"Mant, Keiran",Kingston Hawthorn Cricket Club,4th,0,0
+465,"Wilkes, Zac",Fitzroy Doncaster Cricket Club,4th,0,0
+466,"Rehal, Ronit",Camberwell Magpies Cricket Club,4th,0,-
+467,"Jessup, Daniel",Essendon Cricket Club,4th,0,-
+468,"Wells, Dylan",Richmond Cricket Club (VIC),4th,0,-
+469,"McNamara, Reid",Northcote Cricket Club,4th,0,-
+470,"Bal, Abhayraj",Fitzroy Doncaster Cricket Club,4th,0,-
+471,"Islam, Mahdee",Kingston Hawthorn Cricket Club,4th,0,0
+472,"Agg, Travis",Geelong Cricket Club,4th,0,-
+473,"Noonan, John R",Kingston Hawthorn Cricket Club,4th,0,-
+474,"Woolfe, Lucas",Melbourne Cricket Club,4th,0,-
+475,"Kurzke, Caleb",Kingston Hawthorn Cricket Club,4th,0,0
+476,********,,4th,0,-
+477,"Greenhill, Oliver",Melbourne University Cricket Club,4th,0,-
+478,"Kremer-Slevin, Hunter",Melbourne University Cricket Club,4th,0,-
+479,"Branagan, Tim",Essendon Cricket Club,4th,0,0
+480,"Burchall, Connor",Northcote Cricket Club,4th,0,-
+481,"Reidy, George",St Kilda Cricket Club,4th,0,0
+482,"Smith, Hayden",Frankston Peninsula Cricket Club,4th,0,-
+483,"Nanjappa, Yashwin",Prahran Cricket Club,4th,0,-
+484,"Montgomery, Paul",Ringwood Cricket Club,4th,0,-
+485,"Sutton, Liam",Footscray Cricket Club,4th,0,-
+486,"Stove, Blake",Melbourne Cricket Club,4th,0,-
+487,"Schleiger, Oliver",Camberwell Magpies Cricket Club,4th,0,-
+488,"Shahzad, Talal",Frankston Peninsula Cricket Club,4th,0,-
+489,"Uppal, Abhayveer",Essendon Cricket Club,4th,0,0
+490,"Laurie, Mitchell",Melbourne University Cricket Club,4th,0,-
+491,"Sainsbury, Fred",Prahran Cricket Club,4th,0,-
+492,"Samuel, Elliot",Richmond Cricket Club (VIC),4th,0,-
+493,"SAINI, DAKSH",Camberwell Magpies Cricket Club,4th,0,-
+494,"Kamboj, Arjun",Northcote Cricket Club,4th,0,-
+495,"Parkinson, Daniel",Prahran Cricket Club,4th,0,-
+496,"Templeton, Levi",Fitzroy Doncaster Cricket Club,4th,0,-
+497,"Ahmadzai, Omid Rahman",Richmond Cricket Club (VIC),4th,0,0
+498,"Campbell, Lachlan",Footscray Cricket Club,4th,0,-
+499,"Cameron, Jarryd",Ringwood Cricket Club,4th,0,-
+500,"Verma, Ronit",Carlton Cricket Club,4th,0,-
+501,"Lidder, Yuvraj",St Kilda Cricket Club,4th,0,-
+502,"Singh, Maan Fabian",Essendon Cricket Club,4th,0,-
+503,"Singh, Harmanpreet",Casey South Melbourne Cricket Club,4th,0,-
+504,"Horneman, Amos",Ringwood Cricket Club,4th,0,-
+505,"Badhaan, Jessraj",Essendon Cricket Club,4th,0,-
+506,"Grant, Xavier",Geelong Cricket Club,4th,0,-
+507,"Arora, Aryan",Melbourne University Cricket Club,4th,0,-
+508,"Kaushik, Gurdarshan",Kingston Hawthorn Cricket Club,4th,0,-
+509,"O’Brien, Fisher",Kingston Hawthorn Cricket Club,4th,0,0
+510,"Edwards, Rory",Carlton Cricket Club,4th,0,-
+511,"Fernando, Viman",Greenvale Kangaroos Cricket Club,4th,0,0
+512,"La Brooy, Jake",Melbourne Cricket Club,4th,0,-
