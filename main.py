@@ -1,5 +1,5 @@
-import data_scraping as ds
-import data_uploading as du
+import Libraries.data_scraping as ds
+import Libraries.data_uploading as du
 import pandas as pd
 import json
 import os
