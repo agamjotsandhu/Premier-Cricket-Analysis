@@ -1,0 +1,21 @@
+# --- Project Specifics ---
+credentials.json
+.env
+csv/
+# --- Python / Data Science ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+env/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Data / Logs ---
+*.log
+# If you store raw CSVs/data locally that shouldn't be on GitHub:
+# data/
+# *.csv
