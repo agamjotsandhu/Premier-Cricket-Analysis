@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cricket Win Prediction — Feature Report</title>
+<style>
+  :root {
+    --bg:#0F172A; --surface:#1E293B; --surface2:#263144;
+    --border:#334155; --text:#E2E8F0; --muted:#94A3B8;
+    --green:#10B981; --red:#F87171; --yellow:#FCD34D;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,sans-serif;
+       line-height:1.6;padding:0 0 60px}
+
+  /* ── header ── */
+  header{background:linear-gradient(135deg,#0F2027,#203A43,#2C5364);
+          padding:48px 40px 40px;border-bottom:1px solid var(--border)}
+  header h1{font-size:2rem;font-weight:700;letter-spacing:-.02em}
+  header .subtitle{color:var(--muted);margin-top:4px;font-size:1rem}
+  .accuracy-pill{display:inline-block;margin-top:18px;
+                  background:rgba(16,185,129,.15);border:1px solid var(--green);
+                  color:var(--green);padding:6px 20px;border-radius:9999px;
+                  font-size:1.5rem;font-weight:700;letter-spacing:.04em}
+  .accuracy-label{font-size:.8rem;color:var(--muted);margin-left:8px;font-weight:400}
+
+  /* ── layout ── */
+  main{max-width:1080px;margin:0 auto;padding:40px 24px}
+  section{margin-bottom:48px}
+  h2{font-size:1.25rem;font-weight:600;margin-bottom:20px;padding-bottom:8px;
+      border-bottom:1px solid var(--border);color:var(--text)}
+
+  /* ── summary cards ── */
+  .summary-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:16px}
+  .stat-card{background:var(--surface);border:1px solid var(--border);
+              border-radius:12px;padding:20px;text-align:center}
+  .stat-val{font-size:2rem;font-weight:700}
+  .stat-label{font-size:.8rem;color:var(--muted);margin-top:4px}
+
+  /* ── confusion matrix ── */
+  .cm-wrap{display:flex;gap:32px;align-items:flex-start;flex-wrap:wrap}
+  .cm-table-wrap table{border-collapse:collapse;font-size:.9rem}
+  .cm-table-wrap th,.cm-table-wrap td{padding:10px 18px;border:1px solid var(--border);text-align:center}
+  .cm-table-wrap thead th{background:var(--surface2);color:var(--muted);font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+  .cm-table-wrap .axis-label{background:var(--surface2);color:var(--muted);font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;writing-mode:horizontal-tb}
+  .cm-tp{background:rgba(16,185,129,.15);color:var(--green);font-weight:700;font-size:1.1rem}
+  .cm-tn{background:rgba(16,185,129,.1);color:var(--green);font-weight:700;font-size:1.1rem}
+  .cm-fp{background:rgba(248,113,113,.15);color:var(--red);font-weight:700;font-size:1.1rem}
+  .cm-fn{background:rgba(248,113,113,.1);color:var(--red);font-weight:700;font-size:1.1rem}
+  .cm-note{background:var(--surface);border:1px solid var(--border);border-radius:10px;
+            padding:16px 20px;font-size:.87rem;color:var(--muted);max-width:380px}
+  .cm-note p{margin-bottom:8px}
+  .cm-note p:last-child{margin-bottom:0}
+
+  /* ── model metrics table ── */
+  .metrics-table{width:100%;border-collapse:collapse;font-size:.88rem}
+  .metrics-table th{padding:10px 14px;border-bottom:2px solid var(--border);
+                     text-align:left;color:var(--muted);font-weight:600;
+                     font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+  .metrics-table td{padding:10px 14px;border-bottom:1px solid var(--border)}
+  .metrics-table .best-row td{background:rgba(16,185,129,.07)}
+
+  /* ── importance chart ── */
+  .chart-row{display:flex;align-items:center;gap:12px;margin-bottom:8px;font-size:.83rem}
+  .chart-label{flex:0 0 220px;text-align:right;color:var(--muted);white-space:nowrap;
+                overflow:hidden;text-overflow:ellipsis}
+  .rank{color:var(--border);margin-right:6px;font-size:.75rem}
+  .chart-bar-wrap{flex:1;display:flex;align-items:center;gap:8px}
+  .chart-bar{height:16px;border-radius:4px;min-width:4px;transition:width .3s}
+  .chart-val{flex:0 0 44px;font-size:.78rem;color:var(--muted)}
+
+  /* ── feature cards ── */
+  .cards-grid{display:grid;gap:20px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:14px;
+         overflow:hidden;border-left:4px solid var(--accent)}
+  .card-header{display:flex;align-items:flex-start;gap:16px;padding:20px 20px 0}
+  .card-rank{font-size:1.6rem;font-weight:700;color:var(--border);flex:0 0 auto;
+              line-height:1;padding-top:2px}
+  .card-title-block{flex:1}
+  .card-feat{font-size:1rem;font-weight:700;font-family:monospace;letter-spacing:.02em}
+  .card-group{font-size:.78rem;font-weight:600;text-transform:uppercase;letter-spacing:.06em}
+  .card-imp-block{text-align:right;flex:0 0 auto}
+  .card-imp-num{font-size:1.4rem;font-weight:700}
+  .card-imp-sub{font-size:.75rem;color:var(--muted)}
+  .card-imp-bar-wrap{height:4px;background:var(--surface2);margin:12px 0 0}
+  .card-imp-bar{height:100%;border-radius:0 2px 2px 0}
+  .card-body{padding:12px 20px 0;font-size:.88rem;color:var(--muted)}
+  .card-body p{margin-bottom:8px}
+  .card-body strong{color:var(--text)}
+  .card-footer{padding:10px 20px 14px;display:flex;gap:8px;flex-wrap:wrap}
+  .badge{display:inline-block;padding:2px 10px;border-radius:9999px;font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:.05em}
+  .badge-base{background:rgba(148,163,184,.15);color:var(--muted)}
+  .badge-eng{background:rgba(219,39,119,.15);color:#F472B6}
+
+  /* ── insight box ── */
+  .insight-box{background:var(--surface);border:1px solid var(--border);
+                border-left:4px solid #2563EB;border-radius:12px;
+                padding:20px 24px;font-size:.9rem;color:var(--muted)}
+  .insight-box h3{color:var(--text);margin-bottom:8px;font-size:1rem}
+  .insight-box p{margin-bottom:10px}
+  .insight-box p:last-child{margin-bottom:0}
+  .hl{color:var(--text);font-weight:600}
+</style>
+</head>
+<body>
+<header>
+  <h1>Premier Cricket — Win Prediction Model</h1>
+  <p class="subtitle">Random Forest · Temporal validation (round 17 held out) · Feature importance report</p>
+  <div>
+    <span class="accuracy-pill">75.0%<span class="accuracy-label">validation accuracy</span></span>
+  </div>
+</header>
+
+<main>
+
+  <!-- ── MODEL PERFORMANCE ────────────────────────────────────────────── -->
+  <section>
+    <h2>Model Performance Summary</h2>
+    <table class="metrics-table">
+      <thead>
+        <tr>
+          <th>Model</th><th>Train Acc</th><th>Val Acc</th>
+          <th>Precision</th><th>Recall</th><th>F1</th><th>AUC</th>
+        </tr>
+      </thead>
+      <tbody><tr><td><strong>Logistic Regression</strong></td><td>89.9%</td><td><strong>66.7%</strong></td><td>66.7%</td><td>66.7%</td><td>66.7%</td><td>0.685</td></tr>
+<tr class="best-row"><td><strong>SVM (RBF)</strong></td><td>97.3%</td><td><strong>77.8%</strong></td><td>77.8%</td><td>77.8%</td><td>77.8%</td><td>0.852</td></tr>
+<tr><td><strong>Random Forest</strong></td><td>94.2%</td><td><strong>75.0%</strong></td><td>73.7%</td><td>77.8%</td><td>75.7%</td><td>0.812</td></tr></tbody>
+    </table>
+  </section>
+
+  <!-- ── CONFUSION MATRIX ─────────────────────────────────────────────── -->
+  <section>
+    <h2>Confusion Matrix — Round 17 Test Set</h2>
+    <div class="cm-wrap">
+      <div class="cm-table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th></th><th></th>
+              <th colspan="2">Predicted</th>
+            </tr>
+            <tr>
+              <th></th><th></th>
+              <th>Loss (0)</th><th>Win (1)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="axis-label" rowspan="2" style="writing-mode:vertical-rl;transform:rotate(180deg);text-align:center">Actual</td>
+              <td class="axis-label"><strong>Loss (0)</strong></td>
+              <td class="cm-tn">13<br><small>True Neg</small></td>
+              <td class="cm-fp">5<br><small>False Pos</small></td>
+            </tr>
+            <tr>
+              <td class="axis-label"><strong>Win (1)</strong></td>
+              <td class="cm-fn">4<br><small>False Neg</small></td>
+              <td class="cm-tp">14<br><small>True Pos</small></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="cm-note">
+        <p><span class="hl">Correctly classified: 27 / 36</span> (75.0%)</p>
+        <p>False positives (5): teams predicted to win that actually lost.
+           These tend to be sides that bowled efficiently but whose batting fell short.</p>
+        <p>False negatives (4): teams predicted to lose that actually won.
+           Often reflect very close finishes where the model's economy-diff signal
+           pointed the wrong way.</p>
+        <p>The test set is balanced (50 / 50 win rate), so a random classifier
+           would score 50% — this model is <span class="hl">25.0% above chance</span>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── IMPORTANCE CHART ─────────────────────────────────────────────── -->
+  <section>
+    <h2>Feature Importance (RF Gini impurity, sorted)</h2>
+    <div style="background:var(--surface);border:1px solid var(--border);
+                border-radius:12px;padding:24px">
+
+        <div class="chart-row">
+          <span class="chart-label" title="bowl_economy_diff">
+            <span class="rank">#1</span>bowl_economy_diff
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:100.0%;background:#2563EB"></div>
+            <span class="chart-val">0.408</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_wickets_lost">
+            <span class="rank">#2</span>bat_wickets_lost
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:23.5%;background:#059669"></div>
+            <span class="chart-val">0.096</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="our_bowl_economy">
+            <span class="rank">#3</span>our_bowl_economy
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:16.9%;background:#7C3AED"></div>
+            <span class="chart-val">0.069</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_dis_not_out">
+            <span class="rank">#4</span>bat_dis_not_out
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:16.0%;background:#059669"></div>
+            <span class="chart-val">0.066</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_total_runs">
+            <span class="rank">#5</span>bat_total_runs
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:15.7%;background:#059669"></div>
+            <span class="chart-val">0.064</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_n_batters">
+            <span class="rank">#6</span>bat_n_batters
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:15.5%;background:#059669"></div>
+            <span class="chart-val">0.063</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_boundary_runs">
+            <span class="rank">#7</span>bat_boundary_runs
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:12.5%;background:#059669"></div>
+            <span class="chart-val">0.051</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="our_bowl_overs">
+            <span class="rank">#8</span>our_bowl_overs
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:10.0%;background:#7C3AED"></div>
+            <span class="chart-val">0.041</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_strike_rate">
+            <span class="rank">#9</span>bat_strike_rate
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:7.9%;background:#059669"></div>
+            <span class="chart-val">0.032</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="overs_first_half_rr">
+            <span class="rank">#10</span>overs_first_half_rr
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:6.3%;background:#D97706"></div>
+            <span class="chart-val">0.026</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_bowl_joint_score">
+            <span class="rank">#11</span>bat_bowl_joint_score
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:6.3%;background:#DB2777"></div>
+            <span class="chart-val">0.026</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="overs_second_half_rr">
+            <span class="rank">#12</span>overs_second_half_rr
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:5.9%;background:#D97706"></div>
+            <span class="chart-val">0.024</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_boundary_pct">
+            <span class="rank">#13</span>bat_boundary_pct
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:5.0%;background:#059669"></div>
+            <span class="chart-val">0.020</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_dis_bowled">
+            <span class="rank">#14</span>bat_dis_bowled
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:2.8%;background:#059669"></div>
+            <span class="chart-val">0.012</span>
+          </div>
+        </div>
+
+        <div class="chart-row">
+          <span class="chart-label" title="bat_dis_run_out">
+            <span class="rank">#15</span>bat_dis_run_out
+          </span>
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="width:0.7%;background:#059669"></div>
+            <span class="chart-val">0.003</span>
+          </div>
+        </div>
+    </div>
+  </section>
+
+  <!-- ── KEY INSIGHT ──────────────────────────────────────────────────── -->
+  <section>
+    <h2>Key Insight</h2>
+    <div class="insight-box">
+      <h3>Why bowling economy differential dominates</h3>
+      <p>The single most predictive feature is <span class="hl">bowl_economy_diff</span>
+         (opposition economy minus our economy), carrying roughly
+         <span class="hl">41% of total feature importance</span>
+         in the Random Forest. This says: <em>the team whose bowlers conceded fewer runs
+         per over than the opposing bowlers is far more likely to win.</em></p>
+      <p>This makes cricketing sense. In club cricket, a bowling attack that restricts the
+         opposition to 2–3 runs per over while the opposing bowlers concede 4–5 per over
+         produces a run differential that is very hard to overcome — even for a batting lineup
+         that scores quickly, because the absolute difference in runs accumulates over
+         80–100 overs of two-day cricket.</p>
+      <p>A small but important caveat: the raw <code>runs_conceded</code> column in
+         bowling_data does not include extras (wides, no-balls, byes) that don't appear in
+         individual bowler figures. This means both economies carry a slight downward bias,
+         but because <em>both sides are affected equally</em> the differential remains a valid
+         relative signal.</p>
+    </div>
+  </section>
+
+  <!-- ── FEATURE CARDS ────────────────────────────────────────────────── -->
+  <section>
+    <h2>Feature Detail</h2>
+    <div class="cards-grid">
+
+      <div class="card" style="--accent:#2563EB">
+        <div class="card-header">
+          <div class="card-rank">#1</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bowl_economy_diff</h3>
+            <span class="card-group" style="color:#2563EB">Bowling (derived)</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.4083</div>
+            <div class="card-imp-sub">40.8% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:40.8%;background:#2563EB"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Opposition's economy minus our economy (positive = we bowled tighter).</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> A direct comparison of bowling quality. If we concede fewer runs per over than the opposition did against us, we have a bowling advantage.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-eng">engineered · iter 2</span></div>
+      </div>
+
+      <div class="card" style="--accent:#059669">
+        <div class="card-header">
+          <div class="card-rank">#2</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_wickets_lost</h3>
+            <span class="card-group" style="color:#059669">Batting</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0959</div>
+            <div class="card-imp-sub">9.6% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:9.6%;background:#059669"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Total official wickets lost across all innings (from scores.csv).</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> Fewer wickets lost means the team maintained their batting resources. An all-out innings (10 wickets) vs a declaration at 5 wickets tells very different stories about control.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#7C3AED">
+        <div class="card-header">
+          <div class="card-rank">#3</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">our_bowl_economy</h3>
+            <span class="card-group" style="color:#7C3AED">Own Bowling</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0688</div>
+            <div class="card-imp-sub">6.9% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:6.9%;background:#7C3AED"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Our team's economy rate (runs conceded per over) when bowling.</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> A lower economy means we restricted the opposition. This is a key complement to our batting total in determining match outcomes.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#059669">
+        <div class="card-header">
+          <div class="card-rank">#4</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_dis_not_out</h3>
+            <span class="card-group" style="color:#059669">Batting</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0655</div>
+            <div class="card-imp-sub">6.6% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:6.6%;background:#059669"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Number of batters who finished not out.</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> High not-out count means the batting team still had wickets in hand — often associated with a successful run chase or a declared innings.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#059669">
+        <div class="card-header">
+          <div class="card-rank">#5</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_total_runs</h3>
+            <span class="card-group" style="color:#059669">Batting</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0640</div>
+            <div class="card-imp-sub">6.4% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:6.4%;background:#059669"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Sum of individual batter contributions (excludes extras).</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> The most direct measure of batting output. Excludes wides/no-balls so it represents genuine batter productivity.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#059669">
+        <div class="card-header">
+          <div class="card-rank">#6</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_n_batters</h3>
+            <span class="card-group" style="color:#059669">Batting</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0633</div>
+            <div class="card-imp-sub">6.3% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:6.3%;background:#059669"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Number of players who batted (excluding 'did not bat').</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> In limited-overs games, a lower number can mean the team scored quickly and won without using their full batting order. In two-day games it reflects innings depth.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#059669">
+        <div class="card-header">
+          <div class="card-rank">#7</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_boundary_runs</h3>
+            <span class="card-group" style="color:#059669">Batting</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0511</div>
+            <div class="card-imp-sub">5.1% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:5.1%;background:#059669"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Runs scored through boundaries (4s × 4 + 6s × 6).</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> Boundary count is a direct measure of attacking batting. Teams that score heavily in boundaries often post large totals.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#7C3AED">
+        <div class="card-header">
+          <div class="card-rank">#8</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">our_bowl_overs</h3>
+            <span class="card-group" style="color:#7C3AED">Own Bowling</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0407</div>
+            <div class="card-imp-sub">4.1% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:4.1%;background:#7C3AED"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Total overs our team bowled against the opposition.</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> More overs means the match went longer from our bowling end. Combined with wickets, it helps define our bowling dominance.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#059669">
+        <div class="card-header">
+          <div class="card-rank">#9</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_strike_rate</h3>
+            <span class="card-group" style="color:#059669">Batting</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0324</div>
+            <div class="card-imp-sub">3.2% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:3.2%;background:#059669"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Runs per 100 balls faced.</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> Captures batting intent: aggressive teams score faster, which can signal momentum and pressure on the opposition.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#D97706">
+        <div class="card-header">
+          <div class="card-rank">#10</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">overs_first_half_rr</h3>
+            <span class="card-group" style="color:#D97706">Over-by-Over</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0258</div>
+            <div class="card-imp-sub">2.6% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:2.6%;background:#D97706"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Average runs per over in the first half of each innings.</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> Captures how quickly the team scored in the early phase. A high early run rate indicates the opposition bowlers struggled up front.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#DB2777">
+        <div class="card-header">
+          <div class="card-rank">#11</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_bowl_joint_score</h3>
+            <span class="card-group" style="color:#DB2777">Batting+Bowling (derived)</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0256</div>
+            <div class="card-imp-sub">2.6% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:2.6%;background:#DB2777"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Normalised product of batting total and wickets taken: (bat_total_runs/100) × (our_bowl_wickets/10).</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> Captures whether BOTH batting and bowling were strong simultaneously. A team that bowled well but batted poorly can still lose — this feature penalises that imbalance, helping separate true dominance from one-dimensional strength.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-eng">engineered · iter 2</span></div>
+      </div>
+
+      <div class="card" style="--accent:#D97706">
+        <div class="card-header">
+          <div class="card-rank">#12</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">overs_second_half_rr</h3>
+            <span class="card-group" style="color:#D97706">Over-by-Over</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0241</div>
+            <div class="card-imp-sub">2.4% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:2.4%;background:#D97706"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Average runs per over in the second half of each innings.</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> Captures death-overs / acceleration phase scoring. Teams that accelerate well in the back half post large, match-winning totals.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#059669">
+        <div class="card-header">
+          <div class="card-rank">#13</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_boundary_pct</h3>
+            <span class="card-group" style="color:#059669">Batting</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0204</div>
+            <div class="card-imp-sub">2.0% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:2.0%;background:#059669"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Fraction of team runs coming from boundaries.</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> High boundary percentage signals that most runs came from shots rather than running between wickets — a proxy for batting dominance.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#059669">
+        <div class="card-header">
+          <div class="card-rank">#14</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_dis_bowled</h3>
+            <span class="card-group" style="color:#059669">Batting</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0115</div>
+            <div class="card-imp-sub">1.2% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:1.2%;background:#059669"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Count of batters dismissed bowled.</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> Bowled dismissals suggest the bowler beat the bat through gaps — a sign of quality bowling or poor technique under pressure.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+
+      <div class="card" style="--accent:#059669">
+        <div class="card-header">
+          <div class="card-rank">#15</div>
+          <div class="card-title-block">
+            <h3 class="card-feat">bat_dis_run_out</h3>
+            <span class="card-group" style="color:#059669">Batting</span>
+          </div>
+          <div class="card-imp-block">
+            <div class="card-imp-num">0.0027</div>
+            <div class="card-imp-sub">0.3% of total</div>
+          </div>
+        </div>
+        <div class="card-imp-bar-wrap">
+          <div class="card-imp-bar" style="width:0.3%;background:#059669"></div>
+        </div>
+        <div class="card-body">
+          <p class="card-desc"><strong>What it measures:</strong> Count of run-out dismissals.</p>
+          <p class="card-rat"><strong>Why it predicts outcomes:</strong> Run-outs typically result from pressure, miscommunication, or aggressive running — a signal of a team under pressure or trying too hard to score.</p>
+        </div>
+        <div class="card-footer"><span class="badge badge-base">base feature</span></div>
+      </div>
+    </div>
+  </section>
+
+</main>
+</body>
+</html>

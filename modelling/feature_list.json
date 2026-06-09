@@ -1,0 +1,17 @@
+[
+  "bat_wickets_lost",
+  "bat_total_runs",
+  "bat_strike_rate",
+  "bat_n_batters",
+  "bat_dis_bowled",
+  "bat_dis_run_out",
+  "bat_dis_not_out",
+  "bat_boundary_runs",
+  "bat_boundary_pct",
+  "our_bowl_overs",
+  "our_bowl_economy",
+  "overs_first_half_rr",
+  "overs_second_half_rr",
+  "bowl_economy_diff",
+  "bat_bowl_joint_score"
+]
